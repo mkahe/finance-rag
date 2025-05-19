@@ -1,0 +1,6 @@
+ipykernel
+langchain
+openai
+tiktoken
+datasets 
+pandas
