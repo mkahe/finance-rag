@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local virtual environment
+#   If you are using a virtual environment, it is recommended to add the virtual environment
+labs/financebench-playground/myenv/
+labs/financebench_pdfs/

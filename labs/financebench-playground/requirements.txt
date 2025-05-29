@@ -1,6 +1,16 @@
 ipykernel
-langchain
 openai
 tiktoken
 datasets 
 pandas
+llama-index
+pymupdf
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+ollama
+numpy
+scikit-learn
+chromadb
