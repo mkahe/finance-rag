@@ -6,3 +6,8 @@ langchain
 langchain-community
 ollama
 tqdm
+evaluate
+nltk
+matplotlib
+rouge_score
+absl-py

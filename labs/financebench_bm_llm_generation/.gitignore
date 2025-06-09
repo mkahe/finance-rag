@@ -1,1 +1,4 @@
-financebench_llm_resutls.*
+financebench_llm_results.csv
+financebench_llm_results.json
+financebench_model_mean_scores.csv
+financebench_per_record_scores.csv
