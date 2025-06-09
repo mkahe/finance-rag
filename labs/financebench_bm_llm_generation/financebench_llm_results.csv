@@ -1,0 +1,2839 @@
+financebench_id,company,doc_name,question,evidence_text,reference_answer,model,generated_answer
+financebench_id_03029,3M,3M_2018_10K,What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flow s
+Years ended December 31
+ 
+(Millions)
+ 
+2018
+ 
+2017
+ 
+2016
+ 
+Cash Flows from Operating Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net income including noncontrolling interest
+ 
+$
+5,363 
+$
+4,869 
+$
+5,058 
+Adjustments to reconcile net income including noncontrolling interest to net cash
+provided by operating activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation and amortization
+ 
+ 
+1,488 
+ 
+1,544 
+ 
+1,474 
+Company pension and postretirement contributions
+ 
+ 
+(370) 
+ 
+(967) 
+ 
+(383) 
+Company pension and postretirement expense
+ 
+ 
+410 
+ 
+334 
+ 
+250 
+Stock-based compensation expense
+ 
+ 
+302 
+ 
+324 
+ 
+298 
+Gain on sale of businesses
+ 
+ 
+(545) 
+ 
+(586) 
+ 
+(111) 
+Deferred income taxes
+ 
+ 
+(57) 
+ 
+107 
+ 
+ 7 
+Changes in assets and liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounts receivable
+ 
+ 
+(305) 
+ 
+(245) 
+ 
+(313) 
+Inventories
+ 
+ 
+(509) 
+ 
+(387) 
+ 
+57 
+Accounts payable
+ 
+ 
+408 
+ 
+24 
+ 
+148 
+Accrued income taxes (current and long-term)
+ 
+ 
+134 
+ 
+967 
+ 
+101 
+Other net
+ 
+ 
+120 
+ 
+256 
+ 
+76 
+Net cash provided by (used in) operating activities
+ 
+ 
+6,439 
+ 
+6,240 
+ 
+6,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Investing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchases of property, plant and equipment (PP&E)
+ 
+ 
+(1,577) 
+ 
+(1,373) 
+ 
+(1,420) 
+Proceeds from sale of PP&E and other assets
+ 
+ 
+262 
+ 
+49 
+ 
+58 
+Acquisitions, net of cash acquired
+ 
+ 
+13 
+ 
+(2,023) 
+ 
+(16) 
+Purchases of marketable securities and investments
+ 
+ 
+(1,828) 
+ 
+(2,152) 
+ 
+(1,410) 
+Proceeds from maturities and sale of marketable securities and investments
+ 
+ 
+2,497 
+ 
+1,354 
+ 
+1,247 
+Proceeds from sale of businesses, net of cash sold
+ 
+ 
+846 
+ 
+1,065 
+ 
+142 
+Other net
+ 
+ 
+ 9 
+ 
+(6) 
+ 
+(4) 
+Net cash provided by (used in) investing activities
+ 
+ 
+222 
+ 
+(3,086) 
+ 
+(1,403) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Financing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in short-term debt net
+ 
+ 
+(284) 
+ 
+578 
+ 
+(797) 
+Repayment of debt (maturities greater than 90 days)
+ 
+ 
+(1,034) 
+ 
+(962) 
+ 
+(992) 
+Proceeds from debt (maturities greater than 90 days)
+ 
+ 
+2,251 
+ 
+1,987 
+ 
+2,832 
+Purchases of treasury stock
+ 
+ 
+(4,870) 
+ 
+(2,068) 
+ 
+(3,753) 
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans
+ 
+ 
+485 
+ 
+734 
+ 
+804 
+Dividends paid to shareholders
+ 
+ 
+(3,193) 
+ 
+(2,803) 
+ 
+(2,678) 
+Other net
+ 
+ 
+(56) 
+ 
+(121) 
+ 
+(42) 
+Net cash provided by (used in) financing activities
+ 
+ 
+(6,701) 
+ 
+(2,655) 
+ 
+(4,626) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 
+(160) 
+ 
+156 
+ 
+(33) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net increase (decrease) in cash and cash equivalents
+ 
+ 
+(200) 
+ 
+655 
+ 
+600 
+Cash and cash equivalents at beginning of year
+ 
+ 
+3,053 
+ 
+2,398 
+ 
+1,798 
+Cash and cash equivalents at end of period
+ 
+$
+2,853 
+$
+3,053 
+$
+2,398 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+ 
+60",$1577.00,llama3:8b,"According to the cash flow statement, the FY2018 capital expenditure amount for 3M is:
+
+$(1,577)
+
+in USD millions. This is listed under ""Purchases of property, plant and equipment (PP&E)"" in the Cash Flows from Investing Activities section."
+financebench_id_04672,3M,3M_2018_10K,Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Balance Shee t
+At December 31
+ 
+ 
+ 
+December 31,
+ 
+December 31,
+ 
+(Dollars in millions, except per share amount)
+ 
+2018
+ 
+2017
+ 
+Assets
+ 
+ 
+ 
+ 
+ 
+Current assets
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+ 
+$
+2,853 
+$
+3,053 
+Marketable securities current
+ 
+ 
+380 
+ 
+1,076 
+Accounts receivable net of allowances of $95 and $103
+ 
+ 
+5,020 
+ 
+4,911 
+Inventories
+ 
+ 
+ 
+ 
+ 
+Finished goods
+ 
+ 
+2,120 
+ 
+1,915 
+Work in process
+ 
+ 
+1,292 
+ 
+1,218 
+Raw materials and supplies
+ 
+ 
+954 
+ 
+901 
+Total inventories
+ 
+ 
+4,366 
+ 
+4,034 
+Prepaids
+ 
+ 
+741 
+ 
+937 
+Other current assets
+ 
+ 
+349 
+ 
+266 
+Total current assets
+ 
+ 
+13,709 
+ 
+14,277 
+Property, plant and equipment
+ 
+ 
+24,873 
+ 
+24,914 
+Less: Accumulated depreciation
+ 
+ 
+(16,135) 
+ 
+(16,048) 
+Property, plant and equipment net
+ 
+ 
+8,738 
+ 
+8,866 
+Goodwill
+ 
+ 
+10,051 
+ 
+10,513 
+Intangible assets net
+ 
+ 
+2,657 
+ 
+2,936 
+Other assets
+ 
+ 
+1,345 
+ 
+1,395 
+Total assets
+ 
+$
+36,500 
+$
+37,987 
+Liabilities
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+ 
+ 
+ 
+ 
+ 
+Short-term borrowings and current portion of long-term debt
+ 
+$
+1,211 
+$
+1,853 
+Accounts payable
+ 
+ 
+2,266 
+ 
+1,945 
+Accrued payroll
+ 
+ 
+749 
+ 
+870 
+Accrued income taxes
+ 
+ 
+243 
+ 
+310 
+Other current liabilities
+ 
+ 
+2,775 
+ 
+2,709 
+Total current liabilities
+ 
+ 
+7,244 
+ 
+7,687 
+ 
+ 
+ 
+ 
+ 
+ 
+Long-term debt
+ 
+ 
+13,411 
+ 
+12,096 
+Pension and postretirement benefits
+ 
+ 
+2,987 
+ 
+3,620 
+Other liabilities
+ 
+ 
+3,010 
+ 
+2,962 
+Total liabilities
+ 
+$
+26,652 
+$
+26,365 
+Commitments and contingencies (Note 16)
+ 
+ 
+ 
+ 
+ 
+Equity
+ 
+ 
+ 
+ 
+ 
+3M Company shareholders equity:
+ 
+ 
+ 
+ 
+ 
+Common stock par value, $.01 par value
+ 
+$
+ 9 
+$
+ 9 
+Shares outstanding - 2018: 576,575,168
+ 
+ 
+ 
+ 
+ 
+Shares outstanding - 2017: 594,884,237
+ 
+ 
+ 
+ 
+ 
+Additional paid-in capital
+ 
+ 
+5,643 
+ 
+5,352 
+Retained earnings
+ 
+ 
+40,636 
+ 
+39,115 
+Treasury stock
+ 
+ 
+(29,626) 
+ 
+(25,887) 
+Accumulated other comprehensive income (loss)
+ 
+ 
+(6,866) 
+ 
+(7,026) 
+Total 3M Company shareholders equity
+ 
+ 
+9,796 
+ 
+11,563 
+Noncontrolling interest
+ 
+ 
+52 
+ 
+59 
+Total equity
+ 
+$
+9,848 
+$
+11,622 
+Total liabilities and equity
+ 
+$
+36,500 
+$
+37,987 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+58",$8.70,llama3:8b,"The year-end FY2018 net PPNE (Property, Plant and Equipment) for 3M is $0.874 billion."
+financebench_id_00499,3M,3M_2022_10K,Is 3M a capital-intensive business based on FY2022 data?,"3M Company and Subsidiaries
+Consolidated Statement of Income
+Years ended December 31
+(Millions, except per share amounts)
+2022
+2021
+2020
+Net sales
+$
+34,229 $
+35,355 $
+32,184
+
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+At December 31
+(Dollars in millions, except per share amount)
+2022
+2021
+Assets
+Current assets
+Cash and cash equivalents
+$
+3,655 $
+4,564 
+Marketable securities current
+238 
+201 
+Accounts receivable net of allowances of $174 and $189
+4,532 
+4,660 
+Inventories
+Finished goods
+2,497 
+2,196 
+Work in process
+1,606 
+1,577 
+Raw materials and supplies
+1,269 
+1,212 
+Total inventories
+5,372 
+4,985 
+Prepaids
+435 
+654 
+Other current assets
+456 
+339 
+Total current assets
+14,688 
+15,403 
+Property, plant and equipment
+25,998 
+27,213 
+Less: Accumulated depreciation
+(16,820)
+(17,784)
+Property, plant and equipment net
+9,178 
+9,429 
+Operating lease right of use assets
+829 
+858 
+Goodwill
+12,790 
+13,486 
+Intangible assets net
+4,699 
+5,288 
+Other assets
+4,271 
+2,608 
+Total assets
+$
+46,455 $
+47,072
+
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flows
+Years ended December 31
+(Millions)
+2022
+2021
+2020
+Cash Flows from Operating Activities
+Net income including noncontrolling interest
+$
+5,791 $
+5,929 $
+5,453 
+Adjustments to reconcile net income including noncontrolling interest to net cash provided by operating
+activities
+Depreciation and amortization
+1,831 
+1,915 
+1,911 
+Long-lived and indefinite-lived asset impairment expense
+618 
+ 
+6 
+Goodwill impairment expense
+271 
+ 
+ 
+Company pension and postretirement contributions
+(158)
+(180)
+(156)
+Company pension and postretirement expense
+178 
+206 
+322 
+Stock-based compensation expense
+263 
+274 
+262 
+Gain on business divestitures
+(2,724)
+ 
+(389)
+Deferred income taxes
+(663)
+(166)
+(165)
+Changes in assets and liabilities
+Accounts receivable
+(105)
+(122)
+165 
+Inventories
+(629)
+(903)
+(91)
+Accounts payable
+111 
+518 
+252 
+Accrued income taxes (current and long-term)
+(47)
+(244)
+132 
+Other net
+854 
+227 
+411 
+Net cash provided by (used in) operating activities
+5,591 
+7,454 
+8,113 
+Cash Flows from Investing Activities
+Purchases of property, plant and equipment (PP&E)
+(1,749)
+(1,603)
+(1,501)","No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%",llama3:8b,Yes.
+financebench_id_01226,3M,3M_2022_10K,"What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.","SG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant
+litigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately
+$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring
+charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost
+management.","Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges",llama3:8b,The significant litigation costs primarily related to Combat Arms Earplugs litigation.
+financebench_id_01865,3M,3M_2022_10K,"If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?","Worldwide Sales Change 
+By Business Segment
+Organic sales
+Acquisitions
+Divestitures
+Translation
+Total sales change
+Safety and Industrial
+1.0 %
+ 
+ %
+ %
+(4.2) %
+(3.2) %
+Transportation and Electronics
+1.2 
+ 
+(0.5)
+(4.6)
+(3.9)
+Health Care
+3.2 
+ 
+(1.4)
+(3.8)
+(2.0)
+Consumer
+(0.9)
+ 
+(0.4)
+(2.6)
+(3.9)
+Total Company
+1.2 
+ 
+(0.5)
+(3.9)
+(3.2)",The consumer segment shrunk by 0.9% organically.,llama3:8b,Consumer
+financebench_id_03029,3M,3M_2018_10K,What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flow s
+Years ended December 31
+ 
+(Millions)
+ 
+2018
+ 
+2017
+ 
+2016
+ 
+Cash Flows from Operating Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net income including noncontrolling interest
+ 
+$
+5,363 
+$
+4,869 
+$
+5,058 
+Adjustments to reconcile net income including noncontrolling interest to net cash
+provided by operating activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation and amortization
+ 
+ 
+1,488 
+ 
+1,544 
+ 
+1,474 
+Company pension and postretirement contributions
+ 
+ 
+(370) 
+ 
+(967) 
+ 
+(383) 
+Company pension and postretirement expense
+ 
+ 
+410 
+ 
+334 
+ 
+250 
+Stock-based compensation expense
+ 
+ 
+302 
+ 
+324 
+ 
+298 
+Gain on sale of businesses
+ 
+ 
+(545) 
+ 
+(586) 
+ 
+(111) 
+Deferred income taxes
+ 
+ 
+(57) 
+ 
+107 
+ 
+ 7 
+Changes in assets and liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounts receivable
+ 
+ 
+(305) 
+ 
+(245) 
+ 
+(313) 
+Inventories
+ 
+ 
+(509) 
+ 
+(387) 
+ 
+57 
+Accounts payable
+ 
+ 
+408 
+ 
+24 
+ 
+148 
+Accrued income taxes (current and long-term)
+ 
+ 
+134 
+ 
+967 
+ 
+101 
+Other net
+ 
+ 
+120 
+ 
+256 
+ 
+76 
+Net cash provided by (used in) operating activities
+ 
+ 
+6,439 
+ 
+6,240 
+ 
+6,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Investing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchases of property, plant and equipment (PP&E)
+ 
+ 
+(1,577) 
+ 
+(1,373) 
+ 
+(1,420) 
+Proceeds from sale of PP&E and other assets
+ 
+ 
+262 
+ 
+49 
+ 
+58 
+Acquisitions, net of cash acquired
+ 
+ 
+13 
+ 
+(2,023) 
+ 
+(16) 
+Purchases of marketable securities and investments
+ 
+ 
+(1,828) 
+ 
+(2,152) 
+ 
+(1,410) 
+Proceeds from maturities and sale of marketable securities and investments
+ 
+ 
+2,497 
+ 
+1,354 
+ 
+1,247 
+Proceeds from sale of businesses, net of cash sold
+ 
+ 
+846 
+ 
+1,065 
+ 
+142 
+Other net
+ 
+ 
+ 9 
+ 
+(6) 
+ 
+(4) 
+Net cash provided by (used in) investing activities
+ 
+ 
+222 
+ 
+(3,086) 
+ 
+(1,403) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Financing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in short-term debt net
+ 
+ 
+(284) 
+ 
+578 
+ 
+(797) 
+Repayment of debt (maturities greater than 90 days)
+ 
+ 
+(1,034) 
+ 
+(962) 
+ 
+(992) 
+Proceeds from debt (maturities greater than 90 days)
+ 
+ 
+2,251 
+ 
+1,987 
+ 
+2,832 
+Purchases of treasury stock
+ 
+ 
+(4,870) 
+ 
+(2,068) 
+ 
+(3,753) 
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans
+ 
+ 
+485 
+ 
+734 
+ 
+804 
+Dividends paid to shareholders
+ 
+ 
+(3,193) 
+ 
+(2,803) 
+ 
+(2,678) 
+Other net
+ 
+ 
+(56) 
+ 
+(121) 
+ 
+(42) 
+Net cash provided by (used in) financing activities
+ 
+ 
+(6,701) 
+ 
+(2,655) 
+ 
+(4,626) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 
+(160) 
+ 
+156 
+ 
+(33) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net increase (decrease) in cash and cash equivalents
+ 
+ 
+(200) 
+ 
+655 
+ 
+600 
+Cash and cash equivalents at beginning of year
+ 
+ 
+3,053 
+ 
+2,398 
+ 
+1,798 
+Cash and cash equivalents at end of period
+ 
+$
+2,853 
+$
+3,053 
+$
+2,398 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+ 
+60",$1577.00,gemma:7b,"The FY2018 capital expenditure amount for 3M is (1,577) million USD."
+financebench_id_04672,3M,3M_2018_10K,Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Balance Shee t
+At December 31
+ 
+ 
+ 
+December 31,
+ 
+December 31,
+ 
+(Dollars in millions, except per share amount)
+ 
+2018
+ 
+2017
+ 
+Assets
+ 
+ 
+ 
+ 
+ 
+Current assets
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+ 
+$
+2,853 
+$
+3,053 
+Marketable securities current
+ 
+ 
+380 
+ 
+1,076 
+Accounts receivable net of allowances of $95 and $103
+ 
+ 
+5,020 
+ 
+4,911 
+Inventories
+ 
+ 
+ 
+ 
+ 
+Finished goods
+ 
+ 
+2,120 
+ 
+1,915 
+Work in process
+ 
+ 
+1,292 
+ 
+1,218 
+Raw materials and supplies
+ 
+ 
+954 
+ 
+901 
+Total inventories
+ 
+ 
+4,366 
+ 
+4,034 
+Prepaids
+ 
+ 
+741 
+ 
+937 
+Other current assets
+ 
+ 
+349 
+ 
+266 
+Total current assets
+ 
+ 
+13,709 
+ 
+14,277 
+Property, plant and equipment
+ 
+ 
+24,873 
+ 
+24,914 
+Less: Accumulated depreciation
+ 
+ 
+(16,135) 
+ 
+(16,048) 
+Property, plant and equipment net
+ 
+ 
+8,738 
+ 
+8,866 
+Goodwill
+ 
+ 
+10,051 
+ 
+10,513 
+Intangible assets net
+ 
+ 
+2,657 
+ 
+2,936 
+Other assets
+ 
+ 
+1,345 
+ 
+1,395 
+Total assets
+ 
+$
+36,500 
+$
+37,987 
+Liabilities
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+ 
+ 
+ 
+ 
+ 
+Short-term borrowings and current portion of long-term debt
+ 
+$
+1,211 
+$
+1,853 
+Accounts payable
+ 
+ 
+2,266 
+ 
+1,945 
+Accrued payroll
+ 
+ 
+749 
+ 
+870 
+Accrued income taxes
+ 
+ 
+243 
+ 
+310 
+Other current liabilities
+ 
+ 
+2,775 
+ 
+2,709 
+Total current liabilities
+ 
+ 
+7,244 
+ 
+7,687 
+ 
+ 
+ 
+ 
+ 
+ 
+Long-term debt
+ 
+ 
+13,411 
+ 
+12,096 
+Pension and postretirement benefits
+ 
+ 
+2,987 
+ 
+3,620 
+Other liabilities
+ 
+ 
+3,010 
+ 
+2,962 
+Total liabilities
+ 
+$
+26,652 
+$
+26,365 
+Commitments and contingencies (Note 16)
+ 
+ 
+ 
+ 
+ 
+Equity
+ 
+ 
+ 
+ 
+ 
+3M Company shareholders equity:
+ 
+ 
+ 
+ 
+ 
+Common stock par value, $.01 par value
+ 
+$
+ 9 
+$
+ 9 
+Shares outstanding - 2018: 576,575,168
+ 
+ 
+ 
+ 
+ 
+Shares outstanding - 2017: 594,884,237
+ 
+ 
+ 
+ 
+ 
+Additional paid-in capital
+ 
+ 
+5,643 
+ 
+5,352 
+Retained earnings
+ 
+ 
+40,636 
+ 
+39,115 
+Treasury stock
+ 
+ 
+(29,626) 
+ 
+(25,887) 
+Accumulated other comprehensive income (loss)
+ 
+ 
+(6,866) 
+ 
+(7,026) 
+Total 3M Company shareholders equity
+ 
+ 
+9,796 
+ 
+11,563 
+Noncontrolling interest
+ 
+ 
+52 
+ 
+59 
+Total equity
+ 
+$
+9,848 
+$
+11,622 
+Total liabilities and equity
+ 
+$
+36,500 
+$
+37,987 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+58",$8.70,gemma:7b,"The provided text does not contain information regarding the year end FY2018 net PPNE for 3M, so I am unable to answer this question from the given context."
+financebench_id_00499,3M,3M_2022_10K,Is 3M a capital-intensive business based on FY2022 data?,"3M Company and Subsidiaries
+Consolidated Statement of Income
+Years ended December 31
+(Millions, except per share amounts)
+2022
+2021
+2020
+Net sales
+$
+34,229 $
+35,355 $
+32,184
+
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+At December 31
+(Dollars in millions, except per share amount)
+2022
+2021
+Assets
+Current assets
+Cash and cash equivalents
+$
+3,655 $
+4,564 
+Marketable securities current
+238 
+201 
+Accounts receivable net of allowances of $174 and $189
+4,532 
+4,660 
+Inventories
+Finished goods
+2,497 
+2,196 
+Work in process
+1,606 
+1,577 
+Raw materials and supplies
+1,269 
+1,212 
+Total inventories
+5,372 
+4,985 
+Prepaids
+435 
+654 
+Other current assets
+456 
+339 
+Total current assets
+14,688 
+15,403 
+Property, plant and equipment
+25,998 
+27,213 
+Less: Accumulated depreciation
+(16,820)
+(17,784)
+Property, plant and equipment net
+9,178 
+9,429 
+Operating lease right of use assets
+829 
+858 
+Goodwill
+12,790 
+13,486 
+Intangible assets net
+4,699 
+5,288 
+Other assets
+4,271 
+2,608 
+Total assets
+$
+46,455 $
+47,072
+
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flows
+Years ended December 31
+(Millions)
+2022
+2021
+2020
+Cash Flows from Operating Activities
+Net income including noncontrolling interest
+$
+5,791 $
+5,929 $
+5,453 
+Adjustments to reconcile net income including noncontrolling interest to net cash provided by operating
+activities
+Depreciation and amortization
+1,831 
+1,915 
+1,911 
+Long-lived and indefinite-lived asset impairment expense
+618 
+ 
+6 
+Goodwill impairment expense
+271 
+ 
+ 
+Company pension and postretirement contributions
+(158)
+(180)
+(156)
+Company pension and postretirement expense
+178 
+206 
+322 
+Stock-based compensation expense
+263 
+274 
+262 
+Gain on business divestitures
+(2,724)
+ 
+(389)
+Deferred income taxes
+(663)
+(166)
+(165)
+Changes in assets and liabilities
+Accounts receivable
+(105)
+(122)
+165 
+Inventories
+(629)
+(903)
+(91)
+Accounts payable
+111 
+518 
+252 
+Accrued income taxes (current and long-term)
+(47)
+(244)
+132 
+Other net
+854 
+227 
+411 
+Net cash provided by (used in) operating activities
+5,591 
+7,454 
+8,113 
+Cash Flows from Investing Activities
+Purchases of property, plant and equipment (PP&E)
+(1,749)
+(1,603)
+(1,501)","No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%",gemma:7b,"Yes, 3M is a capital-intensive business based on FY2022 data, as evidenced by its high property, plant and equipment investments and low cash flow from investing activities."
+financebench_id_01226,3M,3M_2022_10K,"What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.","SG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant
+litigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately
+$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring
+charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost
+management.","Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges",gemma:7b,"The provided text does not contain information regarding operating margin for FY2022, so I am unable to answer the question."
+financebench_id_01865,3M,3M_2022_10K,"If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?","Worldwide Sales Change 
+By Business Segment
+Organic sales
+Acquisitions
+Divestitures
+Translation
+Total sales change
+Safety and Industrial
+1.0 %
+ 
+ %
+ %
+(4.2) %
+(3.2) %
+Transportation and Electronics
+1.2 
+ 
+(0.5)
+(4.6)
+(3.9)
+Health Care
+3.2 
+ 
+(1.4)
+(3.8)
+(2.0)
+Consumer
+(0.9)
+ 
+(0.4)
+(2.6)
+(3.9)
+Total Company
+1.2 
+ 
+(0.5)
+(3.9)
+(3.2)",The consumer segment shrunk by 0.9% organically.,gemma:7b,"Consumer segment has dragged down 3M's overall growth in 2022, excluding the impact of M&A."
+financebench_id_03029,3M,3M_2018_10K,What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flow s
+Years ended December 31
+ 
+(Millions)
+ 
+2018
+ 
+2017
+ 
+2016
+ 
+Cash Flows from Operating Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net income including noncontrolling interest
+ 
+$
+5,363 
+$
+4,869 
+$
+5,058 
+Adjustments to reconcile net income including noncontrolling interest to net cash
+provided by operating activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation and amortization
+ 
+ 
+1,488 
+ 
+1,544 
+ 
+1,474 
+Company pension and postretirement contributions
+ 
+ 
+(370) 
+ 
+(967) 
+ 
+(383) 
+Company pension and postretirement expense
+ 
+ 
+410 
+ 
+334 
+ 
+250 
+Stock-based compensation expense
+ 
+ 
+302 
+ 
+324 
+ 
+298 
+Gain on sale of businesses
+ 
+ 
+(545) 
+ 
+(586) 
+ 
+(111) 
+Deferred income taxes
+ 
+ 
+(57) 
+ 
+107 
+ 
+ 7 
+Changes in assets and liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounts receivable
+ 
+ 
+(305) 
+ 
+(245) 
+ 
+(313) 
+Inventories
+ 
+ 
+(509) 
+ 
+(387) 
+ 
+57 
+Accounts payable
+ 
+ 
+408 
+ 
+24 
+ 
+148 
+Accrued income taxes (current and long-term)
+ 
+ 
+134 
+ 
+967 
+ 
+101 
+Other net
+ 
+ 
+120 
+ 
+256 
+ 
+76 
+Net cash provided by (used in) operating activities
+ 
+ 
+6,439 
+ 
+6,240 
+ 
+6,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Investing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchases of property, plant and equipment (PP&E)
+ 
+ 
+(1,577) 
+ 
+(1,373) 
+ 
+(1,420) 
+Proceeds from sale of PP&E and other assets
+ 
+ 
+262 
+ 
+49 
+ 
+58 
+Acquisitions, net of cash acquired
+ 
+ 
+13 
+ 
+(2,023) 
+ 
+(16) 
+Purchases of marketable securities and investments
+ 
+ 
+(1,828) 
+ 
+(2,152) 
+ 
+(1,410) 
+Proceeds from maturities and sale of marketable securities and investments
+ 
+ 
+2,497 
+ 
+1,354 
+ 
+1,247 
+Proceeds from sale of businesses, net of cash sold
+ 
+ 
+846 
+ 
+1,065 
+ 
+142 
+Other net
+ 
+ 
+ 9 
+ 
+(6) 
+ 
+(4) 
+Net cash provided by (used in) investing activities
+ 
+ 
+222 
+ 
+(3,086) 
+ 
+(1,403) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Financing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in short-term debt net
+ 
+ 
+(284) 
+ 
+578 
+ 
+(797) 
+Repayment of debt (maturities greater than 90 days)
+ 
+ 
+(1,034) 
+ 
+(962) 
+ 
+(992) 
+Proceeds from debt (maturities greater than 90 days)
+ 
+ 
+2,251 
+ 
+1,987 
+ 
+2,832 
+Purchases of treasury stock
+ 
+ 
+(4,870) 
+ 
+(2,068) 
+ 
+(3,753) 
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans
+ 
+ 
+485 
+ 
+734 
+ 
+804 
+Dividends paid to shareholders
+ 
+ 
+(3,193) 
+ 
+(2,803) 
+ 
+(2,678) 
+Other net
+ 
+ 
+(56) 
+ 
+(121) 
+ 
+(42) 
+Net cash provided by (used in) financing activities
+ 
+ 
+(6,701) 
+ 
+(2,655) 
+ 
+(4,626) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 
+(160) 
+ 
+156 
+ 
+(33) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net increase (decrease) in cash and cash equivalents
+ 
+ 
+(200) 
+ 
+655 
+ 
+600 
+Cash and cash equivalents at beginning of year
+ 
+ 
+3,053 
+ 
+2,398 
+ 
+1,798 
+Cash and cash equivalents at end of period
+ 
+$
+2,853 
+$
+3,053 
+$
+2,398 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+ 
+60",$1577.00,deepseek-r1:7b,"<think>
+Okay, so I need to find the FY2018 capital expenditure amount for 3M using the provided cash flow statements. Let me look through the context given.
+
+First, I remember that capital expenditures are typically recorded under the investing activities section of a cash flow statement. In the table provided, under Cash Flows from Investing Activities, there's a line item called ""Purchases of property, plant and equipment (PP&E)"" with amounts for each year.
+
+Looking at the data:
+
+For 2018: The value is $(1,577) million.
+Wait, but negative numbers can indicate outflows. So purchases would be an outflow, hence a negative number here. But I need to confirm if this represents the actual expenditure amount or the net change.
+
+In cash flow statements, when you see a negative under an activity like investing, it usually means that cash was spent, which is a capital expenditure. So the absolute value of this number would be the amount spent on PP&E in 2018.
+
+So for FY2018, the purchase of PP&E is $1,577 million. Therefore, the capital expenditure amount for 3M in FY2018 is USD 1,577 million.
+</think>
+
+The FY2018 capital expenditure amount for 3M is **$1,577 million**.
+
+Answer: $1,577 million"
+financebench_id_04672,3M,3M_2018_10K,Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Balance Shee t
+At December 31
+ 
+ 
+ 
+December 31,
+ 
+December 31,
+ 
+(Dollars in millions, except per share amount)
+ 
+2018
+ 
+2017
+ 
+Assets
+ 
+ 
+ 
+ 
+ 
+Current assets
+ 
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+ 
+$
+2,853 
+$
+3,053 
+Marketable securities current
+ 
+ 
+380 
+ 
+1,076 
+Accounts receivable net of allowances of $95 and $103
+ 
+ 
+5,020 
+ 
+4,911 
+Inventories
+ 
+ 
+ 
+ 
+ 
+Finished goods
+ 
+ 
+2,120 
+ 
+1,915 
+Work in process
+ 
+ 
+1,292 
+ 
+1,218 
+Raw materials and supplies
+ 
+ 
+954 
+ 
+901 
+Total inventories
+ 
+ 
+4,366 
+ 
+4,034 
+Prepaids
+ 
+ 
+741 
+ 
+937 
+Other current assets
+ 
+ 
+349 
+ 
+266 
+Total current assets
+ 
+ 
+13,709 
+ 
+14,277 
+Property, plant and equipment
+ 
+ 
+24,873 
+ 
+24,914 
+Less: Accumulated depreciation
+ 
+ 
+(16,135) 
+ 
+(16,048) 
+Property, plant and equipment net
+ 
+ 
+8,738 
+ 
+8,866 
+Goodwill
+ 
+ 
+10,051 
+ 
+10,513 
+Intangible assets net
+ 
+ 
+2,657 
+ 
+2,936 
+Other assets
+ 
+ 
+1,345 
+ 
+1,395 
+Total assets
+ 
+$
+36,500 
+$
+37,987 
+Liabilities
+ 
+ 
+ 
+ 
+ 
+Current liabilities
+ 
+ 
+ 
+ 
+ 
+Short-term borrowings and current portion of long-term debt
+ 
+$
+1,211 
+$
+1,853 
+Accounts payable
+ 
+ 
+2,266 
+ 
+1,945 
+Accrued payroll
+ 
+ 
+749 
+ 
+870 
+Accrued income taxes
+ 
+ 
+243 
+ 
+310 
+Other current liabilities
+ 
+ 
+2,775 
+ 
+2,709 
+Total current liabilities
+ 
+ 
+7,244 
+ 
+7,687 
+ 
+ 
+ 
+ 
+ 
+ 
+Long-term debt
+ 
+ 
+13,411 
+ 
+12,096 
+Pension and postretirement benefits
+ 
+ 
+2,987 
+ 
+3,620 
+Other liabilities
+ 
+ 
+3,010 
+ 
+2,962 
+Total liabilities
+ 
+$
+26,652 
+$
+26,365 
+Commitments and contingencies (Note 16)
+ 
+ 
+ 
+ 
+ 
+Equity
+ 
+ 
+ 
+ 
+ 
+3M Company shareholders equity:
+ 
+ 
+ 
+ 
+ 
+Common stock par value, $.01 par value
+ 
+$
+ 9 
+$
+ 9 
+Shares outstanding - 2018: 576,575,168
+ 
+ 
+ 
+ 
+ 
+Shares outstanding - 2017: 594,884,237
+ 
+ 
+ 
+ 
+ 
+Additional paid-in capital
+ 
+ 
+5,643 
+ 
+5,352 
+Retained earnings
+ 
+ 
+40,636 
+ 
+39,115 
+Treasury stock
+ 
+ 
+(29,626) 
+ 
+(25,887) 
+Accumulated other comprehensive income (loss)
+ 
+ 
+(6,866) 
+ 
+(7,026) 
+Total 3M Company shareholders equity
+ 
+ 
+9,796 
+ 
+11,563 
+Noncontrolling interest
+ 
+ 
+52 
+ 
+59 
+Total equity
+ 
+$
+9,848 
+$
+11,622 
+Total liabilities and equity
+ 
+$
+36,500 
+$
+37,987 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+58",$8.70,deepseek-r1:7b,"<think>
+Okay, so I need to figure out the year-end FY2018 net property, plant, and equipment (PPNE) for 3M based on the provided balance sheet. Let me break this down step by step.
+
+First, looking at the table, the total assets are listed as $36,500 million. Then, under Property, Plant, and Equipment, it shows $8,738 million net after accumulated depreciation. That makes sense because PPNE is typically reported at cost minus accumulated depreciation.
+
+So, I think that means the net PPNE would be the Property, Plant, and Equipment line item from 2018, which is $8,738 million. 
+
+But wait, sometimes companies also have intangible assets or other non-physical assets listed under property, plant, and equipment. However, in this case, the balance sheet specifically lists PPNE as a separate category before others like goodwill and intangibles.
+
+I should check if there's any adjustment needed for changes in accumulated depreciation or other factors, but since the question is asking just for the year-end net PPNE, it's simply the listed amount after depreciation. 
+
+So, converting $8,738 million to billions would be approximately $8.74 billion.
+</think>
+
+The year-end FY2018 net property, plant, and equipment (PPNE) for 3M is $8.74 billion.
+
+Answer: $8.74 billion"
+financebench_id_00499,3M,3M_2022_10K,Is 3M a capital-intensive business based on FY2022 data?,"3M Company and Subsidiaries
+Consolidated Statement of Income
+Years ended December 31
+(Millions, except per share amounts)
+2022
+2021
+2020
+Net sales
+$
+34,229 $
+35,355 $
+32,184
+
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+At December 31
+(Dollars in millions, except per share amount)
+2022
+2021
+Assets
+Current assets
+Cash and cash equivalents
+$
+3,655 $
+4,564 
+Marketable securities current
+238 
+201 
+Accounts receivable net of allowances of $174 and $189
+4,532 
+4,660 
+Inventories
+Finished goods
+2,497 
+2,196 
+Work in process
+1,606 
+1,577 
+Raw materials and supplies
+1,269 
+1,212 
+Total inventories
+5,372 
+4,985 
+Prepaids
+435 
+654 
+Other current assets
+456 
+339 
+Total current assets
+14,688 
+15,403 
+Property, plant and equipment
+25,998 
+27,213 
+Less: Accumulated depreciation
+(16,820)
+(17,784)
+Property, plant and equipment net
+9,178 
+9,429 
+Operating lease right of use assets
+829 
+858 
+Goodwill
+12,790 
+13,486 
+Intangible assets net
+4,699 
+5,288 
+Other assets
+4,271 
+2,608 
+Total assets
+$
+46,455 $
+47,072
+
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flows
+Years ended December 31
+(Millions)
+2022
+2021
+2020
+Cash Flows from Operating Activities
+Net income including noncontrolling interest
+$
+5,791 $
+5,929 $
+5,453 
+Adjustments to reconcile net income including noncontrolling interest to net cash provided by operating
+activities
+Depreciation and amortization
+1,831 
+1,915 
+1,911 
+Long-lived and indefinite-lived asset impairment expense
+618 
+ 
+6 
+Goodwill impairment expense
+271 
+ 
+ 
+Company pension and postretirement contributions
+(158)
+(180)
+(156)
+Company pension and postretirement expense
+178 
+206 
+322 
+Stock-based compensation expense
+263 
+274 
+262 
+Gain on business divestitures
+(2,724)
+ 
+(389)
+Deferred income taxes
+(663)
+(166)
+(165)
+Changes in assets and liabilities
+Accounts receivable
+(105)
+(122)
+165 
+Inventories
+(629)
+(903)
+(91)
+Accounts payable
+111 
+518 
+252 
+Accrued income taxes (current and long-term)
+(47)
+(244)
+132 
+Other net
+854 
+227 
+411 
+Net cash provided by (used in) operating activities
+5,591 
+7,454 
+8,113 
+Cash Flows from Investing Activities
+Purchases of property, plant and equipment (PP&E)
+(1,749)
+(1,603)
+(1,501)","No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%",deepseek-r1:7b,"<think>
+Alright, so I need to determine if 3M is a capital-intensive business based on the 2022 financial data provided. Let me break this down step by step.
+
+First, what's a capital-intensive business? From what I remember, it refers to a company that requires a large amount of physical assets or investments in property, plant, and equipment (PP&E) relative to its revenue. Such businesses often operate in industries like manufacturing or real estate because they need significant upfront investment in infrastructure.
+
+Looking at the provided data from 3M's consolidated balance sheet for FY2022:
+
+- Property, Plant, and Equipment (PPE): $9,178 million
+- Accumulated Depreciation: ($16,820) million
+
+So, to find the net PPE, I subtract accumulated depreciation from the total PPE. That would be 9,178 - 16,820 = -$7,642 million? Wait, that doesn't make sense because you can't have negative net PPE. Maybe I did something wrong here.
+
+Wait, actually, the line says ""Property, plant and equipment net"" which already accounts for accumulated depreciation. So maybe the numbers are presented as gross PPE minus accumulated depreciation equals net PPE. Let me check again: Property, plant, and equipment is listed at 9,178 million, and accumulated depreciation is (16,820) million. So the net PPE should be 9,178 - 16,820 = -$7,642? That can't be right because assets shouldn't have a negative value. Perhaps I'm misinterpreting how these numbers are presented.
+
+Wait, looking back at the balance sheet, under Property, Plant and Equipment (Net), it's listed as $9,178 in 2022, which already subtracts accumulated depreciation from the gross amount. So maybe the ""Property, plant and equipment"" line is actually net PPE, meaning that 3M has significant PP&E assets.
+
+Now, looking at their net sales for FY2022: $34,229 million.
+
+To assess capital intensity, I can calculate the ratio of PP&E to net sales. If this ratio is high, it suggests a more capital-intensive business.
+
+PP&E Net (from balance sheet): 9,178 million
+Net Sales: 34,229 million
+
+So, 9,178 / 34,229 ≈ 0.268 or 26.8%
+
+A higher ratio typically indicates a more capital-intensive industry. For example, manufacturing companies often have high PP&E relative to sales because they need machinery and factories.
+
+In comparison, the average for other industries might be lower. But without specific benchmarks, I can't say exactly if 3M's is above or below average. However, given that 26.8% seems relatively high compared to some other sectors, it suggests a capital-intensive business.
+
+Additionally, looking at their cash flows from investing activities: Purchases of PP&E in 2022 were (1,749 million), meaning they spent over $1 billion on property, plant, and equipment during the year. This indicates ongoing investment in physical assets, which is characteristic of a capital-intensive business.
+
+Therefore, based on the significant net PPE relative to net sales and substantial investments in PP&E, 3M appears to be a capital-intensive business.
+</think>
+
+Yes, based on FY2022 data, 3M is considered a capital-intensive business. 
+
+Answer: Yes"
+financebench_id_01226,3M,3M_2022_10K,"What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.","SG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant
+litigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately
+$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring
+charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost
+management.","Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges",deepseek-r1:7b,"<think>
+Okay, I need to figure out what drove the change in operating margin for 3M in FY2022 based on the provided context. The question also asks if operating margin isn't a useful metric and why.
+
+First, looking at the context given. It mentions that SG&A (SG& A is selling, general, and administrative expenses) increased as a percentage of sales in 2022 compared to last year. This increase was due to several factors: 
+
+1. Litigation costs related to the Combat Arms Earplugs litigation.
+2. Impairment costs from exiting PFAS manufacturing.
+3. Costs related to exiting Russia.
+4. Divestiture-related restructuring charges.
+5. Continuation of investments in key growth initiatives.
+
+Additionally, these increases were partially offset by restructuring benefits and cost management efforts.
+
+Now, the question is about operating margin change. Operating margin reflects profitability before interest and taxes, so it's affected by both revenue and expenses. Since SG&A increased, which typically includes selling, general, and administrative costs that can eat into profit margins, this would likely decrease operating margin unless other factors offset these increases.
+
+However, the context doesn't mention whether revenues grew or if other expense categories changed in a way that could offset the higher SG&A. The provided information only points to increased SG&A as the main driver of the change in operating margin.
+
+As for whether operating margin is a useful metric: It's generally useful because it shows how much profit a company makes relative to its sales. But for a company like 3M, which operates across various industries and has significant investments and divestitures, changes in margins might not be as indicative of overall financial health. This could make the operating margin less meaningful compared to more stable companies.
+
+So, putting it together, the primary driver was increased SG&A costs from multiple factors, partially offset by restructuring benefits. Operating margin isn't a bad metric but is less useful here due to 3M's complex operations and significant changes in their business structure.
+</think>
+
+The change in operating margin for 3M in FY2022 was primarily driven by an increase in SG&A expenses as a percentage of sales, largely due to litigation costs related to the Combat Arms Earplugs case. 
+
+Operating margin is not particularly useful for 3M because its complex business structure and significant investments/ divestitures can make profit margins less indicative of overall financial health.
+
+Answer: The operating margin change was driven by increased SG&A expenses from various factors, including litigation and divestiture costs. Operating margin isn't a good metric for 3M due to its complex operations."
+financebench_id_01865,3M,3M_2022_10K,"If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?","Worldwide Sales Change 
+By Business Segment
+Organic sales
+Acquisitions
+Divestitures
+Translation
+Total sales change
+Safety and Industrial
+1.0 %
+ 
+ %
+ %
+(4.2) %
+(3.2) %
+Transportation and Electronics
+1.2 
+ 
+(0.5)
+(4.6)
+(3.9)
+Health Care
+3.2 
+ 
+(1.4)
+(3.8)
+(2.0)
+Consumer
+(0.9)
+ 
+(0.4)
+(2.6)
+(3.9)
+Total Company
+1.2 
+ 
+(0.5)
+(3.9)
+(3.2)",The consumer segment shrunk by 0.9% organically.,deepseek-r1:7b,"<think>
+Okay, so I need to figure out which business segment is dragging down 3M's overall sales growth for 2022 when excluding M&A. Let me look at the context provided.
+
+First, I see that the question mentions excluding the impact of M&A. The data table shows different percentages under each segment: Organic sales, Acquisitions, Divestitures, Translation, and Total sales change. 
+
+Looking at each segment:
+
+1. **Safety and Industrial**: Their total sales change is (4.2)%. So negative 4.2%.
+2. **Transportation and Electronics**: Total change is (3.9)%.
+3. **Health Care**: Total change is (2.0)%.
+4. **Consumer**: Total change is (3.9)%.
+
+Wait, but the question says excluding M&A, which might mean looking at organic growth without considering acquisitions or divestitures? Or maybe the total includes those factors, so we have to see which segment's negative impact is significant enough to drag down the overall growth.
+
+The total company sales change was 1.2%. So if each segment contributes their own percentage, and M&A isn't part of this calculation now, then the worst performers are likely dragging it down.
+
+Looking at the numbers:
+
+- Safety & Industrial: -4.2%
+- Transportation & Electronics: -3.9%
+- Healthcare: -2.0%
+- Consumer: -3.9%
+
+The lowest is Safety and Industrial at -4.2%. But wait, isn't that the highest negative? So maybe it's dragging down the total.
+
+But I need to check if ""dragging down"" refers to contributing a large negative figure or just being part of the segments that are negative.
+
+Alternatively, perhaps the overall growth after excluding M&A is calculated by summing up the organic sales and translation, which might be positive but with these negatives pulling it down.
+
+So, when looking at each segment's total change:
+
+- The highest negative is Safety & Industrial (-4.2%). But maybe the question expects the answer based on their impact beyond just being negative.
+
+Wait, let me read the data again. Each row has four empty spots for Organic, Acquisitions, Divestitures, Translation, and then Total. For example, under Safety & Industrial: 1.0% (assuming that's organic?), but wait no—looking at the first row:
+
+""Organic sales
+Acquisitions
+Divestitures
+Translation
+Total sales change""
+
+So for each segment, the numbers represent those components. So for example, under Safety and Industrial, perhaps it's split into Organic 1.0%, Acquisitions (maybe a negative number), etc., but in this case, only Total is given as (4.2)%.
+
+Wait no, actually looking at the data:
+
+For Safety & Industrial:
+Organic sales: not provided
+Acquisitions: not provided
+Divestitures: not provided
+Translation: 1.0%?
+Wait, maybe I'm misunderstanding. Let me parse this correctly.
+
+The table is structured as follows for each segment:
+
+Column headers: Organic sales, Acquisitions, Divestitures, Translation, Total sales change
+
+Rows are the segments with their respective figures in parentheses. For example, Safety and Industrial has 1.0%, (4.2)%, (3.2)%? No, that can't be right.
+
+Wait, perhaps each row lists the percentages for each component plus total.
+
+For instance:
+
+Safety & Industrial: 
+Organic sales = ?
+Acquisitions = ?
+Divestitures = ?
+Translation = -4.2%
+Total sales change = ?
+
+No, maybe the way it's presented is that each segment has a Total sales change, but I'm getting confused because some have multiple numbers and others just one.
+
+Wait, perhaps the first row for Safety & Industrial shows ""1.0%"" as something? Let me look again:
+
+The context given is:
+Worldwide Sales Change By Business Segment
+Organic sales
+Acquisitions
+Divestitures
+Translation
+Total sales change
+Safety and Industrial
+1.0 %
+ 
+ %
+ %
+(4.2) %
+(3.2) %
+
+Wait, that doesn't make sense because the percentages under each segment would be listed as per their components.
+
+Perhaps it's more accurate to interpret that for each segment (like Safety & Industrial), their organic sales growth is 1.0%, and then other components: Acquisitions, etc., but in this case, only Total is given as (4.2)%. Hmm, maybe the way it's presented is not clear.
+
+Wait, perhaps the first row after headers lists data for each segment:
+
+So:
+
+- Safety & Industrial: 
+  - Organic sales = ?
+  - Acquisitions = ?
+  - Divestitures = ?
+  - Translation = ?
+  - Total = (4.2)
+
+But that might be unclear.
+
+Alternatively, maybe it's a table where each row is the percentage changes for each segment across different factors, with total being another factor.
+
+Wait, perhaps each column represents a different category: Organic, Acquisitions, Divestitures, Translation, and then each row lists the percentages for each of these categories under that segment. But in this case, only some numbers are filled.
+
+Alternatively, maybe it's structured as follows:
+
+Each row is a business segment with its own Total sales change percentage, but perhaps other factors like Organic, Acquisitions, etc., contribute to that total.
+
+Wait, I'm getting confused. Let me try another approach.
+
+The question asks which segment has dragged down 3M's overall growth when excluding M&A. The data shows for each segment their respective Total sales change percentages after considering all factors (including organic, acquisitions, divestitures, translation). 
+
+So, the total company sales change was 1.2%. Each business segment contributed to this total.
+
+If we exclude M&A, which isn't listed here because it's broken down into its components, then perhaps we're looking at the contribution of each segment without considering their own M&A impact.
+
+But actually, from the data provided, under Total sales change, each segment has a figure. So:
+
+- Safety & Industrial: (4.2)%
+- Transportation & Electronics: (3.9)%
+- Healthcare: (2.0)%
+- Consumer: (3.9)%
+
+Wait, but that might be their total sales change after considering all factors.
+
+If the question is excluding M&A's impact, which I think means not considering its part in each segment's Total sales change, then perhaps we need to look at the organic growth of each segment without M&A.
+
+But the data provided doesn't break down each segment into Organic and M&A separately. So maybe it's impossible to determine based on this information alone.
+
+Alternatively, perhaps ""dragging down"" refers to having a negative total contribution. 
+
+Looking again:
+
+- Safety & Industrial: (4.2)% → Negative
+- Transportation & Electronics: (3.9)%
+- Healthcare: (2.0)%
+- Consumer: (3.9)%
+
+So only Safety and Industrial has a significant negative impact, but perhaps the answer is that segment.
+
+But wait, if we exclude M&A from each segment's contribution, then maybe their Total sales change without M&A would be higher or lower?
+
+Alternatively, since M&A isn't part of this data anymore, perhaps looking for which segment contributes negatively when excluded. So excluding M&A might mean considering only organic and other factors.
+
+But the data provided doesn't give enough detail to subtract M&A from each segment's Total sales change.
+
+Given that, I think the answer is ""Safety and Industrial"" because it has a negative impact of 4.2%, which could be dragging down the overall growth when excluding M&A.
+</think>
+
+The business segment with the negative impact contributing to 3M's overall sales growth dragdown in 2022 is:
+
+**Answer: Safety and Industrial**"
