@@ -178,3 +178,4 @@ cython_debug/
 labs/financebench-playground/myenv/
 labs/financebench_pdfs/
 venv_*/
+*.pem
