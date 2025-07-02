@@ -11,3 +11,4 @@ nltk
 matplotlib
 rouge_score
 absl-py
+langchain-openai
