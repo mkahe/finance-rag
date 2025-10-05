@@ -176,6 +176,7 @@ cython_debug/
 # Local virtual environment
 #   If you are using a virtual environment, it is recommended to add the virtual environment
 labs/financebench-playground/myenv/
+examples/myenv/
 labs/financebench_pdfs/
 venv_*/
 *.pem

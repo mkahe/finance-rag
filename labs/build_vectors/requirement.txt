@@ -1,0 +1,33 @@
+# Core ML/AI libraries
+ipykernel
+openai
+tiktoken
+datasets 
+pandas
+numpy
+scikit-learn
+
+# Document processing
+llama-index
+llama-index-readers-file
+pymupdf
+
+# Embeddings
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-openai
+ollama
+
+# Vector stores
+chromadb
+
+# Progress and utilities
+tqdm
+python-dotenv
+
+# Optional but recommended
+jupyter
+ipywidgets  # For better tqdm in notebooks
