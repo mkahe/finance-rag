@@ -180,3 +180,5 @@ examples/myenv/
 labs/financebench_pdfs/
 venv_*/
 *.pem
+
+vector_databases/
