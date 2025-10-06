@@ -31,3 +31,7 @@ python-dotenv
 # Optional but recommended
 jupyter
 ipywidgets  # For better tqdm in notebooks
+
+# Plot
+matplotlib
+seaborn
