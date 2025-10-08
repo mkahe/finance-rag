@@ -6,7 +6,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2018_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -109,106 +109,6 @@
         "doc_name": "3M_2018_10K",
         "page_number": 89,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 57,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 109,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 43,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 59,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 126,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 109,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 65,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 47,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 124,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 58,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 39,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 51,
-        "rank": 32
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 33,
-        "rank": 33
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 90,
-        "rank": 34
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 39,
-        "rank": 35
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 108,
-        "rank": 36
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 54,
-        "rank": 37
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 51,
-        "rank": 38
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 58,
-        "rank": 39
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 48,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -221,7 +121,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2018_10K",
-        "page_number": 57
+        "page_number": 58
       }
     ],
     "retrieved_docs": [
@@ -324,106 +224,6 @@
         "doc_name": "3M_2018_10K",
         "page_number": 95,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 90,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 13,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 33,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 65,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 54,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 108,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 109,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 83,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 43,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 82,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 39,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 44,
-        "rank": 32
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 48,
-        "rank": 33
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 33,
-        "rank": 34
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 100,
-        "rank": 35
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 127,
-        "rank": 36
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 26,
-        "rank": 37
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 51,
-        "rank": 38
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 15,
-        "rank": 39
-      },
-      {
-        "doc_name": "3M_2018_10K",
-        "page_number": 52,
-        "rank": 40
       }
     ],
     "mrr_score": 0.1111111111111111,
@@ -436,15 +236,15 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 47
+        "page_number": 48
       },
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 49
+        "page_number": 50
       },
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -547,110 +347,10 @@
         "doc_name": "3M_2022_10K",
         "page_number": 74,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 76,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 48,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 27,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 37,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 26,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 27,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 118,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 53,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 78,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 121,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 29,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 63,
-        "rank": 32
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 62,
-        "rank": 33
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 52,
-        "rank": 34
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 23,
-        "rank": 35
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 94,
-        "rank": 36
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 15,
-        "rank": 37
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 73,
-        "rank": 38
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 69,
-        "rank": 39
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 21,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.045454545454545456,
-    "rank": 22
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_01226",
@@ -659,7 +359,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 26
+        "page_number": 27
       }
     ],
     "retrieved_docs": [
@@ -762,75 +462,10 @@
         "doc_name": "3M_2022_10K",
         "page_number": 21,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 78,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 94,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 42,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 27,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 73,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 6,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 36,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 23,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 26,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 27,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 48,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 34,
-        "rank": 32
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 74,
-        "rank": 33
       }
     ],
-    "mrr_score": 0.041666666666666664,
-    "rank": 24
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_01865",
@@ -839,7 +474,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 24
+        "page_number": 25
       }
     ],
     "retrieved_docs": [
@@ -942,110 +577,10 @@
         "doc_name": "3M_2022_10K",
         "page_number": 32,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 62,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 25,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 64,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 37,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 29,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 61,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 2,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 121,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 10,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 63,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 76,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 120,
-        "rank": 32
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 74,
-        "rank": 33
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 48,
-        "rank": 34
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 40,
-        "rank": 35
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 6,
-        "rank": 36
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 65,
-        "rank": 37
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 41,
-        "rank": 38
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 78,
-        "rank": 39
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 40,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.045454545454545456,
-    "rank": 22
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00807",
@@ -1054,7 +589,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -1157,70 +692,10 @@
         "doc_name": "3M_2023Q2_10Q",
         "page_number": 54,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 68,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 10,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 52,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 21,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 73,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 72,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 7,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 15,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 24,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 61,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 5,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 13,
-        "rank": 32
       }
     ],
-    "mrr_score": 0.03225806451612903,
-    "rank": 31
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00941",
@@ -1229,7 +704,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -1332,66 +807,6 @@
         "doc_name": "3M_2023Q2_10Q",
         "page_number": 6,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 10,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 51,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 11,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 70,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 62,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 68,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 86,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 5,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 85,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 10,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 15,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2023Q2_10Q",
-        "page_number": 11,
-        "rank": 32
       }
     ],
     "mrr_score": 0.0,
@@ -1404,7 +819,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -1504,11 +919,11 @@
     "expected_evidence": [
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 68
+        "page_number": 69
       },
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 69
+        "page_number": 70
       }
     ],
     "retrieved_docs": [
@@ -1611,46 +1026,6 @@
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
         "page_number": 3,
         "rank": 20
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 93,
-        "rank": 21
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 104,
-        "rank": 22
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 91,
-        "rank": 23
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 174,
-        "rank": 24
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 97,
-        "rank": 25
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 164,
-        "rank": 26
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 91,
-        "rank": 27
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 119,
-        "rank": 28
       }
     ],
     "mrr_score": 0.0,
@@ -1663,11 +1038,11 @@
     "expected_evidence": [
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 72
+        "page_number": 73
       }
     ],
     "retrieved_docs": [
@@ -1770,106 +1145,6 @@
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
         "page_number": 70,
         "rank": 20
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 114,
-        "rank": 21
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 184,
-        "rank": 22
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 40,
-        "rank": 23
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 47,
-        "rank": 24
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 39,
-        "rank": 25
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 104,
-        "rank": 26
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 194,
-        "rank": 27
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 175,
-        "rank": 28
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 37,
-        "rank": 29
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 124,
-        "rank": 30
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 173,
-        "rank": 31
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 71,
-        "rank": 32
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 198,
-        "rank": 33
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 108,
-        "rank": 34
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 32,
-        "rank": 35
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 109,
-        "rank": 36
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 124,
-        "rank": 37
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 100,
-        "rank": 38
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 119,
-        "rank": 39
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 164,
-        "rank": 40
       }
     ],
     "mrr_score": 0.05263157894736842,
@@ -1882,11 +1157,11 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2015_10K",
-        "page_number": 58
+        "page_number": 59
       },
       {
         "doc_name": "ADOBE_2015_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -1961,7 +1236,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -2064,36 +1339,6 @@
         "doc_name": "ADOBE_2016_10K",
         "page_number": 49,
         "rank": 20
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 43,
-        "rank": 21
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 84,
-        "rank": 22
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 83,
-        "rank": 23
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 87,
-        "rank": 24
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 41,
-        "rank": 25
-      },
-      {
-        "doc_name": "ADOBE_2016_10K",
-        "page_number": 51,
-        "rank": 26
       }
     ],
     "mrr_score": 0.25,
@@ -2106,11 +1351,11 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2017_10K",
-        "page_number": 56
+        "page_number": 57
       },
       {
         "doc_name": "ADOBE_2017_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -2160,7 +1405,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2022_10K",
-        "page_number": 53
+        "page_number": 54
       }
     ],
     "retrieved_docs": [
@@ -2255,7 +1500,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2022_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -2358,86 +1603,6 @@
         "doc_name": "ADOBE_2022_10K",
         "page_number": 4,
         "rank": 20
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 3,
-        "rank": 21
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 5,
-        "rank": 22
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 20,
-        "rank": 23
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 4,
-        "rank": 24
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 7,
-        "rank": 25
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 17,
-        "rank": 26
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 18,
-        "rank": 27
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 3,
-        "rank": 28
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 16,
-        "rank": 29
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 9,
-        "rank": 30
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 10,
-        "rank": 31
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 87,
-        "rank": 32
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 38,
-        "rank": 33
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 86,
-        "rank": 34
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 95,
-        "rank": 35
-      },
-      {
-        "doc_name": "ADOBE_2022_10K",
-        "page_number": 55,
-        "rank": 36
       }
     ],
     "mrr_score": 0.14285714285714285,
@@ -2450,7 +1615,7 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -2553,85 +1718,10 @@
         "doc_name": "AES_2022_10K",
         "page_number": 130,
         "rank": 20
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 134,
-        "rank": 21
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 132,
-        "rank": 22
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 2,
-        "rank": 23
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 99,
-        "rank": 24
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 184,
-        "rank": 25
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 130,
-        "rank": 26
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 213,
-        "rank": 27
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 118,
-        "rank": 28
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 94,
-        "rank": 29
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 134,
-        "rank": 30
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 166,
-        "rank": 31
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 181,
-        "rank": 32
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 135,
-        "rank": 33
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 185,
-        "rank": 34
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 132,
-        "rank": 35
       }
     ],
-    "mrr_score": 0.045454545454545456,
-    "rank": 22
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00540",
@@ -2640,11 +1730,11 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 129
+        "page_number": 130
       },
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -2747,106 +1837,6 @@
         "doc_name": "AES_2022_10K",
         "page_number": 199,
         "rank": 20
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 130,
-        "rank": 21
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 205,
-        "rank": 22
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 2,
-        "rank": 23
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 127,
-        "rank": 24
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 101,
-        "rank": 25
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 209,
-        "rank": 26
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 97,
-        "rank": 27
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 166,
-        "rank": 28
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 119,
-        "rank": 29
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 161,
-        "rank": 30
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 181,
-        "rank": 31
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 202,
-        "rank": 32
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 134,
-        "rank": 33
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 164,
-        "rank": 34
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 116,
-        "rank": 35
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 202,
-        "rank": 36
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 36,
-        "rank": 37
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 99,
-        "rank": 38
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 75,
-        "rank": 39
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 85,
-        "rank": 40
       }
     ],
     "mrr_score": 0.058823529411764705,
@@ -2859,11 +1849,11 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 129
+        "page_number": 130
       },
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -2966,75 +1956,10 @@
         "doc_name": "AES_2022_10K",
         "page_number": 171,
         "rank": 20
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 167,
-        "rank": 21
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 209,
-        "rank": 22
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 85,
-        "rank": 23
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 94,
-        "rank": 24
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 107,
-        "rank": 25
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 186,
-        "rank": 26
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 181,
-        "rank": 27
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 163,
-        "rank": 28
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 154,
-        "rank": 29
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 169,
-        "rank": 30
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 132,
-        "rank": 31
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 170,
-        "rank": 32
-      },
-      {
-        "doc_name": "AES_2022_10K",
-        "page_number": 184,
-        "rank": 33
       }
     ],
-    "mrr_score": 0.03225806451612903,
-    "rank": 31
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_06655",
@@ -3043,11 +1968,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 37
+        "page_number": 38
       },
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 39
+        "page_number": 40
       }
     ],
     "retrieved_docs": [
@@ -3112,7 +2037,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -3217,7 +2142,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2019_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -3320,16 +2245,6 @@
         "doc_name": "AMAZON_2019_10K",
         "page_number": 69,
         "rank": 20
-      },
-      {
-        "doc_name": "AMAZON_2019_10K",
-        "page_number": 70,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMAZON_2019_10K",
-        "page_number": 24,
-        "rank": 22
       }
     ],
     "mrr_score": 1.0,
@@ -3342,7 +2257,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2020_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -3445,76 +2360,6 @@
         "doc_name": "AMCOR_2020_10K",
         "page_number": 3,
         "rank": 20
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 34,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 9,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 4,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 94,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 67,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 102,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 42,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 8,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 24,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 195,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 131,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 123,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 23,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMCOR_2020_10K",
-        "page_number": 192,
-        "rank": 34
       }
     ],
     "mrr_score": 0.2,
@@ -3527,7 +2372,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -3562,7 +2407,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -3677,7 +2522,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -3780,81 +2625,6 @@
         "doc_name": "AMCOR_2023_10K",
         "page_number": 50,
         "rank": 20
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 9,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 101,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 113,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 52,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 115,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 151,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 51,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 92,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 37,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 134,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 13,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 5,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 36,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 114,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 46,
-        "rank": 35
       }
     ],
     "mrr_score": 0.0,
@@ -3867,7 +2637,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -3970,81 +2740,6 @@
         "doc_name": "AMCOR_2023_10K",
         "page_number": 12,
         "rank": 20
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 93,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 13,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 156,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 51,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 93,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 46,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 104,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 27,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 18,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 98,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 113,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 14,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 134,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 37,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 4,
-        "rank": 35
       }
     ],
     "mrr_score": 0.5,
@@ -4057,7 +2752,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -4122,7 +2817,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q2_10Q",
-        "page_number": 14
+        "page_number": 15
       }
     ],
     "retrieved_docs": [
@@ -4207,7 +2902,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q4_EARNINGS",
-        "page_number": 11
+        "page_number": 12
       }
     ],
     "retrieved_docs": [
@@ -4307,7 +3002,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q4_EARNINGS",
-        "page_number": 9
+        "page_number": 10
       }
     ],
     "retrieved_docs": [
@@ -4392,11 +3087,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 55
+        "page_number": 56
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -4499,66 +3194,6 @@
         "doc_name": "AMD_2015_10K",
         "page_number": 51,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 98,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 103,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 94,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 99,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 80,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 41,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 92,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 94,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 103,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 9,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 100,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 34,
-        "rank": 32
       }
     ],
     "mrr_score": 0.3333333333333333,
@@ -4571,7 +3206,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -4591,7 +3226,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -4694,106 +3329,6 @@
         "doc_name": "AMD_2022_10K",
         "page_number": 106,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 54,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 106,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 58,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 112,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 59,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 101,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 105,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 8,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 111,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 42,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 104,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 31,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 24,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 10,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 104,
-        "rank": 35
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 12,
-        "rank": 36
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 102,
-        "rank": 37
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 110,
-        "rank": 38
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 67,
-        "rank": 39
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 69,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -4806,7 +3341,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 42
+        "page_number": 43
       }
     ],
     "retrieved_docs": [
@@ -4911,7 +3446,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 42
+        "page_number": 43
       }
     ],
     "retrieved_docs": [
@@ -4981,7 +3516,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 57
+        "page_number": 58
       }
     ],
     "retrieved_docs": [
@@ -5096,7 +3631,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 47
+        "page_number": 48
       }
     ],
     "retrieved_docs": [
@@ -5199,31 +3734,6 @@
         "doc_name": "AMD_2022_10K",
         "page_number": 104,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 54,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 106,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 75,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 58,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 103,
-        "rank": 25
       }
     ],
     "mrr_score": 0.3333333333333333,
@@ -5236,7 +3746,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 11
+        "page_number": 12
       }
     ],
     "retrieved_docs": [
@@ -5339,110 +3849,10 @@
         "doc_name": "AMD_2022_10K",
         "page_number": 103,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 7,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 12,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 101,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 106,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 59,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 102,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 102,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 8,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 105,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 41,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 112,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 6,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 54,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 67,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 24,
-        "rank": 35
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 103,
-        "rank": 36
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 105,
-        "rank": 37
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 58,
-        "rank": 38
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 109,
-        "rank": 39
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 103,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.045454545454545456,
-    "rank": 22
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00476",
@@ -5451,7 +3861,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -5526,7 +3936,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 154
+        "page_number": 155
       }
     ],
     "retrieved_docs": [
@@ -5611,7 +4021,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 95
+        "page_number": 96
       }
     ],
     "retrieved_docs": [],
@@ -5625,7 +4035,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 95
+        "page_number": 96
       }
     ],
     "retrieved_docs": [
@@ -5655,7 +4065,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 43
+        "page_number": 44
       }
     ],
     "retrieved_docs": [
@@ -5705,7 +4115,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 97
+        "page_number": 98
       }
     ],
     "retrieved_docs": [
@@ -5735,7 +4145,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 44
+        "page_number": 45
       }
     ],
     "retrieved_docs": [
@@ -5838,106 +4248,6 @@
         "doc_name": "AMERICANEXPRESS_2022_10K",
         "page_number": 90,
         "rank": 20
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 254,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 108,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 117,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 59,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 56,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 96,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 102,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 68,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 150,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 44,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 63,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 252,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 8,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 51,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 62,
-        "rank": 35
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 109,
-        "rank": 36
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 41,
-        "rank": 37
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 40,
-        "rank": 38
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 46,
-        "rank": 39
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 157,
-        "rank": 40
       }
     ],
     "mrr_score": 0.14285714285714285,
@@ -5950,7 +4260,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2020_10K",
-        "page_number": 85
+        "page_number": 86
       }
     ],
     "retrieved_docs": [
@@ -6050,11 +4360,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2021_10K",
-        "page_number": 85
+        "page_number": 86
       },
       {
         "doc_name": "AMERICANWATERWORKS_2021_10K",
-        "page_number": 87
+        "page_number": 88
       }
     ],
     "retrieved_docs": [
@@ -6157,11 +4467,6 @@
         "doc_name": "AMERICANWATERWORKS_2021_10K",
         "page_number": 52,
         "rank": 20
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2021_10K",
-        "page_number": 145,
-        "rank": 21
       }
     ],
     "mrr_score": 1.0,
@@ -6174,11 +4479,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 80
+        "page_number": 81
       },
       {
         "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 81
+        "page_number": 82
       }
     ],
     "retrieved_docs": [
@@ -6281,101 +4586,6 @@
         "doc_name": "AMERICANWATERWORKS_2022_10K",
         "page_number": 305,
         "rank": 20
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 142,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 197,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 65,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 21,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 304,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 141,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 81,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 303,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 140,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 139,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 141,
-        "rank": 31
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 142,
-        "rank": 32
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 141,
-        "rank": 33
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 140,
-        "rank": 34
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 66,
-        "rank": 35
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 141,
-        "rank": 36
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 37,
-        "rank": 37
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 109,
-        "rank": 38
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 192,
-        "rank": 39
       }
     ],
     "mrr_score": 0.125,
@@ -6388,7 +4598,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2017_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -6491,81 +4701,6 @@
         "doc_name": "BESTBUY_2017_10K",
         "page_number": 33,
         "rank": 20
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 27,
-        "rank": 21
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 17,
-        "rank": 22
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 59,
-        "rank": 23
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 54,
-        "rank": 24
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 88,
-        "rank": 25
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 37,
-        "rank": 26
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 36,
-        "rank": 27
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 109,
-        "rank": 28
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 105,
-        "rank": 29
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 60,
-        "rank": 30
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 36,
-        "rank": 31
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 25,
-        "rank": 32
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 4,
-        "rank": 33
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 35,
-        "rank": 34
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 32,
-        "rank": 35
       }
     ],
     "mrr_score": 0.2,
@@ -6578,7 +4713,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2019_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -6681,36 +4816,6 @@
         "doc_name": "BESTBUY_2019_10K",
         "page_number": 51,
         "rank": 20
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 57,
-        "rank": 21
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 82,
-        "rank": 22
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 19,
-        "rank": 23
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 27,
-        "rank": 24
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 63,
-        "rank": 25
-      },
-      {
-        "doc_name": "BESTBUY_2019_10K",
-        "page_number": 20,
-        "rank": 26
       }
     ],
     "mrr_score": 0.2,
@@ -6723,7 +4828,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 39
+        "page_number": 40
       }
     ],
     "retrieved_docs": [
@@ -6808,7 +4913,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 50
+        "page_number": 51
       }
     ],
     "retrieved_docs": [
@@ -6911,61 +5016,6 @@
         "doc_name": "BESTBUY_2023_10K",
         "page_number": 8,
         "rank": 20
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 26,
-        "rank": 21
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 75,
-        "rank": 22
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 56,
-        "rank": 23
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 68,
-        "rank": 24
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 74,
-        "rank": 25
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 21,
-        "rank": 26
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 30,
-        "rank": 27
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 66,
-        "rank": 28
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 70,
-        "rank": 29
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 6,
-        "rank": 30
-      },
-      {
-        "doc_name": "BESTBUY_2023_10K",
-        "page_number": 66,
-        "rank": 31
       }
     ],
     "mrr_score": 0.25,
@@ -6978,7 +5028,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 41
+        "page_number": 42
       }
     ],
     "retrieved_docs": [
@@ -7063,7 +5113,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 19
+        "page_number": 20
       }
     ],
     "retrieved_docs": [
@@ -7138,7 +5188,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 16
+        "page_number": 17
       }
     ],
     "retrieved_docs": [
@@ -7213,7 +5263,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 17
+        "page_number": 18
       }
     ],
     "retrieved_docs": [
@@ -7293,7 +5343,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -7338,7 +5388,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 85
+        "page_number": 86
       }
     ],
     "retrieved_docs": [
@@ -7448,7 +5498,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 89
+        "page_number": 90
       }
     ],
     "retrieved_docs": [
@@ -7558,7 +5608,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2018_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -7661,31 +5711,6 @@
         "doc_name": "BOEING_2018_10K",
         "page_number": 115,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2018_10K",
-        "page_number": 42,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2018_10K",
-        "page_number": 118,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2018_10K",
-        "page_number": 110,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2018_10K",
-        "page_number": 87,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2018_10K",
-        "page_number": 84,
-        "rank": 25
       }
     ],
     "mrr_score": 1.0,
@@ -7698,7 +5723,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -7801,106 +5826,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 29,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 118,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 28,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 56,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 117,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 37,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 25,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 80,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 32,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 34,
-        "rank": 29
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 43,
-        "rank": 30
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 5,
-        "rank": 31
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 83,
-        "rank": 32
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 83,
-        "rank": 33
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 4,
-        "rank": 34
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 19,
-        "rank": 35
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 85,
-        "rank": 36
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 31,
-        "rank": 37
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 38,
-        "rank": 38
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 3,
-        "rank": 39
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 33,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -7913,7 +5838,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 112
+        "page_number": 113
       }
     ],
     "retrieved_docs": [
@@ -8016,106 +5941,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 9,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 40,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 43,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 83,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 19,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 57,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 9,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 32,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 24,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 130,
-        "rank": 29
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 7,
-        "rank": 30
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 31,
-        "rank": 31
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 41,
-        "rank": 32
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 29,
-        "rank": 33
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 190,
-        "rank": 34
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 124,
-        "rank": 35
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 129,
-        "rank": 36
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 30,
-        "rank": 37
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 16,
-        "rank": 38
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 80,
-        "rank": 39
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 189,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -8128,7 +5953,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -8231,55 +6056,10 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 31,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 124,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 25,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 49,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 5,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 41,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 55,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 113,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 40,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 41,
-        "rank": 29
       }
     ],
-    "mrr_score": 0.038461538461538464,
-    "rank": 26
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_01290",
@@ -8288,15 +6068,15 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 7
+        "page_number": 8
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 9
+        "page_number": 10
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 13
+        "page_number": 14
       }
     ],
     "retrieved_docs": [
@@ -8399,106 +6179,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 116,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 59,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 33,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 7,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 87,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 23,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 29,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 55,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 32,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 34,
-        "rank": 29
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 25,
-        "rank": 30
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 37,
-        "rank": 31
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 119,
-        "rank": 32
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 4,
-        "rank": 33
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 33,
-        "rank": 34
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 30,
-        "rank": 35
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 80,
-        "rank": 36
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 128,
-        "rank": 37
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 22,
-        "rank": 38
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 19,
-        "rank": 39
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 133,
-        "rank": 40
       }
     ],
     "mrr_score": 0.0,
@@ -8511,7 +6191,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 7
+        "page_number": 8
       }
     ],
     "retrieved_docs": [
@@ -8614,106 +6294,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 129,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 9,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 29,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 62,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 130,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 4,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 5,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 33,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 40,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 107,
-        "rank": 29
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 31,
-        "rank": 30
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 133,
-        "rank": 31
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 124,
-        "rank": 32
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 55,
-        "rank": 33
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 7,
-        "rank": 34
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 34,
-        "rank": 35
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 24,
-        "rank": 36
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 129,
-        "rank": 37
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 56,
-        "rank": 38
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 113,
-        "rank": 39
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 132,
-        "rank": 40
       }
     ],
     "mrr_score": 0.07142857142857142,
@@ -8726,7 +6306,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 8
+        "page_number": 9
       }
     ],
     "retrieved_docs": [
@@ -8829,106 +6409,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 42,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 38,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 23,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 43,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 80,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 34,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 81,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 24,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 27,
-        "rank": 28
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 29,
-        "rank": 29
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 9,
-        "rank": 30
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 33,
-        "rank": 31
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 35,
-        "rank": 32
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 51,
-        "rank": 33
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 35,
-        "rank": 34
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 41,
-        "rank": 35
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 55,
-        "rank": 36
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 28,
-        "rank": 37
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 12,
-        "rank": 38
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 85,
-        "rank": 39
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 50,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -8941,7 +6421,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -9044,46 +6524,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 56,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 26,
-        "rank": 21
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 5,
-        "rank": 22
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 27,
-        "rank": 23
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 57,
-        "rank": 24
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 24,
-        "rank": 25
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 25,
-        "rank": 26
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 77,
-        "rank": 27
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 41,
-        "rank": 28
       }
     ],
     "mrr_score": 0.14285714285714285,
@@ -9096,11 +6536,11 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2017_10K",
-        "page_number": 73
+        "page_number": 74
       },
       {
         "doc_name": "COCACOLA_2017_10K",
-        "page_number": 75
+        "page_number": 76
       }
     ],
     "retrieved_docs": [
@@ -9203,106 +6643,6 @@
         "doc_name": "COCACOLA_2017_10K",
         "page_number": 152,
         "rank": 20
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 150,
-        "rank": 21
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 130,
-        "rank": 22
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 54,
-        "rank": 23
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 50,
-        "rank": 24
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 144,
-        "rank": 25
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 56,
-        "rank": 26
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 161,
-        "rank": 27
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 4,
-        "rank": 28
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 164,
-        "rank": 29
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 177,
-        "rank": 30
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 161,
-        "rank": 31
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 153,
-        "rank": 32
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 143,
-        "rank": 33
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 153,
-        "rank": 34
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 131,
-        "rank": 35
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 5,
-        "rank": 36
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 52,
-        "rank": 37
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 147,
-        "rank": 38
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 49,
-        "rank": 39
-      },
-      {
-        "doc_name": "COCACOLA_2017_10K",
-        "page_number": 76,
-        "rank": 40
       }
     ],
     "mrr_score": 0.1111111111111111,
@@ -9315,7 +6655,7 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2021_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -9405,11 +6745,11 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2022_10K",
-        "page_number": 62
+        "page_number": 63
       },
       {
         "doc_name": "COCACOLA_2022_10K",
-        "page_number": 65
+        "page_number": 66
       }
     ],
     "retrieved_docs": [
@@ -9509,11 +6849,11 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2020_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "CORNING_2020_10K",
-        "page_number": 71
+        "page_number": 72
       }
     ],
     "retrieved_docs": [
@@ -9616,101 +6956,6 @@
         "doc_name": "CORNING_2020_10K",
         "page_number": 43,
         "rank": 20
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 91,
-        "rank": 21
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 71,
-        "rank": 22
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 70,
-        "rank": 23
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 114,
-        "rank": 24
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 28,
-        "rank": 25
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 96,
-        "rank": 26
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 86,
-        "rank": 27
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 45,
-        "rank": 28
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 40,
-        "rank": 29
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 28,
-        "rank": 30
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 84,
-        "rank": 31
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 42,
-        "rank": 32
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 115,
-        "rank": 33
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 42,
-        "rank": 34
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 51,
-        "rank": 35
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 31,
-        "rank": 36
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 44,
-        "rank": 37
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 98,
-        "rank": 38
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 43,
-        "rank": 39
       }
     ],
     "mrr_score": 0.1,
@@ -9723,7 +6968,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2021_10K",
-        "page_number": 64
+        "page_number": 65
       }
     ],
     "retrieved_docs": [
@@ -9826,76 +7071,6 @@
         "doc_name": "CORNING_2021_10K",
         "page_number": 41,
         "rank": 20
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 88,
-        "rank": 21
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 63,
-        "rank": 22
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 67,
-        "rank": 23
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 88,
-        "rank": 24
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 42,
-        "rank": 25
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 76,
-        "rank": 26
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 99,
-        "rank": 27
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 32,
-        "rank": 28
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 104,
-        "rank": 29
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 100,
-        "rank": 30
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 111,
-        "rank": 31
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 83,
-        "rank": 32
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 115,
-        "rank": 33
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 82,
-        "rank": 34
       }
     ],
     "mrr_score": 1.0,
@@ -9908,7 +7083,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2022_10K",
-        "page_number": 23
+        "page_number": 24
       }
     ],
     "retrieved_docs": [
@@ -10011,41 +7186,6 @@
         "doc_name": "CORNING_2022_10K",
         "page_number": 76,
         "rank": 20
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 26,
-        "rank": 21
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 25,
-        "rank": 22
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 74,
-        "rank": 23
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 71,
-        "rank": 24
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 27,
-        "rank": 25
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 79,
-        "rank": 26
-      },
-      {
-        "doc_name": "CORNING_2022_10K",
-        "page_number": 80,
-        "rank": 27
       }
     ],
     "mrr_score": 0.25,
@@ -10058,7 +7198,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2022_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -10173,7 +7313,7 @@
     "expected_evidence": [
       {
         "doc_name": "COSTCO_2021_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -10263,11 +7403,11 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 301
+        "page_number": 302
       },
       {
         "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 303
+        "page_number": 304
       }
     ],
     "retrieved_docs": [
@@ -10370,51 +7510,6 @@
         "doc_name": "CVSHEALTH_2018_10K",
         "page_number": 302,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 326,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 362,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 358,
-        "rank": 23
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 307,
-        "rank": 24
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 63,
-        "rank": 25
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 330,
-        "rank": 26
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 351,
-        "rank": 27
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 304,
-        "rank": 28
-      },
-      {
-        "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 353,
-        "rank": 29
       }
     ],
     "mrr_score": 0.058823529411764705,
@@ -10427,11 +7522,11 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 107
+        "page_number": 108
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 109
+        "page_number": 110
       }
     ],
     "retrieved_docs": [
@@ -10534,106 +7629,6 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 16,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 166,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 133,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 166,
-        "rank": 23
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 14,
-        "rank": 24
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 156,
-        "rank": 25
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 108,
-        "rank": 26
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 73,
-        "rank": 27
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 170,
-        "rank": 28
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 109,
-        "rank": 29
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 181,
-        "rank": 30
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 66,
-        "rank": 31
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 18,
-        "rank": 32
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 165,
-        "rank": 33
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 4,
-        "rank": 34
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 35,
-        "rank": 35
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 1,
-        "rank": 36
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 66,
-        "rank": 37
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 68,
-        "rank": 38
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 186,
-        "rank": 39
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 202,
-        "rank": 40
       }
     ],
     "mrr_score": 0.5,
@@ -10646,15 +7641,15 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 172
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 172
+        "page_number": 173
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 173
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174
       }
     ],
     "retrieved_docs": [
@@ -10757,106 +7752,6 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 133,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 73,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 182,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 92,
-        "rank": 23
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 212,
-        "rank": 24
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 92,
-        "rank": 25
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 108,
-        "rank": 26
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 113,
-        "rank": 27
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 27,
-        "rank": 28
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 91,
-        "rank": 29
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 80,
-        "rank": 30
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 67,
-        "rank": 31
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 14,
-        "rank": 32
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 202,
-        "rank": 33
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 213,
-        "rank": 34
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 196,
-        "rank": 35
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 93,
-        "rank": 36
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 177,
-        "rank": 37
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 167,
-        "rank": 38
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 156,
-        "rank": 39
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 20,
-        "rank": 40
       }
     ],
     "mrr_score": 0.5,
@@ -10869,7 +7764,7 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -10972,106 +7867,6 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 185,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 68,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 69,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 68,
-        "rank": 23
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 167,
-        "rank": 24
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 4,
-        "rank": 25
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 92,
-        "rank": 26
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 156,
-        "rank": 27
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 164,
-        "rank": 28
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 167,
-        "rank": 29
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 73,
-        "rank": 30
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 166,
-        "rank": 31
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 66,
-        "rank": 32
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 108,
-        "rank": 33
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 4,
-        "rank": 34
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 182,
-        "rank": 35
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 109,
-        "rank": 36
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 133,
-        "rank": 37
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 165,
-        "rank": 38
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 27,
-        "rank": 39
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 1,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -11084,7 +7879,7 @@
     "expected_evidence": [
       {
         "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -11174,7 +7969,7 @@
     "expected_evidence": [
       {
         "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -11204,11 +7999,11 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 52
+        "page_number": 53
       },
       {
         "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -11311,46 +8106,6 @@
         "doc_name": "GENERALMILLS_2019_10K",
         "page_number": 91,
         "rank": 20
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 18,
-        "rank": 21
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 95,
-        "rank": 22
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 104,
-        "rank": 23
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 103,
-        "rank": 24
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 55,
-        "rank": 25
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 46,
-        "rank": 26
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 3,
-        "rank": 27
-      },
-      {
-        "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 62,
-        "rank": 28
       }
     ],
     "mrr_score": 0.1,
@@ -11363,7 +8118,7 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -11466,26 +8221,6 @@
         "doc_name": "GENERALMILLS_2020_10K",
         "page_number": 17,
         "rank": 20
-      },
-      {
-        "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 108,
-        "rank": 21
-      },
-      {
-        "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 108,
-        "rank": 22
-      },
-      {
-        "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 105,
-        "rank": 23
-      },
-      {
-        "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 29,
-        "rank": 24
       }
     ],
     "mrr_score": 0.125,
@@ -11498,7 +8233,7 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -11601,11 +8336,6 @@
         "doc_name": "GENERALMILLS_2020_10K",
         "page_number": 74,
         "rank": 20
-      },
-      {
-        "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 50,
-        "rank": 21
       }
     ],
     "mrr_score": 1.0,
@@ -11618,11 +8348,11 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 44
+        "page_number": 45
       },
       {
         "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 48
+        "page_number": 49
       }
     ],
     "retrieved_docs": [
@@ -11725,46 +8455,6 @@
         "doc_name": "GENERALMILLS_2022_10K",
         "page_number": 26,
         "rank": 20
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 35,
-        "rank": 21
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 71,
-        "rank": 22
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 92,
-        "rank": 23
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 36,
-        "rank": 24
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 27,
-        "rank": 25
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 79,
-        "rank": 26
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 91,
-        "rank": 27
-      },
-      {
-        "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 69,
-        "rank": 28
       }
     ],
     "mrr_score": 0.3333333333333333,
@@ -11777,7 +8467,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 27
+        "page_number": 28
       }
     ],
     "retrieved_docs": [
@@ -11812,7 +8502,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 33
+        "page_number": 34
       }
     ],
     "retrieved_docs": [
@@ -11832,11 +8522,11 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 45
+        "page_number": 46
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 46
+        "page_number": 47
       }
     ],
     "retrieved_docs": [
@@ -11866,7 +8556,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -11931,7 +8621,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -12036,7 +8726,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -12116,7 +8806,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -12226,7 +8916,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -12331,7 +9021,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
-        "page_number": 9
+        "page_number": 10
       }
     ],
     "retrieved_docs": [
@@ -12401,7 +9091,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2021Q1_10Q",
-        "page_number": 18
+        "page_number": 19
       }
     ],
     "retrieved_docs": [
@@ -12486,7 +9176,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2021Q1_10Q",
-        "page_number": 5
+        "page_number": 6
       }
     ],
     "retrieved_docs": [
@@ -12596,7 +9286,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -12699,41 +9389,6 @@
         "doc_name": "JPMORGAN_2022_10K",
         "page_number": 288,
         "rank": 20
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 266,
-        "rank": 21
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 17,
-        "rank": 22
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 78,
-        "rank": 23
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 64,
-        "rank": 24
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 98,
-        "rank": 25
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 14,
-        "rank": 26
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 14,
-        "rank": 27
       }
     ],
     "mrr_score": 0.1,
@@ -12746,7 +9401,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2022Q2_10Q",
-        "page_number": 20
+        "page_number": 21
       }
     ],
     "retrieved_docs": [
@@ -12846,7 +9501,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 84
+        "page_number": 85
       }
     ],
     "retrieved_docs": [
@@ -12949,46 +9604,6 @@
         "doc_name": "JPMORGAN_2023Q2_10Q",
         "page_number": 92,
         "rank": 20
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 54,
-        "rank": 21
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 89,
-        "rank": 22
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 5,
-        "rank": 23
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 89,
-        "rank": 24
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 135,
-        "rank": 25
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 88,
-        "rank": 26
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 54,
-        "rank": 27
-      },
-      {
-        "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 120,
-        "rank": 28
       }
     ],
     "mrr_score": 0.5,
@@ -13001,11 +9616,11 @@
     "expected_evidence": [
       {
         "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 49
+        "page_number": 50
       },
       {
         "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -13108,61 +9723,6 @@
         "doc_name": "KRAFTHEINZ_2019_10K",
         "page_number": 47,
         "rank": 20
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 115,
-        "rank": 21
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 10,
-        "rank": 22
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 4,
-        "rank": 23
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 128,
-        "rank": 24
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 118,
-        "rank": 25
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 43,
-        "rank": 26
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 127,
-        "rank": 27
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 55,
-        "rank": 28
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 127,
-        "rank": 29
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 137,
-        "rank": 30
-      },
-      {
-        "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 128,
-        "rank": 31
       }
     ],
     "mrr_score": 0.1111111111111111,
@@ -13175,11 +9735,11 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2020_10K",
-        "page_number": 66
+        "page_number": 67
       },
       {
         "doc_name": "LOCKHEEDMARTIN_2020_10K",
-        "page_number": 68
+        "page_number": 69
       }
     ],
     "retrieved_docs": [
@@ -13204,7 +9764,7 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2021_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -13319,7 +9879,7 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2022_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -13429,7 +9989,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -13532,106 +10092,6 @@
         "doc_name": "MGMRESORTS_2018_10K",
         "page_number": 67,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 96,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 100,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 34,
-        "rank": 23
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 58,
-        "rank": 24
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 96,
-        "rank": 25
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 92,
-        "rank": 26
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 98,
-        "rank": 27
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 76,
-        "rank": 28
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 45,
-        "rank": 29
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 69,
-        "rank": 30
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 86,
-        "rank": 31
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 61,
-        "rank": 32
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 68,
-        "rank": 33
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 184,
-        "rank": 34
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 82,
-        "rank": 35
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 43,
-        "rank": 36
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 47,
-        "rank": 37
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 96,
-        "rank": 38
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 98,
-        "rank": 39
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 100,
-        "rank": 40
       }
     ],
     "mrr_score": 0.25,
@@ -13644,11 +10104,11 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 64
+        "page_number": 65
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 66
+        "page_number": 67
       }
     ],
     "retrieved_docs": [
@@ -13751,61 +10211,6 @@
         "doc_name": "MGMRESORTS_2020_10K",
         "page_number": 101,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 98,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 38,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 85,
-        "rank": 23
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 64,
-        "rank": 24
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 46,
-        "rank": 25
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 46,
-        "rank": 26
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 46,
-        "rank": 27
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 101,
-        "rank": 28
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 96,
-        "rank": 29
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 41,
-        "rank": 30
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 48,
-        "rank": 31
       }
     ],
     "mrr_score": 0.3333333333333333,
@@ -13818,7 +10223,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 31
+        "page_number": 32
       }
     ],
     "retrieved_docs": [
@@ -13921,91 +10326,6 @@
         "doc_name": "MGMRESORTS_2022_10K",
         "page_number": 109,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 60,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 37,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 88,
-        "rank": 23
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 200,
-        "rank": 24
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 81,
-        "rank": 25
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 100,
-        "rank": 26
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 64,
-        "rank": 27
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 82,
-        "rank": 28
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 110,
-        "rank": 29
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 61,
-        "rank": 30
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 64,
-        "rank": 31
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 73,
-        "rank": 32
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 13,
-        "rank": 33
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 40,
-        "rank": 34
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 6,
-        "rank": 35
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 94,
-        "rank": 36
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 106,
-        "rank": 37
       }
     ],
     "mrr_score": 0.14285714285714285,
@@ -14018,7 +10338,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 12
+        "page_number": 13
       }
     ],
     "retrieved_docs": [
@@ -14093,7 +10413,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 13
+        "page_number": 14
       }
     ],
     "retrieved_docs": [
@@ -14163,15 +10483,15 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 2
-      },
-      {
-        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
         "page_number": 3
       },
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 3
+        "page_number": 4
+      },
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -14241,7 +10561,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2023Q2_10Q",
-        "page_number": 10
+        "page_number": 11
       }
     ],
     "retrieved_docs": [
@@ -14344,21 +10664,6 @@
         "doc_name": "MGMRESORTS_2023Q2_10Q",
         "page_number": 24,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2023Q2_10Q",
-        "page_number": 46,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2023Q2_10Q",
-        "page_number": 7,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2023Q2_10Q",
-        "page_number": 27,
-        "rank": 23
       }
     ],
     "mrr_score": 1.0,
@@ -14371,7 +10676,7 @@
     "expected_evidence": [
       {
         "doc_name": "MICROSOFT_2016_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -14466,7 +10771,7 @@
     "expected_evidence": [
       {
         "doc_name": "MICROSOFT_2023_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -14526,11 +10831,11 @@
     "expected_evidence": [
       {
         "doc_name": "NETFLIX_2015_10K",
-        "page_number": 39
+        "page_number": 40
       },
       {
         "doc_name": "NETFLIX_2015_10K",
-        "page_number": 41
+        "page_number": 42
       }
     ],
     "retrieved_docs": [
@@ -14610,7 +10915,7 @@
     "expected_evidence": [
       {
         "doc_name": "NETFLIX_2017_10K",
-        "page_number": 44
+        "page_number": 45
       }
     ],
     "retrieved_docs": [
@@ -14713,46 +11018,6 @@
         "doc_name": "NETFLIX_2017_10K",
         "page_number": 70,
         "rank": 20
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 20,
-        "rank": 21
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 50,
-        "rank": 22
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 69,
-        "rank": 23
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 73,
-        "rank": 24
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 19,
-        "rank": 25
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 21,
-        "rank": 26
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 61,
-        "rank": 27
-      },
-      {
-        "doc_name": "NETFLIX_2017_10K",
-        "page_number": 40,
-        "rank": 28
       }
     ],
     "mrr_score": 1.0,
@@ -14765,7 +11030,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2018_10K",
-        "page_number": 45
+        "page_number": 46
       }
     ],
     "retrieved_docs": [
@@ -14868,41 +11133,6 @@
         "doc_name": "NIKE_2018_10K",
         "page_number": 30,
         "rank": 20
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 25,
-        "rank": 21
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 33,
-        "rank": 22
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 29,
-        "rank": 23
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 73,
-        "rank": 24
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 26,
-        "rank": 25
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 29,
-        "rank": 26
-      },
-      {
-        "doc_name": "NIKE_2018_10K",
-        "page_number": 30,
-        "rank": 27
       }
     ],
     "mrr_score": 1.0,
@@ -14915,7 +11145,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2019_10K",
-        "page_number": 53
+        "page_number": 54
       }
     ],
     "retrieved_docs": [
@@ -15018,26 +11248,6 @@
         "doc_name": "NIKE_2019_10K",
         "page_number": 37,
         "rank": 20
-      },
-      {
-        "doc_name": "NIKE_2019_10K",
-        "page_number": 40,
-        "rank": 21
-      },
-      {
-        "doc_name": "NIKE_2019_10K",
-        "page_number": 84,
-        "rank": 22
-      },
-      {
-        "doc_name": "NIKE_2019_10K",
-        "page_number": 82,
-        "rank": 23
-      },
-      {
-        "doc_name": "NIKE_2019_10K",
-        "page_number": 30,
-        "rank": 24
       }
     ],
     "mrr_score": 1.0,
@@ -15050,11 +11260,11 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2021_10K",
-        "page_number": 58
+        "page_number": 59
       },
       {
         "doc_name": "NIKE_2021_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -15157,51 +11367,6 @@
         "doc_name": "NIKE_2021_10K",
         "page_number": 91,
         "rank": 20
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 89,
-        "rank": 21
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 37,
-        "rank": 22
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 39,
-        "rank": 23
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 35,
-        "rank": 24
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 47,
-        "rank": 25
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 49,
-        "rank": 26
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 49,
-        "rank": 27
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 65,
-        "rank": 28
-      },
-      {
-        "doc_name": "NIKE_2021_10K",
-        "page_number": 92,
-        "rank": 29
       }
     ],
     "mrr_score": 0.1,
@@ -15214,7 +11379,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2023_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -15317,106 +11482,6 @@
         "doc_name": "NIKE_2023_10K",
         "page_number": 45,
         "rank": 20
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 90,
-        "rank": 21
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 88,
-        "rank": 22
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 38,
-        "rank": 23
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 50,
-        "rank": 24
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 32,
-        "rank": 25
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 61,
-        "rank": 26
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 91,
-        "rank": 27
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 38,
-        "rank": 28
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 34,
-        "rank": 29
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 80,
-        "rank": 30
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 43,
-        "rank": 31
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 63,
-        "rank": 32
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 44,
-        "rank": 33
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 62,
-        "rank": 34
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 94,
-        "rank": 35
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 7,
-        "rank": 36
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 8,
-        "rank": 37
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 43,
-        "rank": 38
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 5,
-        "rank": 39
-      },
-      {
-        "doc_name": "NIKE_2023_10K",
-        "page_number": 30,
-        "rank": 40
       }
     ],
     "mrr_score": 1.0,
@@ -15429,7 +11494,7 @@
     "expected_evidence": [
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -15532,106 +11597,6 @@
         "doc_name": "PAYPAL_2022_10K",
         "page_number": 119,
         "rank": 20
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 16,
-        "rank": 21
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 24,
-        "rank": 22
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 91,
-        "rank": 23
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 50,
-        "rank": 24
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 63,
-        "rank": 25
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 4,
-        "rank": 26
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 83,
-        "rank": 27
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 90,
-        "rank": 28
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 62,
-        "rank": 29
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 68,
-        "rank": 30
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 86,
-        "rank": 31
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 7,
-        "rank": 32
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 115,
-        "rank": 33
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 8,
-        "rank": 34
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 66,
-        "rank": 35
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 107,
-        "rank": 36
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 78,
-        "rank": 37
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 101,
-        "rank": 38
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 85,
-        "rank": 39
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 92,
-        "rank": 40
       }
     ],
     "mrr_score": 0.0,
@@ -15644,7 +11609,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2021_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -15747,26 +11712,6 @@
         "doc_name": "PEPSICO_2021_10K",
         "page_number": 52,
         "rank": 20
-      },
-      {
-        "doc_name": "PEPSICO_2021_10K",
-        "page_number": 65,
-        "rank": 21
-      },
-      {
-        "doc_name": "PEPSICO_2021_10K",
-        "page_number": 541,
-        "rank": 22
-      },
-      {
-        "doc_name": "PEPSICO_2021_10K",
-        "page_number": 71,
-        "rank": 23
-      },
-      {
-        "doc_name": "PEPSICO_2021_10K",
-        "page_number": 31,
-        "rank": 24
       }
     ],
     "mrr_score": 0.25,
@@ -15779,11 +11724,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 3
+        "page_number": 4
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -15886,101 +11831,6 @@
         "doc_name": "PEPSICO_2022_10K",
         "page_number": 27,
         "rank": 20
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 13,
-        "rank": 21
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 487,
-        "rank": 22
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 27,
-        "rank": 23
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 62,
-        "rank": 24
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 103,
-        "rank": 25
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 487,
-        "rank": 26
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 67,
-        "rank": 27
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 65,
-        "rank": 28
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 71,
-        "rank": 29
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 484,
-        "rank": 30
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 63,
-        "rank": 31
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 12,
-        "rank": 32
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 491,
-        "rank": 33
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 500,
-        "rank": 34
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 484,
-        "rank": 35
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 9,
-        "rank": 36
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 33,
-        "rank": 37
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 69,
-        "rank": 38
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 64,
-        "rank": 39
       }
     ],
     "mrr_score": 0.09090909090909091,
@@ -15993,7 +11843,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 25
+        "page_number": 26
       }
     ],
     "retrieved_docs": [
@@ -16096,56 +11946,6 @@
         "doc_name": "PEPSICO_2022_10K",
         "page_number": 125,
         "rank": 20
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 7,
-        "rank": 21
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 3,
-        "rank": 22
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 500,
-        "rank": 23
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 478,
-        "rank": 24
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 503,
-        "rank": 25
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 90,
-        "rank": 26
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 488,
-        "rank": 27
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 72,
-        "rank": 28
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 489,
-        "rank": 29
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 67,
-        "rank": 30
       }
     ],
     "mrr_score": 0.0,
@@ -16158,7 +11958,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 77
+        "page_number": 78
       }
     ],
     "retrieved_docs": [
@@ -16258,11 +12058,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 61
+        "page_number": 62
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -16377,11 +12177,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 61
+        "page_number": 62
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -16484,21 +12284,6 @@
         "doc_name": "PEPSICO_2022_10K",
         "page_number": 107,
         "rank": 20
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 78,
-        "rank": 21
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 42,
-        "rank": 22
-      },
-      {
-        "doc_name": "PEPSICO_2022_10K",
-        "page_number": 46,
-        "rank": 23
       }
     ],
     "mrr_score": 0.25,
@@ -16511,7 +12296,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -16541,7 +12326,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -16621,7 +12406,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -16706,7 +12491,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023Q1_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -16761,7 +12546,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023Q1_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -16851,7 +12636,7 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 58
+        "page_number": 59
       }
     ],
     "retrieved_docs": [
@@ -16954,110 +12739,10 @@
         "doc_name": "PFIZER_2021_10K",
         "page_number": 6,
         "rank": 20
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 82,
-        "rank": 21
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 81,
-        "rank": 22
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 107,
-        "rank": 23
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 22,
-        "rank": 24
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 31,
-        "rank": 25
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 30,
-        "rank": 26
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 80,
-        "rank": 27
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 74,
-        "rank": 28
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 35,
-        "rank": 29
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 85,
-        "rank": 30
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 79,
-        "rank": 31
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 44,
-        "rank": 32
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 136,
-        "rank": 33
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 105,
-        "rank": 34
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 59,
-        "rank": 35
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 81,
-        "rank": 36
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 78,
-        "rank": 37
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 71,
-        "rank": 38
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 62,
-        "rank": 39
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 73,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.02857142857142857,
-    "rank": 35
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00702",
@@ -17066,7 +12751,7 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -17169,106 +12854,6 @@
         "doc_name": "PFIZER_2021_10K",
         "page_number": 112,
         "rank": 20
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 49,
-        "rank": 21
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 74,
-        "rank": 22
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 62,
-        "rank": 23
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 112,
-        "rank": 24
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 73,
-        "rank": 25
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 64,
-        "rank": 26
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 79,
-        "rank": 27
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 82,
-        "rank": 28
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 10,
-        "rank": 29
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 108,
-        "rank": 30
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 81,
-        "rank": 31
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 107,
-        "rank": 32
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 106,
-        "rank": 33
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 77,
-        "rank": 34
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 109,
-        "rank": 35
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 82,
-        "rank": 36
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 73,
-        "rank": 37
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 42,
-        "rank": 38
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 71,
-        "rank": 39
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 64,
-        "rank": 40
       }
     ],
     "mrr_score": 0.09090909090909091,
@@ -17281,11 +12866,11 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 70
+        "page_number": 71
       }
     ],
     "retrieved_docs": [
@@ -17388,106 +12973,6 @@
         "doc_name": "PFIZER_2021_10K",
         "page_number": 30,
         "rank": 20
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 14,
-        "rank": 21
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 110,
-        "rank": 22
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 39,
-        "rank": 23
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 62,
-        "rank": 24
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 19,
-        "rank": 25
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 105,
-        "rank": 26
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 89,
-        "rank": 27
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 35,
-        "rank": 28
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 74,
-        "rank": 29
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 111,
-        "rank": 30
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 30,
-        "rank": 31
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 115,
-        "rank": 32
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 110,
-        "rank": 33
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 119,
-        "rank": 34
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 117,
-        "rank": 35
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 66,
-        "rank": 36
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 120,
-        "rank": 37
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 119,
-        "rank": 38
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 113,
-        "rank": 39
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 142,
-        "rank": 40
       }
     ],
     "mrr_score": 0.16666666666666666,
@@ -17500,7 +12985,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 40
+        "page_number": 41
       }
     ],
     "retrieved_docs": [
@@ -17603,11 +13088,6 @@
         "doc_name": "Pfizer_2023Q2_10Q",
         "page_number": 16,
         "rank": 20
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 26,
-        "rank": 21
       }
     ],
     "mrr_score": 1.0,
@@ -17620,7 +13100,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -17723,31 +13203,6 @@
         "doc_name": "Pfizer_2023Q2_10Q",
         "page_number": 47,
         "rank": 20
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 57,
-        "rank": 21
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 4,
-        "rank": 22
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 49,
-        "rank": 23
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 58,
-        "rank": 24
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 57,
-        "rank": 25
       }
     ],
     "mrr_score": 0.16666666666666666,
@@ -17760,7 +13215,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 40
+        "page_number": 41
       }
     ],
     "retrieved_docs": [
@@ -17863,51 +13318,6 @@
         "doc_name": "Pfizer_2023Q2_10Q",
         "page_number": 37,
         "rank": 20
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 58,
-        "rank": 21
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 8,
-        "rank": 22
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 49,
-        "rank": 23
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 58,
-        "rank": 24
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 15,
-        "rank": 25
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 9,
-        "rank": 26
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 51,
-        "rank": 27
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 57,
-        "rank": 28
-      },
-      {
-        "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 40,
-        "rank": 29
       }
     ],
     "mrr_score": 0.25,
@@ -17920,7 +13330,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [],
@@ -17934,7 +13344,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -18037,106 +13447,6 @@
         "doc_name": "ULTABEAUTY_2023_10K",
         "page_number": 12,
         "rank": 20
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 104,
-        "rank": 21
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 105,
-        "rank": 22
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 19,
-        "rank": 23
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 34,
-        "rank": 24
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 83,
-        "rank": 25
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 10,
-        "rank": 26
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 58,
-        "rank": 27
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 24,
-        "rank": 28
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 31,
-        "rank": 29
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 5,
-        "rank": 30
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 15,
-        "rank": 31
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 4,
-        "rank": 32
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 11,
-        "rank": 33
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 12,
-        "rank": 34
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 8,
-        "rank": 35
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 75,
-        "rank": 36
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 15,
-        "rank": 37
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 79,
-        "rank": 38
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 34,
-        "rank": 39
-      },
-      {
-        "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 18,
-        "rank": 40
       }
     ],
     "mrr_score": 0.16666666666666666,
@@ -18149,7 +13459,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -18179,7 +13489,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -18254,7 +13564,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -18329,7 +13639,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -18404,7 +13714,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 84
+        "page_number": 85
       }
     ],
     "retrieved_docs": [
@@ -18507,76 +13817,6 @@
         "doc_name": "VERIZON_2021_10K",
         "page_number": 80,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 54,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 20,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 31,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 63,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 69,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 24,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 33,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 76,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 22,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 35,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 70,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 77,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 95,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 67,
-        "rank": 34
       }
     ],
     "mrr_score": 0.2,
@@ -18589,11 +13829,11 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 62
+        "page_number": 63
       },
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 93
+        "page_number": 94
       }
     ],
     "retrieved_docs": [
@@ -18696,110 +13936,10 @@
         "doc_name": "VERIZON_2021_10K",
         "page_number": 79,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 72,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 94,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 17,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 94,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 45,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 100,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 24,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 96,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 54,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 20,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 55,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 64,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 92,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 43,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 54,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 105,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 38,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 51,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 84,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 89,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.045454545454545456,
-    "rank": 22
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_00216",
@@ -18808,7 +13948,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -18911,106 +14051,6 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 20,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 53,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 82,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 18,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 63,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 14,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 40,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 21,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 57,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 26,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 107,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 40,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 52,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 58,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 78,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 86,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 34,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 72,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 54,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 98,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 91,
-        "rank": 40
       }
     ],
     "mrr_score": 0.125,
@@ -19023,11 +14063,11 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 55
+        "page_number": 56
       },
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 22
+        "page_number": 23
       }
     ],
     "retrieved_docs": [
@@ -19130,106 +14170,6 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 34,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 37,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 106,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 97,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 57,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 39,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 18,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 75,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 43,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 31,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 54,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 72,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 41,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 52,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 98,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 57,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 32,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 91,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 91,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 77,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 104,
-        "rank": 40
       }
     ],
     "mrr_score": 0.25,
@@ -19242,7 +14182,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 76
+        "page_number": 77
       }
     ],
     "retrieved_docs": [
@@ -19345,110 +14285,10 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 104,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 56,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 99,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 75,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 106,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 76,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 50,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 77,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 91,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 77,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 56,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 98,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 58,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 80,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 43,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 39,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 57,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 47,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 57,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 52,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 82,
-        "rank": 40
       }
     ],
-    "mrr_score": 0.037037037037037035,
-    "rank": 27
+    "mrr_score": 0.0,
+    "rank": -1
   },
   {
     "query_id": "financebench_id_06247",
@@ -19457,11 +14297,11 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 56
+        "page_number": 57
       },
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 58
+        "page_number": 59
       }
     ],
     "retrieved_docs": [
@@ -19564,106 +14404,6 @@
         "doc_name": "WALMART_2018_10K",
         "page_number": 233,
         "rank": 20
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 102,
-        "rank": 21
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 232,
-        "rank": 22
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 34,
-        "rank": 23
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 136,
-        "rank": 24
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 222,
-        "rank": 25
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 35,
-        "rank": 26
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 58,
-        "rank": 27
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 225,
-        "rank": 28
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 53,
-        "rank": 29
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 130,
-        "rank": 30
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 102,
-        "rank": 31
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 104,
-        "rank": 32
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 228,
-        "rank": 33
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 224,
-        "rank": 34
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 298,
-        "rank": 35
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 233,
-        "rank": 36
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 215,
-        "rank": 37
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 136,
-        "rank": 38
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 63,
-        "rank": 39
-      },
-      {
-        "doc_name": "WALMART_2018_10K",
-        "page_number": 161,
-        "rank": 40
       }
     ],
     "mrr_score": 0.125,
@@ -19676,7 +14416,7 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2019_10K",
-        "page_number": 47
+        "page_number": 48
       }
     ],
     "retrieved_docs": [
@@ -19779,61 +14519,6 @@
         "doc_name": "WALMART_2019_10K",
         "page_number": 53,
         "rank": 20
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 64,
-        "rank": 21
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 34,
-        "rank": 22
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 34,
-        "rank": 23
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 71,
-        "rank": 24
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 32,
-        "rank": 25
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 46,
-        "rank": 26
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 50,
-        "rank": 27
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 4,
-        "rank": 28
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 3,
-        "rank": 29
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 32,
-        "rank": 30
-      },
-      {
-        "doc_name": "WALMART_2019_10K",
-        "page_number": 7,
-        "rank": 31
       }
     ],
     "mrr_score": 0.16666666666666666,
@@ -19846,11 +14531,11 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2020_10K",
-        "page_number": 50
+        "page_number": 51
       },
       {
         "doc_name": "WALMART_2020_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -19953,41 +14638,6 @@
         "doc_name": "WALMART_2020_10K",
         "page_number": 35,
         "rank": 20
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 36,
-        "rank": 21
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 53,
-        "rank": 22
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 47,
-        "rank": 23
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 8,
-        "rank": 24
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 30,
-        "rank": 25
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 60,
-        "rank": 26
-      },
-      {
-        "doc_name": "WALMART_2020_10K",
-        "page_number": 33,
-        "rank": 27
       }
     ],
     "mrr_score": 1.0,
@@ -19998,10 +14648,11 @@
       "provider": "ollama",
       "model": "bge-m3",
       "chunk_size": 512,
-      "k": 40,
+      "k": 20,
       "mode": "singledoc",
+      "use_page_tolerance": true,
       "total_queries": 150,
-      "average_mrr": 0.38466121487460414
+      "average_mrr": 0.38174437802765976
     }
   }
 ]

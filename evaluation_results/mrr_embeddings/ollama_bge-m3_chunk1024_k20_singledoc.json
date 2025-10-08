@@ -6,7 +6,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2018_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -101,7 +101,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2018_10K",
-        "page_number": 57
+        "page_number": 58
       }
     ],
     "retrieved_docs": [
@@ -191,8 +191,8 @@
         "rank": 17
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
   },
   {
     "query_id": "financebench_id_00499",
@@ -201,15 +201,15 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 47
+        "page_number": 48
       },
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 49
+        "page_number": 50
       },
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -312,66 +312,6 @@
         "doc_name": "3M_2022_10K",
         "page_number": 66,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 245,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 57,
-        "rank": 22
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 251,
-        "rank": 23
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 58,
-        "rank": 24
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 131,
-        "rank": 25
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 103,
-        "rank": 26
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 250,
-        "rank": 27
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 36,
-        "rank": 28
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 132,
-        "rank": 29
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 44,
-        "rank": 30
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 77,
-        "rank": 31
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 101,
-        "rank": 32
       }
     ],
     "mrr_score": 1.0,
@@ -384,7 +324,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 26
+        "page_number": 27
       }
     ],
     "retrieved_docs": [
@@ -487,16 +427,6 @@
         "doc_name": "3M_2022_10K",
         "page_number": 65,
         "rank": 20
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 70,
-        "rank": 21
-      },
-      {
-        "doc_name": "3M_2022_10K",
-        "page_number": 37,
-        "rank": 22
       }
     ],
     "mrr_score": 0.0,
@@ -509,7 +439,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2022_10K",
-        "page_number": 24
+        "page_number": 25
       }
     ],
     "retrieved_docs": [
@@ -604,7 +534,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -669,8 +599,8 @@
         "rank": 12
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.125,
+    "rank": 8
   },
   {
     "query_id": "financebench_id_00941",
@@ -679,7 +609,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -764,7 +694,7 @@
     "expected_evidence": [
       {
         "doc_name": "3M_2023Q2_10Q",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -829,8 +759,8 @@
         "rank": 12
       }
     ],
-    "mrr_score": 0.2,
-    "rank": 5
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
   },
   {
     "query_id": "financebench_id_02987",
@@ -839,11 +769,11 @@
     "expected_evidence": [
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 68
+        "page_number": 69
       },
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 69
+        "page_number": 70
       }
     ],
     "retrieved_docs": [
@@ -913,11 +843,11 @@
     "expected_evidence": [
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 72
+        "page_number": 73
       }
     ],
     "retrieved_docs": [
@@ -1020,46 +950,6 @@
         "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
         "page_number": 146,
         "rank": 20
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 42,
-        "rank": 21
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 131,
-        "rank": 22
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 72,
-        "rank": 23
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 163,
-        "rank": 24
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 28,
-        "rank": 25
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 161,
-        "rank": 26
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 90,
-        "rank": 27
-      },
-      {
-        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
-        "page_number": 91,
-        "rank": 28
       }
     ],
     "mrr_score": 0.1111111111111111,
@@ -1072,11 +962,11 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2015_10K",
-        "page_number": 58
+        "page_number": 59
       },
       {
         "doc_name": "ADOBE_2015_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -1131,7 +1021,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -1176,11 +1066,11 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2017_10K",
-        "page_number": 56
+        "page_number": 57
       },
       {
         "doc_name": "ADOBE_2017_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -1205,7 +1095,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2022_10K",
-        "page_number": 53
+        "page_number": 54
       }
     ],
     "retrieved_docs": [
@@ -1275,7 +1165,7 @@
     "expected_evidence": [
       {
         "doc_name": "ADOBE_2022_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -1365,7 +1255,7 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -1465,11 +1355,11 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 129
+        "page_number": 130
       },
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -1584,11 +1474,11 @@
     "expected_evidence": [
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 129
+        "page_number": 130
       },
       {
         "doc_name": "AES_2022_10K",
-        "page_number": 131
+        "page_number": 132
       }
     ],
     "retrieved_docs": [
@@ -1663,11 +1553,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 37
+        "page_number": 38
       },
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 39
+        "page_number": 40
       }
     ],
     "retrieved_docs": [
@@ -1717,7 +1607,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2017_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -1802,7 +1692,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMAZON_2019_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -1882,7 +1772,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2020_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -1972,8 +1862,8 @@
         "rank": 17
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.25,
+    "rank": 4
   },
   {
     "query_id": "financebench_id_01935",
@@ -1982,7 +1872,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -2012,7 +1902,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -2082,8 +1972,8 @@
         "rank": 13
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.16666666666666666,
+    "rank": 6
   },
   {
     "query_id": "financebench_id_01079",
@@ -2092,7 +1982,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -2195,16 +2085,6 @@
         "doc_name": "AMCOR_2023_10K",
         "page_number": 1,
         "rank": 20
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 114,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 70,
-        "rank": 22
       }
     ],
     "mrr_score": 0.0,
@@ -2217,7 +2097,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -2320,20 +2200,10 @@
         "doc_name": "AMCOR_2023_10K",
         "page_number": 111,
         "rank": 20
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 152,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMCOR_2023_10K",
-        "page_number": 114,
-        "rank": 22
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.05555555555555555,
+    "rank": 18
   },
   {
     "query_id": "financebench_id_00684",
@@ -2342,7 +2212,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -2417,7 +2287,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q2_10Q",
-        "page_number": 14
+        "page_number": 15
       }
     ],
     "retrieved_docs": [
@@ -2482,7 +2352,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q4_EARNINGS",
-        "page_number": 11
+        "page_number": 12
       }
     ],
     "retrieved_docs": [
@@ -2512,7 +2382,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMCOR_2023Q4_EARNINGS",
-        "page_number": 9
+        "page_number": 10
       }
     ],
     "retrieved_docs": [
@@ -2547,11 +2417,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 55
+        "page_number": 56
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -2654,11 +2524,6 @@
         "doc_name": "AMD_2015_10K",
         "page_number": 37,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2015_10K",
-        "page_number": 107,
-        "rank": 21
       }
     ],
     "mrr_score": 1.0,
@@ -2671,7 +2536,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [],
@@ -2685,7 +2550,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -2800,7 +2665,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 42
+        "page_number": 43
       }
     ],
     "retrieved_docs": [
@@ -2845,7 +2710,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 42
+        "page_number": 43
       }
     ],
     "retrieved_docs": [
@@ -2880,7 +2745,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 57
+        "page_number": 58
       }
     ],
     "retrieved_docs": [
@@ -2935,8 +2800,8 @@
         "rank": 10
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.125,
+    "rank": 8
   },
   {
     "query_id": "financebench_id_00563",
@@ -2945,7 +2810,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 47
+        "page_number": 48
       }
     ],
     "retrieved_docs": [
@@ -3025,7 +2890,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 11
+        "page_number": 12
       }
     ],
     "retrieved_docs": [
@@ -3128,11 +2993,6 @@
         "doc_name": "AMD_2022_10K",
         "page_number": 55,
         "rank": 20
-      },
-      {
-        "doc_name": "AMD_2022_10K",
-        "page_number": 121,
-        "rank": 21
       }
     ],
     "mrr_score": 0.0,
@@ -3145,7 +3005,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -3200,7 +3060,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 154
+        "page_number": 155
       }
     ],
     "retrieved_docs": [
@@ -3260,7 +3120,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 95
+        "page_number": 96
       }
     ],
     "retrieved_docs": [
@@ -3285,7 +3145,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 95
+        "page_number": 96
       }
     ],
     "retrieved_docs": [
@@ -3315,7 +3175,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 43
+        "page_number": 44
       }
     ],
     "retrieved_docs": [
@@ -3355,7 +3215,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 97
+        "page_number": 98
       }
     ],
     "retrieved_docs": [
@@ -3405,7 +3265,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 44
+        "page_number": 45
       }
     ],
     "retrieved_docs": [
@@ -3508,61 +3368,6 @@
         "doc_name": "AMERICANEXPRESS_2022_10K",
         "page_number": 167,
         "rank": 20
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 253,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 61,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 123,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 113,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 169,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 111,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 112,
-        "rank": 27
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 87,
-        "rank": 28
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 29,
-        "rank": 29
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 175,
-        "rank": 30
-      },
-      {
-        "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 52,
-        "rank": 31
       }
     ],
     "mrr_score": 0.0,
@@ -3575,7 +3380,7 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2020_10K",
-        "page_number": 85
+        "page_number": 86
       }
     ],
     "retrieved_docs": [
@@ -3655,8 +3460,8 @@
         "rank": 15
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_04254",
@@ -3665,11 +3470,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2021_10K",
-        "page_number": 85
+        "page_number": 86
       },
       {
         "doc_name": "AMERICANWATERWORKS_2021_10K",
-        "page_number": 87
+        "page_number": 88
       }
     ],
     "retrieved_docs": [
@@ -3779,11 +3584,11 @@
     "expected_evidence": [
       {
         "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 80
+        "page_number": 81
       },
       {
         "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 81
+        "page_number": 82
       }
     ],
     "retrieved_docs": [
@@ -3886,41 +3691,6 @@
         "doc_name": "AMERICANWATERWORKS_2022_10K",
         "page_number": 9,
         "rank": 20
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 178,
-        "rank": 21
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 155,
-        "rank": 22
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 244,
-        "rank": 23
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 298,
-        "rank": 24
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 40,
-        "rank": 25
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 243,
-        "rank": 26
-      },
-      {
-        "doc_name": "AMERICANWATERWORKS_2022_10K",
-        "page_number": 16,
-        "rank": 27
       }
     ],
     "mrr_score": 0.3333333333333333,
@@ -3933,7 +3703,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2017_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -4036,26 +3806,6 @@
         "doc_name": "BESTBUY_2017_10K",
         "page_number": 46,
         "rank": 20
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 31,
-        "rank": 21
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 102,
-        "rank": 22
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 36,
-        "rank": 23
-      },
-      {
-        "doc_name": "BESTBUY_2017_10K",
-        "page_number": 5,
-        "rank": 24
       }
     ],
     "mrr_score": 1.0,
@@ -4068,7 +3818,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2019_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -4168,7 +3918,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 39
+        "page_number": 40
       }
     ],
     "retrieved_docs": [
@@ -4208,7 +3958,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 50
+        "page_number": 51
       }
     ],
     "retrieved_docs": [
@@ -4288,7 +4038,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 41
+        "page_number": 42
       }
     ],
     "retrieved_docs": [
@@ -4358,7 +4108,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 19
+        "page_number": 20
       }
     ],
     "retrieved_docs": [
@@ -4408,7 +4158,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 16
+        "page_number": 17
       }
     ],
     "retrieved_docs": [
@@ -4453,7 +4203,7 @@
     "expected_evidence": [
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 17
+        "page_number": 18
       }
     ],
     "retrieved_docs": [
@@ -4488,8 +4238,8 @@
         "rank": 6
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_04660",
@@ -4498,7 +4248,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -4543,7 +4293,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 85
+        "page_number": 86
       }
     ],
     "retrieved_docs": [
@@ -4628,7 +4378,7 @@
     "expected_evidence": [
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 89
+        "page_number": 90
       }
     ],
     "retrieved_docs": [
@@ -4703,7 +4453,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2018_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -4778,7 +4528,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -4893,7 +4643,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 112
+        "page_number": 113
       }
     ],
     "retrieved_docs": [
@@ -4998,7 +4748,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -5078,15 +4828,15 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 7
+        "page_number": 8
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 9
+        "page_number": 10
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 13
+        "page_number": 14
       }
     ],
     "retrieved_docs": [
@@ -5189,11 +4939,6 @@
         "doc_name": "BOEING_2022_10K",
         "page_number": 21,
         "rank": 20
-      },
-      {
-        "doc_name": "BOEING_2022_10K",
-        "page_number": 149,
-        "rank": 21
       }
     ],
     "mrr_score": 0.0,
@@ -5206,7 +4951,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 7
+        "page_number": 8
       }
     ],
     "retrieved_docs": [
@@ -5301,7 +5046,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 8
+        "page_number": 9
       }
     ],
     "retrieved_docs": [
@@ -5396,7 +5141,7 @@
     "expected_evidence": [
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -5501,11 +5246,11 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2017_10K",
-        "page_number": 73
+        "page_number": 74
       },
       {
         "doc_name": "COCACOLA_2017_10K",
-        "page_number": 75
+        "page_number": 76
       }
     ],
     "retrieved_docs": [
@@ -5590,8 +5335,8 @@
         "rank": 16
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_09724",
@@ -5600,7 +5345,7 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2021_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -5630,11 +5375,11 @@
     "expected_evidence": [
       {
         "doc_name": "COCACOLA_2022_10K",
-        "page_number": 62
+        "page_number": 63
       },
       {
         "doc_name": "COCACOLA_2022_10K",
-        "page_number": 65
+        "page_number": 66
       }
     ],
     "retrieved_docs": [
@@ -5684,11 +5429,11 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2020_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "CORNING_2020_10K",
-        "page_number": 71
+        "page_number": 72
       }
     ],
     "retrieved_docs": [
@@ -5791,106 +5536,6 @@
         "doc_name": "CORNING_2020_10K",
         "page_number": 43,
         "rank": 20
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 31,
-        "rank": 21
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 115,
-        "rank": 22
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 26,
-        "rank": 23
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 25,
-        "rank": 24
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 98,
-        "rank": 25
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 41,
-        "rank": 26
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 89,
-        "rank": 27
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 90,
-        "rank": 28
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 76,
-        "rank": 29
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 82,
-        "rank": 30
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 94,
-        "rank": 31
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 102,
-        "rank": 32
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 30,
-        "rank": 33
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 79,
-        "rank": 34
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 44,
-        "rank": 35
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 28,
-        "rank": 36
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 113,
-        "rank": 37
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 92,
-        "rank": 38
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 52,
-        "rank": 39
-      },
-      {
-        "doc_name": "CORNING_2020_10K",
-        "page_number": 126,
-        "rank": 40
       }
     ],
     "mrr_score": 0.125,
@@ -5903,7 +5548,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2021_10K",
-        "page_number": 64
+        "page_number": 65
       }
     ],
     "retrieved_docs": [
@@ -6006,61 +5651,6 @@
         "doc_name": "CORNING_2021_10K",
         "page_number": 92,
         "rank": 20
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 83,
-        "rank": 21
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 69,
-        "rank": 22
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 39,
-        "rank": 23
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 85,
-        "rank": 24
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 43,
-        "rank": 25
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 117,
-        "rank": 26
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 82,
-        "rank": 27
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 48,
-        "rank": 28
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 84,
-        "rank": 29
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 47,
-        "rank": 30
-      },
-      {
-        "doc_name": "CORNING_2021_10K",
-        "page_number": 102,
-        "rank": 31
       }
     ],
     "mrr_score": 0.5,
@@ -6073,7 +5663,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2022_10K",
-        "page_number": 23
+        "page_number": 24
       }
     ],
     "retrieved_docs": [
@@ -6183,7 +5773,7 @@
     "expected_evidence": [
       {
         "doc_name": "CORNING_2022_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -6268,8 +5858,8 @@
         "rank": 16
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_04209",
@@ -6278,7 +5868,7 @@
     "expected_evidence": [
       {
         "doc_name": "COSTCO_2021_10K",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -6343,11 +5933,11 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 301
+        "page_number": 302
       },
       {
         "doc_name": "CVSHEALTH_2018_10K",
-        "page_number": 303
+        "page_number": 304
       }
     ],
     "retrieved_docs": [
@@ -6417,8 +6007,8 @@
         "rank": 13
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
   },
   {
     "query_id": "financebench_id_00790",
@@ -6427,11 +6017,11 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 107
+        "page_number": 108
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 109
+        "page_number": 110
       }
     ],
     "retrieved_docs": [
@@ -6534,20 +6124,10 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 178,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 100,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 74,
-        "rank": 22
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.16666666666666666,
+    "rank": 6
   },
   {
     "query_id": "financebench_id_01107",
@@ -6556,15 +6136,15 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 172
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 172
+        "page_number": 173
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 173
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174
       }
     ],
     "retrieved_docs": [
@@ -6667,50 +6247,10 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 208,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 101,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 69,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 47,
-        "rank": 23
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 20,
-        "rank": 24
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 106,
-        "rank": 25
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 194,
-        "rank": 26
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 5,
-        "rank": 27
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 74,
-        "rank": 28
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_01244",
@@ -6719,7 +6259,7 @@
     "expected_evidence": [
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -6822,25 +6362,10 @@
         "doc_name": "CVSHEALTH_2022_10K",
         "page_number": 209,
         "rank": 20
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 15,
-        "rank": 21
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 72,
-        "rank": 22
-      },
-      {
-        "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 102,
-        "rank": 23
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.08333333333333333,
+    "rank": 12
   },
   {
     "query_id": "financebench_id_00839",
@@ -6849,7 +6374,7 @@
     "expected_evidence": [
       {
         "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -6874,8 +6399,8 @@
         "rank": 4
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_00822",
@@ -6884,7 +6409,7 @@
     "expected_evidence": [
       {
         "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -6904,11 +6429,11 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 52
+        "page_number": 53
       },
       {
         "doc_name": "GENERALMILLS_2019_10K",
-        "page_number": 54
+        "page_number": 55
       }
     ],
     "retrieved_docs": [
@@ -6988,8 +6513,8 @@
         "rank": 15
       }
     ],
-    "mrr_score": 0.3333333333333333,
-    "rank": 3
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_03471",
@@ -6998,7 +6523,7 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 49
+        "page_number": 50
       }
     ],
     "retrieved_docs": [
@@ -7068,8 +6593,8 @@
         "rank": 13
       }
     ],
-    "mrr_score": 0.3333333333333333,
-    "rank": 3
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_04854",
@@ -7078,7 +6603,7 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2020_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -7163,11 +6688,11 @@
     "expected_evidence": [
       {
         "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 44
+        "page_number": 45
       },
       {
         "doc_name": "GENERALMILLS_2022_10K",
-        "page_number": 48
+        "page_number": 49
       }
     ],
     "retrieved_docs": [
@@ -7277,7 +6802,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 27
+        "page_number": 28
       }
     ],
     "retrieved_docs": [
@@ -7342,7 +6867,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 33
+        "page_number": 34
       }
     ],
     "retrieved_docs": [],
@@ -7356,11 +6881,11 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 45
+        "page_number": 46
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 46
+        "page_number": 47
       }
     ],
     "retrieved_docs": [
@@ -7390,7 +6915,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -7440,7 +6965,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -7495,8 +7020,8 @@
         "rank": 10
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_01488",
@@ -7505,7 +7030,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -7570,7 +7095,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -7640,7 +7165,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -7705,7 +7230,7 @@
     "expected_evidence": [
       {
         "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
-        "page_number": 9
+        "page_number": 10
       }
     ],
     "retrieved_docs": [
@@ -7770,7 +7295,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2021Q1_10Q",
-        "page_number": 18
+        "page_number": 19
       }
     ],
     "retrieved_docs": [
@@ -7830,7 +7355,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2021Q1_10Q",
-        "page_number": 5
+        "page_number": 6
       }
     ],
     "retrieved_docs": [
@@ -7895,7 +7420,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -7998,46 +7523,6 @@
         "doc_name": "JPMORGAN_2022_10K",
         "page_number": 110,
         "rank": 20
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 27,
-        "rank": 21
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 154,
-        "rank": 22
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 47,
-        "rank": 23
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 377,
-        "rank": 24
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 11,
-        "rank": 25
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 14,
-        "rank": 26
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 292,
-        "rank": 27
-      },
-      {
-        "doc_name": "JPMORGAN_2022_10K",
-        "page_number": 21,
-        "rank": 28
       }
     ],
     "mrr_score": 0.0,
@@ -8050,7 +7535,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2022Q2_10Q",
-        "page_number": 20
+        "page_number": 21
       }
     ],
     "retrieved_docs": [
@@ -8125,7 +7610,7 @@
     "expected_evidence": [
       {
         "doc_name": "JPMORGAN_2023Q2_10Q",
-        "page_number": 84
+        "page_number": 85
       }
     ],
     "retrieved_docs": [
@@ -8235,11 +7720,11 @@
     "expected_evidence": [
       {
         "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 49
+        "page_number": 50
       },
       {
         "doc_name": "KRAFTHEINZ_2019_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -8324,8 +7809,8 @@
         "rank": 16
       }
     ],
-    "mrr_score": 0.14285714285714285,
-    "rank": 7
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
   },
   {
     "query_id": "financebench_id_04412",
@@ -8334,11 +7819,11 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2020_10K",
-        "page_number": 66
+        "page_number": 67
       },
       {
         "doc_name": "LOCKHEEDMARTIN_2020_10K",
-        "page_number": 68
+        "page_number": 69
       }
     ],
     "retrieved_docs": [
@@ -8403,7 +7888,7 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2021_10K",
-        "page_number": 67
+        "page_number": 68
       }
     ],
     "retrieved_docs": [
@@ -8473,7 +7958,7 @@
     "expected_evidence": [
       {
         "doc_name": "LOCKHEEDMARTIN_2022_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -8538,7 +8023,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -8641,21 +8126,6 @@
         "doc_name": "MGMRESORTS_2018_10K",
         "page_number": 61,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 103,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 3,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 146,
-        "rank": 23
       }
     ],
     "mrr_score": 0.0,
@@ -8668,11 +8138,11 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 64
+        "page_number": 65
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 66
+        "page_number": 67
       }
     ],
     "retrieved_docs": [
@@ -8775,95 +8245,10 @@
         "doc_name": "MGMRESORTS_2020_10K",
         "page_number": 136,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 76,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 53,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 141,
-        "rank": 23
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 142,
-        "rank": 24
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 89,
-        "rank": 25
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 7,
-        "rank": 26
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 83,
-        "rank": 27
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 44,
-        "rank": 28
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 51,
-        "rank": 29
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 101,
-        "rank": 30
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 42,
-        "rank": 31
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 45,
-        "rank": 32
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 61,
-        "rank": 33
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 82,
-        "rank": 34
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 138,
-        "rank": 35
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 54,
-        "rank": 36
-      },
-      {
-        "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 59,
-        "rank": 37
       }
     ],
-    "mrr_score": 0.3333333333333333,
-    "rank": 3
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_01254",
@@ -8872,7 +8257,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 31
+        "page_number": 32
       }
     ],
     "retrieved_docs": [
@@ -8975,26 +8360,6 @@
         "doc_name": "MGMRESORTS_2022_10K",
         "page_number": 28,
         "rank": 20
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 205,
-        "rank": 21
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 169,
-        "rank": 22
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 212,
-        "rank": 23
-      },
-      {
-        "doc_name": "MGMRESORTS_2022_10K",
-        "page_number": 58,
-        "rank": 24
       }
     ],
     "mrr_score": 0.0,
@@ -9007,7 +8372,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 12
+        "page_number": 13
       }
     ],
     "retrieved_docs": [
@@ -9027,7 +8392,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 13
+        "page_number": 14
       }
     ],
     "retrieved_docs": [
@@ -9052,15 +8417,15 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 2
-      },
-      {
-        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
         "page_number": 3
       },
       {
         "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
-        "page_number": 3
+        "page_number": 4
+      },
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -9080,7 +8445,7 @@
     "expected_evidence": [
       {
         "doc_name": "MGMRESORTS_2023Q2_10Q",
-        "page_number": 10
+        "page_number": 11
       }
     ],
     "retrieved_docs": [
@@ -9120,7 +8485,7 @@
     "expected_evidence": [
       {
         "doc_name": "MICROSOFT_2016_10K",
-        "page_number": 51
+        "page_number": 52
       }
     ],
     "retrieved_docs": [
@@ -9190,7 +8555,7 @@
     "expected_evidence": [
       {
         "doc_name": "MICROSOFT_2023_10K",
-        "page_number": 59
+        "page_number": 60
       }
     ],
     "retrieved_docs": [
@@ -9255,11 +8620,11 @@
     "expected_evidence": [
       {
         "doc_name": "NETFLIX_2015_10K",
-        "page_number": 39
+        "page_number": 40
       },
       {
         "doc_name": "NETFLIX_2015_10K",
-        "page_number": 41
+        "page_number": 42
       }
     ],
     "retrieved_docs": [
@@ -9319,8 +8684,8 @@
         "rank": 11
       }
     ],
-    "mrr_score": 0.3333333333333333,
-    "rank": 3
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_03282",
@@ -9329,7 +8694,7 @@
     "expected_evidence": [
       {
         "doc_name": "NETFLIX_2017_10K",
-        "page_number": 44
+        "page_number": 45
       }
     ],
     "retrieved_docs": [
@@ -9419,7 +8784,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2018_10K",
-        "page_number": 45
+        "page_number": 46
       }
     ],
     "retrieved_docs": [
@@ -9519,7 +8884,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2019_10K",
-        "page_number": 53
+        "page_number": 54
       }
     ],
     "retrieved_docs": [
@@ -9594,11 +8959,11 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2021_10K",
-        "page_number": 58
+        "page_number": 59
       },
       {
         "doc_name": "NIKE_2021_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -9678,8 +9043,8 @@
         "rank": 15
       }
     ],
-    "mrr_score": 0.3333333333333333,
-    "rank": 3
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_01163",
@@ -9688,7 +9053,7 @@
     "expected_evidence": [
       {
         "doc_name": "NIKE_2023_10K",
-        "page_number": 61
+        "page_number": 62
       }
     ],
     "retrieved_docs": [
@@ -9773,8 +9138,8 @@
         "rank": 16
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.2,
+    "rank": 5
   },
   {
     "query_id": "financebench_id_00080",
@@ -9783,7 +9148,7 @@
     "expected_evidence": [
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 60
+        "page_number": 61
       }
     ],
     "retrieved_docs": [
@@ -9886,26 +9251,6 @@
         "doc_name": "PAYPAL_2022_10K",
         "page_number": 19,
         "rank": 20
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 8,
-        "rank": 21
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 133,
-        "rank": 22
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 48,
-        "rank": 23
-      },
-      {
-        "doc_name": "PAYPAL_2022_10K",
-        "page_number": 28,
-        "rank": 24
       }
     ],
     "mrr_score": 0.125,
@@ -9918,7 +9263,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2021_10K",
-        "page_number": 62
+        "page_number": 63
       }
     ],
     "retrieved_docs": [
@@ -9998,11 +9343,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 3
+        "page_number": 4
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 4
+        "page_number": 5
       }
     ],
     "retrieved_docs": [
@@ -10097,8 +9442,8 @@
         "rank": 18
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.0625,
+    "rank": 16
   },
   {
     "query_id": "financebench_id_00735",
@@ -10107,7 +9452,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 25
+        "page_number": 26
       }
     ],
     "retrieved_docs": [
@@ -10222,7 +9567,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 77
+        "page_number": 78
       }
     ],
     "retrieved_docs": [
@@ -10307,11 +9652,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 61
+        "page_number": 62
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -10371,8 +9716,8 @@
         "rank": 11
       }
     ],
-    "mrr_score": 0.5,
-    "rank": 2
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_04481",
@@ -10381,11 +9726,11 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 61
+        "page_number": 62
       },
       {
         "doc_name": "PEPSICO_2022_10K",
-        "page_number": 63
+        "page_number": 64
       }
     ],
     "retrieved_docs": [
@@ -10450,8 +9795,8 @@
         "rank": 12
       }
     ],
-    "mrr_score": 0.5,
-    "rank": 2
+    "mrr_score": 1.0,
+    "rank": 1
   },
   {
     "query_id": "financebench_id_01482",
@@ -10460,7 +9805,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
-        "page_number": 3
+        "page_number": 4
       }
     ],
     "retrieved_docs": [
@@ -10490,7 +9835,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -10550,7 +9895,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -10610,7 +9955,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023Q1_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -10675,7 +10020,7 @@
     "expected_evidence": [
       {
         "doc_name": "PEPSICO_2023Q1_EARNINGS",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -10740,7 +10085,7 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 58
+        "page_number": 59
       }
     ],
     "retrieved_docs": [
@@ -10843,95 +10188,10 @@
         "doc_name": "PFIZER_2021_10K",
         "page_number": 41,
         "rank": 20
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 92,
-        "rank": 21
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 142,
-        "rank": 22
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 95,
-        "rank": 23
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 11,
-        "rank": 24
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 46,
-        "rank": 25
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 8,
-        "rank": 26
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 143,
-        "rank": 27
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 72,
-        "rank": 28
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 117,
-        "rank": 29
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 118,
-        "rank": 30
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 76,
-        "rank": 31
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 30,
-        "rank": 32
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 51,
-        "rank": 33
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 55,
-        "rank": 34
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 96,
-        "rank": 35
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 63,
-        "rank": 36
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 79,
-        "rank": 37
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.08333333333333333,
+    "rank": 12
   },
   {
     "query_id": "financebench_id_00702",
@@ -10940,7 +10200,7 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -11055,11 +10315,11 @@
     "expected_evidence": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 69
+        "page_number": 70
       },
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 70
+        "page_number": 71
       }
     ],
     "retrieved_docs": [
@@ -11162,66 +10422,6 @@
         "doc_name": "PFIZER_2021_10K",
         "page_number": 61,
         "rank": 20
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 76,
-        "rank": 21
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 51,
-        "rank": 22
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 8,
-        "rank": 23
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 30,
-        "rank": 24
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 41,
-        "rank": 25
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 82,
-        "rank": 26
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 9,
-        "rank": 27
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 74,
-        "rank": 28
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 68,
-        "rank": 29
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 67,
-        "rank": 30
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 55,
-        "rank": 31
-      },
-      {
-        "doc_name": "PFIZER_2021_10K",
-        "page_number": 46,
-        "rank": 32
       }
     ],
     "mrr_score": 0.0,
@@ -11234,7 +10434,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 40
+        "page_number": 41
       }
     ],
     "retrieved_docs": [
@@ -11284,7 +10484,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 37
+        "page_number": 38
       }
     ],
     "retrieved_docs": [
@@ -11334,7 +10534,7 @@
     "expected_evidence": [
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 40
+        "page_number": 41
       }
     ],
     "retrieved_docs": [
@@ -11409,7 +10609,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 0
+        "page_number": 1
       }
     ],
     "retrieved_docs": [
@@ -11469,7 +10669,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023_10K",
-        "page_number": 56
+        "page_number": 57
       }
     ],
     "retrieved_docs": [
@@ -11519,8 +10719,8 @@
         "rank": 9
       }
     ],
-    "mrr_score": 0.0,
-    "rank": -1
+    "mrr_score": 0.5,
+    "rank": 2
   },
   {
     "query_id": "financebench_id_00601",
@@ -11529,7 +10729,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [],
@@ -11543,7 +10743,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -11568,7 +10768,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 2
+        "page_number": 3
       }
     ],
     "retrieved_docs": [
@@ -11593,7 +10793,7 @@
     "expected_evidence": [
       {
         "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
-        "page_number": 1
+        "page_number": 2
       }
     ],
     "retrieved_docs": [
@@ -11618,7 +10818,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 84
+        "page_number": 85
       }
     ],
     "retrieved_docs": [
@@ -11721,26 +10921,6 @@
         "doc_name": "VERIZON_2021_10K",
         "page_number": 94,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 106,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 67,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 34,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 25,
-        "rank": 24
       }
     ],
     "mrr_score": 0.0,
@@ -11753,11 +10933,11 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 62
+        "page_number": 63
       },
       {
         "doc_name": "VERIZON_2021_10K",
-        "page_number": 93
+        "page_number": 94
       }
     ],
     "retrieved_docs": [
@@ -11860,66 +11040,6 @@
         "doc_name": "VERIZON_2021_10K",
         "page_number": 83,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 22,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 45,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 46,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 117,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 43,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 58,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 5,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 103,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 82,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 34,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 70,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2021_10K",
-        "page_number": 116,
-        "rank": 32
       }
     ],
     "mrr_score": 0.5,
@@ -11932,7 +11052,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -12035,106 +11155,6 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 70,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 76,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 44,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 48,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 120,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 11,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 7,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 67,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 17,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 119,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 15,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 55,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 64,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 36,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 105,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 85,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 111,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 9,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 46,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 54,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 16,
-        "rank": 40
       }
     ],
     "mrr_score": 0.0,
@@ -12147,11 +11167,11 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 55
+        "page_number": 56
       },
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 22
+        "page_number": 23
       }
     ],
     "retrieved_docs": [
@@ -12254,106 +11274,6 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 45,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 119,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 24,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 15,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 71,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 68,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 70,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 124,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 72,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 41,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 64,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 67,
-        "rank": 31
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 114,
-        "rank": 32
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 48,
-        "rank": 33
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 16,
-        "rank": 34
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 17,
-        "rank": 35
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 7,
-        "rank": 36
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 63,
-        "rank": 37
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 85,
-        "rank": 38
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 65,
-        "rank": 39
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 86,
-        "rank": 40
       }
     ],
     "mrr_score": 0.16666666666666666,
@@ -12366,7 +11286,7 @@
     "expected_evidence": [
       {
         "doc_name": "VERIZON_2022_10K",
-        "page_number": 76
+        "page_number": 77
       }
     ],
     "retrieved_docs": [
@@ -12469,65 +11389,10 @@
         "doc_name": "VERIZON_2022_10K",
         "page_number": 35,
         "rank": 20
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 94,
-        "rank": 21
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 120,
-        "rank": 22
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 37,
-        "rank": 23
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 85,
-        "rank": 24
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 119,
-        "rank": 25
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 12,
-        "rank": 26
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 67,
-        "rank": 27
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 111,
-        "rank": 28
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 70,
-        "rank": 29
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 83,
-        "rank": 30
-      },
-      {
-        "doc_name": "VERIZON_2022_10K",
-        "page_number": 16,
-        "rank": 31
       }
     ],
-    "mrr_score": 0.14285714285714285,
-    "rank": 7
+    "mrr_score": 0.16666666666666666,
+    "rank": 6
   },
   {
     "query_id": "financebench_id_06247",
@@ -12536,11 +11401,11 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 56
+        "page_number": 57
       },
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 58
+        "page_number": 59
       }
     ],
     "retrieved_docs": [
@@ -12630,7 +11495,7 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2019_10K",
-        "page_number": 47
+        "page_number": 48
       }
     ],
     "retrieved_docs": [
@@ -12715,11 +11580,11 @@
     "expected_evidence": [
       {
         "doc_name": "WALMART_2020_10K",
-        "page_number": 50
+        "page_number": 51
       },
       {
         "doc_name": "WALMART_2020_10K",
-        "page_number": 55
+        "page_number": 56
       }
     ],
     "retrieved_docs": [
@@ -12777,10 +11642,11 @@
       "provider": "ollama",
       "model": "bge-m3",
       "chunk_size": 1024,
-      "k": 40,
+      "k": 20,
       "mode": "singledoc",
+      "use_page_tolerance": true,
       "total_queries": 150,
-      "average_mrr": 0.278531746031746
+      "average_mrr": 0.3496362433862434
     }
   }
 ]

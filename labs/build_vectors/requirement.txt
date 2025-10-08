@@ -19,6 +19,7 @@ langchain-community
 langchain-core
 langchain-ollama
 langchain-openai
+langchain-voyageai
 ollama
 
 # Vector stores
