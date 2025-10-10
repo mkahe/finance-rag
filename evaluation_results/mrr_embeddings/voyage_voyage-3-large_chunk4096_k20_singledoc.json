@@ -1257,12 +1257,12 @@
       },
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 45,
+        "page_number": 63,
         "rank": 5
       },
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 63,
+        "page_number": 45,
         "rank": 6
       },
       {
@@ -1327,12 +1327,12 @@
       },
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 84,
+        "page_number": 69,
         "rank": 19
       },
       {
         "doc_name": "ADOBE_2016_10K",
-        "page_number": 69,
+        "page_number": 84,
         "rank": 20
       }
     ],
@@ -3312,12 +3312,12 @@
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 38,
+        "page_number": 68,
         "rank": 13
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 68,
+        "page_number": 38,
         "rank": 14
       },
       {
@@ -3337,12 +3337,12 @@
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 92,
+        "page_number": 67,
         "rank": 18
       },
       {
         "doc_name": "AMD_2015_10K",
-        "page_number": 67,
+        "page_number": 92,
         "rank": 19
       },
       {
@@ -3857,8 +3857,18 @@
       },
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 55,
+        "page_number": 93,
         "rank": 7
+      },
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 55,
+        "rank": 8
+      },
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 101,
+        "rank": 9
       }
     ],
     "mrr_score": 1.0,
@@ -4067,12 +4077,12 @@
       },
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 28,
+        "page_number": 15,
         "rank": 16
       },
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 15,
+        "page_number": 28,
         "rank": 17
       },
       {
@@ -4087,7 +4097,7 @@
       },
       {
         "doc_name": "AMD_2022_10K",
-        "page_number": 99,
+        "page_number": 90,
         "rank": 20
       }
     ],
@@ -4457,12 +4467,12 @@
       },
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 44,
+        "page_number": 47,
         "rank": 8
       },
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 47,
+        "page_number": 44,
         "rank": 9
       },
       {
@@ -4507,12 +4517,12 @@
       },
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 90,
+        "page_number": 25,
         "rank": 18
       },
       {
         "doc_name": "AMERICANEXPRESS_2022_10K",
-        "page_number": 25,
+        "page_number": 90,
         "rank": 19
       },
       {
@@ -4909,6 +4919,11 @@
         "doc_name": "AMERICANWATERWORKS_2020_10K",
         "page_number": 109,
         "rank": 18
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 66,
+        "rank": 19
       }
     ],
     "mrr_score": 0.5,
@@ -5200,17 +5215,17 @@
       },
       {
         "doc_name": "BESTBUY_2017_10K",
-        "page_number": 41,
+        "page_number": 27,
         "rank": 8
       },
       {
         "doc_name": "BESTBUY_2017_10K",
-        "page_number": 69,
+        "page_number": 41,
         "rank": 9
       },
       {
         "doc_name": "BESTBUY_2017_10K",
-        "page_number": 27,
+        "page_number": 69,
         "rank": 10
       },
       {
@@ -5447,6 +5462,11 @@
         "doc_name": "BESTBUY_2023_10K",
         "page_number": 26,
         "rank": 11
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 14,
+        "rank": 12
       }
     ],
     "mrr_score": 0.2,
@@ -5495,72 +5515,72 @@
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 66,
+        "page_number": 69,
         "rank": 7
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 69,
+        "page_number": 1,
         "rank": 8
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 1,
+        "page_number": 22,
         "rank": 9
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 22,
+        "page_number": 50,
         "rank": 10
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 50,
+        "page_number": 23,
         "rank": 11
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 23,
+        "page_number": 39,
         "rank": 12
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 39,
+        "page_number": 3,
         "rank": 13
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 3,
+        "page_number": 70,
         "rank": 14
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 70,
+        "page_number": 63,
         "rank": 15
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 63,
+        "page_number": 26,
         "rank": 16
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 26,
+        "page_number": 5,
         "rank": 17
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 5,
+        "page_number": 46,
         "rank": 18
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 46,
+        "page_number": 32,
         "rank": 19
       },
       {
         "doc_name": "BESTBUY_2023_10K",
-        "page_number": 32,
+        "page_number": 59,
         "rank": 20
       }
     ],
@@ -5685,8 +5705,13 @@
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 9,
+        "page_number": 23,
         "rank": 12
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 9,
+        "rank": 13
       }
     ],
     "mrr_score": 0.14285714285714285,
@@ -5760,43 +5785,48 @@
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 12,
+        "page_number": 23,
         "rank": 12
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 13,
+        "page_number": 12,
         "rank": 13
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 21,
+        "page_number": 13,
         "rank": 14
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 22,
+        "page_number": 21,
         "rank": 15
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 6,
+        "page_number": 22,
         "rank": 16
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 4,
+        "page_number": 6,
         "rank": 17
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 9,
+        "page_number": 4,
         "rank": 18
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 20,
+        "page_number": 9,
         "rank": 19
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 20,
+        "rank": 20
       }
     ],
     "mrr_score": 0.5,
@@ -5875,12 +5905,12 @@
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 21,
+        "page_number": 4,
         "rank": 13
       },
       {
         "doc_name": "BESTBUY_2024Q2_10Q",
-        "page_number": 4,
+        "page_number": 21,
         "rank": 14
       },
       {
@@ -5960,32 +5990,32 @@
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 61,
+        "page_number": 81,
         "rank": 12
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 81,
+        "page_number": 86,
         "rank": 13
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 86,
+        "page_number": 5,
         "rank": 14
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 5,
+        "page_number": 103,
         "rank": 15
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 103,
+        "page_number": 7,
         "rank": 16
       },
       {
         "doc_name": "BLOCK_2016_10K",
-        "page_number": 7,
+        "page_number": 61,
         "rank": 17
       },
       {
@@ -6095,27 +6125,27 @@
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 58,
+        "page_number": 90,
         "rank": 16
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 90,
+        "page_number": 91,
         "rank": 17
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 91,
+        "page_number": 85,
         "rank": 18
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 85,
+        "page_number": 87,
         "rank": 19
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 87,
+        "page_number": 68,
         "rank": 20
       }
     ],
@@ -6180,32 +6210,32 @@
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 58,
+        "page_number": 59,
         "rank": 10
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 59,
+        "page_number": 137,
         "rank": 11
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 137,
+        "page_number": 87,
         "rank": 12
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 87,
+        "page_number": 73,
         "rank": 13
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 73,
+        "page_number": 8,
         "rank": 14
       },
       {
         "doc_name": "BLOCK_2020_10K",
-        "page_number": 8,
+        "page_number": 58,
         "rank": 15
       },
       {
@@ -6540,12 +6570,12 @@
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 27,
+        "page_number": 63,
         "rank": 13
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 63,
+        "page_number": 27,
         "rank": 14
       },
       {
@@ -6560,12 +6590,12 @@
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 22,
+        "page_number": 87,
         "rank": 17
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 87,
+        "page_number": 22,
         "rank": 18
       },
       {
@@ -7143,12 +7173,12 @@
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 76,
+        "page_number": 118,
         "rank": 17
       },
       {
         "doc_name": "BOEING_2022_10K",
-        "page_number": 118,
+        "page_number": 76,
         "rank": 18
       },
       {
@@ -8366,12 +8396,12 @@
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 75,
+        "page_number": 174,
         "rank": 5
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 174,
+        "page_number": 75,
         "rank": 6
       },
       {
@@ -8406,12 +8436,12 @@
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 68,
+        "page_number": 168,
         "rank": 13
       },
       {
         "doc_name": "CVSHEALTH_2022_10K",
-        "page_number": 168,
+        "page_number": 68,
         "rank": 14
       },
       {
@@ -9139,12 +9169,12 @@
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 47,
+        "page_number": 46,
         "rank": 9
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 46,
+        "page_number": 47,
         "rank": 10
       },
       {
@@ -9189,12 +9219,12 @@
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 4,
+        "page_number": 45,
         "rank": 19
       },
       {
         "doc_name": "JOHNSON_JOHNSON_2022_10K",
-        "page_number": 45,
+        "page_number": 4,
         "rank": 20
       }
     ],
@@ -10931,12 +10961,12 @@
       },
       {
         "doc_name": "LOCKHEEDMARTIN_2021_10K",
-        "page_number": 2,
+        "page_number": 32,
         "rank": 15
       },
       {
         "doc_name": "LOCKHEEDMARTIN_2021_10K",
-        "page_number": 32,
+        "page_number": 2,
         "rank": 16
       },
       {
@@ -11136,22 +11166,22 @@
       },
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 181,
+        "page_number": 188,
         "rank": 10
       },
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 188,
+        "page_number": 181,
         "rank": 11
       },
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 49,
+        "page_number": 60,
         "rank": 12
       },
       {
         "doc_name": "MGMRESORTS_2018_10K",
-        "page_number": 60,
+        "page_number": 49,
         "rank": 13
       },
       {
@@ -11220,12 +11250,12 @@
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 103,
+        "page_number": 41,
         "rank": 3
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 41,
+        "page_number": 103,
         "rank": 4
       },
       {
@@ -11235,12 +11265,12 @@
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 52,
+        "page_number": 38,
         "rank": 6
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 38,
+        "page_number": 5,
         "rank": 7
       },
       {
@@ -11250,52 +11280,52 @@
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 5,
+        "page_number": 52,
         "rank": 9
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 75,
+        "page_number": 45,
         "rank": 10
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 45,
+        "page_number": 46,
         "rank": 11
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 46,
+        "page_number": 150,
         "rank": 12
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 150,
+        "page_number": 74,
         "rank": 13
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 74,
+        "page_number": 75,
         "rank": 14
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 75,
+        "page_number": 51,
         "rank": 15
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 51,
+        "page_number": 6,
         "rank": 16
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 6,
+        "page_number": 3,
         "rank": 17
       },
       {
         "doc_name": "MGMRESORTS_2020_10K",
-        "page_number": 3,
+        "page_number": 54,
         "rank": 18
       },
       {
@@ -12696,52 +12726,52 @@
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 112,
+        "page_number": 108,
         "rank": 6
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 108,
+        "page_number": 112,
         "rank": 7
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 75,
+        "page_number": 59,
         "rank": 8
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 49,
+        "page_number": 75,
         "rank": 9
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 69,
+        "page_number": 49,
         "rank": 10
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 97,
+        "page_number": 69,
         "rank": 11
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 67,
+        "page_number": 97,
         "rank": 12
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 33,
+        "page_number": 67,
         "rank": 13
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 89,
+        "page_number": 33,
         "rank": 14
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 3,
+        "page_number": 89,
         "rank": 15
       },
       {
@@ -12751,22 +12781,22 @@
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 5,
+        "page_number": 3,
         "rank": 17
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 51,
+        "page_number": 94,
         "rank": 18
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 94,
+        "page_number": 5,
         "rank": 19
       },
       {
         "doc_name": "PAYPAL_2022_10K",
-        "page_number": 73,
+        "page_number": 51,
         "rank": 20
       }
     ],
@@ -13680,6 +13710,11 @@
         "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
         "page_number": 164,
         "rank": 11
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 153,
+        "rank": 12
       }
     ],
     "mrr_score": 1.0,
@@ -13888,12 +13923,12 @@
     "retrieved_docs": [
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 31,
+        "page_number": 42,
         "rank": 1
       },
       {
         "doc_name": "PFIZER_2021_10K",
-        "page_number": 42,
+        "page_number": 31,
         "rank": 2
       },
       {
@@ -14537,17 +14572,17 @@
       },
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 36,
+        "page_number": 15,
         "rank": 15
       },
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 15,
+        "page_number": 8,
         "rank": 16
       },
       {
         "doc_name": "Pfizer_2023Q2_10Q",
-        "page_number": 8,
+        "page_number": 36,
         "rank": 17
       },
       {
@@ -15614,7 +15649,7 @@
       },
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 34,
+        "page_number": 57,
         "rank": 13
       },
       {
@@ -15624,7 +15659,7 @@
       },
       {
         "doc_name": "WALMART_2018_10K",
-        "page_number": 57,
+        "page_number": 34,
         "rank": 15
       },
       {
@@ -15894,7 +15929,7 @@
     "summary": {
       "provider": "voyage",
       "model": "voyage-3-large",
-      "chunk_size": 2048,
+      "chunk_size": 4096,
       "k": 20,
       "mode": "singledoc",
       "use_page_tolerance": true,
