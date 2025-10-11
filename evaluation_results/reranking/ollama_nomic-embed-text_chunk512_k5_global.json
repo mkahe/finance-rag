@@ -1,0 +1,6920 @@
+[
+  {
+    "query_id": "financebench_id_03029",
+    "query": "What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.",
+    "expected_doc": "3M_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 60
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "rank": 1,
+        "score": 0.46420371532440186
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 40,
+        "rank": 2,
+        "score": 0.47037947177886963
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 3,
+        "score": 0.5073912739753723
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 4,
+        "score": 0.5161645412445068
+      },
+      {
+        "doc_name": "ADOBE_2016_10K",
+        "page_number": 53,
+        "rank": 5,
+        "score": 0.5208673477172852
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04672",
+    "query": "Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.",
+    "expected_doc": "3M_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 58
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 93,
+        "rank": 1,
+        "score": 0.5487465858459473
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 26,
+        "rank": 2,
+        "score": 0.5761828422546387
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 51,
+        "rank": 3,
+        "score": 0.6071743965148926
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 29,
+        "rank": 4,
+        "score": 0.6161997318267822
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 108,
+        "rank": 5,
+        "score": 0.616690993309021
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00499",
+    "query": "Is 3M a capital-intensive business based on FY2022 data?",
+    "expected_doc": "3M_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 48
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 50
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 1,
+        "score": 0.394396036863327
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.4030514359474182
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "rank": 3,
+        "score": 0.4751896858215332
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 39,
+        "rank": 4,
+        "score": 0.4759604334831238
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 37,
+        "rank": 5,
+        "score": 0.4798789918422699
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01226",
+    "query": "What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+    "expected_doc": "3M_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 27
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.368427038192749
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 49,
+        "rank": 2,
+        "score": 0.404157817363739
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 3,
+        "score": 0.46175822615623474
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 4,
+        "score": 0.47359806299209595
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 18,
+        "rank": 5,
+        "score": 0.48576444387435913
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01865",
+    "query": "If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?",
+    "expected_doc": "3M_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 25
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 68,
+        "rank": 1,
+        "score": 0.5469297170639038
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 27,
+        "rank": 2,
+        "score": 0.5555064082145691
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 67,
+        "rank": 3,
+        "score": 0.5596815347671509
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 52,
+        "rank": 4,
+        "score": 0.5766159296035767
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 54,
+        "rank": 5,
+        "score": 0.5844578146934509
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00807",
+    "query": "Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "expected_doc": "3M_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 5
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 26,
+        "rank": 1,
+        "score": 0.4793547987937927
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.510988712310791
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "rank": 3,
+        "score": 0.517553985118866
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 4,
+        "score": 0.5316038131713867
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 5,
+        "score": 0.5337246060371399
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00941",
+    "query": "Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?",
+    "expected_doc": "3M_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 37,
+        "rank": 1,
+        "score": 0.5130704641342163
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "rank": 2,
+        "score": 0.5143409967422485
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "rank": 3,
+        "score": 0.5152587890625
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 93,
+        "rank": 4,
+        "score": 0.5288496613502502
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 338,
+        "rank": 5,
+        "score": 0.5326752662658691
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01858",
+    "query": "Does 3M maintain a stable trend of dividend distribution?",
+    "expected_doc": "3M_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 62
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 26,
+        "rank": 1,
+        "score": 0.5317251682281494
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 14,
+        "rank": 2,
+        "score": 0.5541224479675293
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "rank": 3,
+        "score": 0.6169635057449341
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 73,
+        "rank": 4,
+        "score": 0.633476972579956
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 177,
+        "rank": 5,
+        "score": 0.6361634731292725
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02987",
+    "query": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+    "expected_doc": "ACTIVISIONBLIZZARD_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 69
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 70
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 69,
+        "rank": 1,
+        "score": 0.39732789993286133
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 93,
+        "rank": 2,
+        "score": 0.41271090507507324
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 100,
+        "rank": 3,
+        "score": 0.42983728647232056
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 109,
+        "rank": 4,
+        "score": 0.4309720993041992
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 174,
+        "rank": 5,
+        "score": 0.4366789758205414
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_07966",
+    "query": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+    "expected_doc": "ACTIVISIONBLIZZARD_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 70
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 73
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 73,
+        "rank": 1,
+        "score": 0.4856875538825989
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 100,
+        "rank": 2,
+        "score": 0.4946194291114807
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 40,
+        "rank": 3,
+        "score": 0.494872510433197
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 71,
+        "rank": 4,
+        "score": 0.5043359994888306
+      },
+      {
+        "doc_name": "ACTIVISIONBLIZZARD_2019_10K",
+        "page_number": 103,
+        "rank": 5,
+        "score": 0.5108148455619812
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_04735",
+    "query": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+    "expected_doc": "ADOBE_2015_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 59
+      },
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 63
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.42746782302856445
+      },
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 63,
+        "rank": 2,
+        "score": 0.48858803510665894
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 61,
+        "rank": 3,
+        "score": 0.49597764015197754
+      },
+      {
+        "doc_name": "ADOBE_2016_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.5097329616546631
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 59,
+        "rank": 5,
+        "score": 0.5174627304077148
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_07507",
+    "query": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+    "expected_doc": "ADOBE_2016_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ADOBE_2016_10K",
+        "page_number": 62
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 54,
+        "rank": 1,
+        "score": 0.3538493514060974
+      },
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 55,
+        "rank": 2,
+        "score": 0.38609758019447327
+      },
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 60,
+        "rank": 3,
+        "score": 0.40523654222488403
+      },
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57,
+        "rank": 4,
+        "score": 0.4154936373233795
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 42,
+        "rank": 5,
+        "score": 0.427053302526474
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03856",
+    "query": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+    "expected_doc": "ADOBE_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 57
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 61
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.39631718397140503
+      },
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 63,
+        "rank": 2,
+        "score": 0.45652636885643005
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 61,
+        "rank": 3,
+        "score": 0.46708837151527405
+      },
+      {
+        "doc_name": "ADOBE_2016_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.475159227848053
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 40,
+        "rank": 5,
+        "score": 0.48382076621055603
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_00438",
+    "query": "Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+    "expected_doc": "ADOBE_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 54
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 8,
+        "rank": 1,
+        "score": 0.528858482837677
+      },
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.5428090691566467
+      },
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 39,
+        "rank": 3,
+        "score": 0.5516722202301025
+      },
+      {
+        "doc_name": "ADOBE_2015_10K",
+        "page_number": 64,
+        "rank": 4,
+        "score": 0.5532872080802917
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.5537605285644531
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00591",
+    "query": "Does Adobe have an improving Free cashflow conversion as of FY2022?",
+    "expected_doc": "ADOBE_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.48906978964805603
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 33,
+        "rank": 2,
+        "score": 0.522915244102478
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 30,
+        "rank": 3,
+        "score": 0.5316967368125916
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 40,
+        "rank": 4,
+        "score": 0.5341042280197144
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 39,
+        "rank": 5,
+        "score": 0.5540509819984436
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01319",
+    "query": "What is the quantity of restructuring costs directly outlined in AES Corporation's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+    "expected_doc": "AES_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 132
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 67,
+        "rank": 1,
+        "score": 0.47619709372520447
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 67,
+        "rank": 2,
+        "score": 0.4820031225681305
+      },
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 72,
+        "rank": 3,
+        "score": 0.48348701000213623
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.4854036569595337
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 55,
+        "rank": 5,
+        "score": 0.49231332540512085
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00540",
+    "query": "Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+    "expected_doc": "AES_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 130
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 132
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 291,
+        "rank": 1,
+        "score": 0.53755784034729
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 291,
+        "rank": 2,
+        "score": 0.5408276319503784
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 99,
+        "rank": 3,
+        "score": 0.5425949096679688
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 134,
+        "rank": 4,
+        "score": 0.5528579950332642
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 84,
+        "rank": 5,
+        "score": 0.5739648342132568
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_10420",
+    "query": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+    "expected_doc": "AES_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 130
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 132
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 216,
+        "rank": 1,
+        "score": 0.4949473738670349
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 134,
+        "rank": 2,
+        "score": 0.5011197328567505
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 84,
+        "rank": 3,
+        "score": 0.5162415504455566
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 94,
+        "rank": 4,
+        "score": 0.5177932977676392
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 84,
+        "rank": 5,
+        "score": 0.5206965208053589
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_06655",
+    "query": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+    "expected_doc": "AMAZON_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 38
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 40
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 74,
+        "rank": 1,
+        "score": 0.5612936019897461
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 83,
+        "rank": 2,
+        "score": 0.5625560283660889
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 85,
+        "rank": 3,
+        "score": 0.5646523833274841
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 37,
+        "rank": 4,
+        "score": 0.5719988942146301
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 40,
+        "rank": 5,
+        "score": 0.572790801525116
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_08135",
+    "query": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+    "expected_doc": "AMAZON_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 38
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 49,
+        "rank": 1,
+        "score": 0.470000296831131
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 28,
+        "rank": 2,
+        "score": 0.4927571415901184
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 39,
+        "rank": 3,
+        "score": 0.5039278268814087
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 38,
+        "rank": 4,
+        "score": 0.5106304883956909
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 37,
+        "rank": 5,
+        "score": 0.5113214254379272
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_08286",
+    "query": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+    "expected_doc": "AMAZON_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 38
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 38,
+        "rank": 1,
+        "score": 0.45171889662742615
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.4521876871585846
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 39,
+        "rank": 3,
+        "score": 0.45623475313186646
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 39,
+        "rank": 4,
+        "score": 0.4720609486103058
+      },
+      {
+        "doc_name": "AMAZON_2019_10K",
+        "page_number": 37,
+        "rank": 5,
+        "score": 0.4945588707923889
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_03882",
+    "query": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+    "expected_doc": "AMCOR_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 50
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.45347028970718384
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 51,
+        "rank": 2,
+        "score": 0.4653405547142029
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 48,
+        "rank": 3,
+        "score": 0.4685537815093994
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 53,
+        "rank": 4,
+        "score": 0.4711408317089081
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 7,
+        "rank": 5,
+        "score": 0.4737697243690491
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01935",
+    "query": "What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?",
+    "expected_doc": "AMCOR_2022_8K_dated-2022-07-01",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.550054669380188
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 53,
+        "rank": 2,
+        "score": 0.5691474676132202
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 195,
+        "rank": 3,
+        "score": 0.5778763294219971
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 156,
+        "rank": 4,
+        "score": 0.582097053527832
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 57,
+        "rank": 5,
+        "score": 0.5920331478118896
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00799",
+    "query": "Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.",
+    "expected_doc": "AMCOR_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.5435893535614014
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.5474839210510254
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 3,
+        "rank": 3,
+        "score": 0.5482398867607117
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 4,
+        "rank": 4,
+        "score": 0.5589508414268494
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 7,
+        "rank": 5,
+        "score": 0.5610377192497253
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01079",
+    "query": "What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?",
+    "expected_doc": "AMCOR_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 64
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.4639074206352234
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 32,
+        "rank": 2,
+        "score": 0.4817902445793152
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 3,
+        "score": 0.4872942268848419
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 109,
+        "rank": 4,
+        "score": 0.48923781514167786
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 5,
+        "score": 0.49867236614227295
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01148",
+    "query": "What industry does AMCOR primarily operate in?",
+    "expected_doc": "AMCOR_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 5
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 6,
+        "rank": 1,
+        "score": 0.38005056977272034
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 25,
+        "rank": 2,
+        "score": 0.41870707273483276
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 34,
+        "rank": 3,
+        "score": 0.44652411341667175
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 55,
+        "rank": 4,
+        "score": 0.46356117725372314
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 30,
+        "rank": 5,
+        "score": 0.4700627028942108
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00684",
+    "query": "Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+    "expected_doc": "AMCOR_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 50
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.45143625140190125
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 2,
+        "score": 0.4531075656414032
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 3,
+        "score": 0.4638678729534149
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 28,
+        "rank": 4,
+        "score": 0.47914326190948486
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 49,
+        "rank": 5,
+        "score": 0.4798530638217926
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01936",
+    "query": "What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?",
+    "expected_doc": "AMCOR_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 15
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 68,
+        "rank": 1,
+        "score": 0.5077996850013733
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 67,
+        "rank": 2,
+        "score": 0.5135557651519775
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 67,
+        "rank": 3,
+        "score": 0.5153908133506775
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 10,
+        "rank": 4,
+        "score": 0.517935037612915
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 109,
+        "rank": 5,
+        "score": 0.5303524136543274
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01928",
+    "query": "What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023",
+    "expected_doc": "AMCOR_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 12
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.44944658875465393
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 31,
+        "rank": 2,
+        "score": 0.4656960964202881
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.46939757466316223
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 42,
+        "rank": 4,
+        "score": 0.47171080112457275
+      },
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 41,
+        "rank": 5,
+        "score": 0.48855385184288025
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01930",
+    "query": "How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?",
+    "expected_doc": "AMCOR_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 10
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 3,
+        "rank": 1,
+        "score": 0.44904565811157227
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 2,
+        "score": 0.47519201040267944
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 32,
+        "rank": 3,
+        "score": 0.5218194723129272
+      },
+      {
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 4,
+        "score": 0.5232678055763245
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.5298393964767456
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03069",
+    "query": "Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?",
+    "expected_doc": "AMD_2015_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 56
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 60
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 35,
+        "rank": 1,
+        "score": 0.5953847169876099
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 87,
+        "rank": 2,
+        "score": 0.5986446142196655
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.6106122732162476
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 66,
+        "rank": 4,
+        "score": 0.6205630898475647
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 71,
+        "rank": 5,
+        "score": 0.6235489249229431
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00222",
+    "query": "Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 56
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 116,
+        "rank": 1,
+        "score": 0.6247851252555847
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.6702519655227661
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 37,
+        "rank": 3,
+        "score": 0.6709252595901489
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 99,
+        "rank": 4,
+        "score": 0.6736693382263184
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 41,
+        "rank": 5,
+        "score": 0.6875051259994507
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00995",
+    "query": "What are the major products and services that AMD sells as of FY22?",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 9,
+        "rank": 1,
+        "score": 0.4937414526939392
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.5357538461685181
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 4,
+        "rank": 3,
+        "score": 0.5358142256736755
+      },
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 11,
+        "rank": 4,
+        "score": 0.5648254752159119
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 4,
+        "rank": 5,
+        "score": 0.5813295841217041
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01198",
+    "query": "What drove revenue change as of the FY22 for AMD?",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 43
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 33,
+        "rank": 1,
+        "score": 0.5876470804214478
+      },
+      {
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 40,
+        "rank": 2,
+        "score": 0.5963672399520874
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "rank": 3,
+        "score": 0.6194130182266235
+      },
+      {
+        "doc_name": "MICROSOFT_2016_10K",
+        "page_number": 35,
+        "rank": 4,
+        "score": 0.6242672204971313
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 34,
+        "rank": 5,
+        "score": 0.6258760690689087
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00917",
+    "query": "What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 43
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.43043211102485657
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 49,
+        "rank": 2,
+        "score": 0.4592394232749939
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 3,
+        "score": 0.49883466958999634
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 4,
+        "score": 0.5059425830841064
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 96,
+        "rank": 5,
+        "score": 0.5246168375015259
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01279",
+    "query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 58
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 38,
+        "rank": 1,
+        "score": 0.6122270226478577
+      },
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 17,
+        "rank": 2,
+        "score": 0.6293079853057861
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 66,
+        "rank": 3,
+        "score": 0.6300878524780273
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 19,
+        "rank": 4,
+        "score": 0.6375505924224854
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 46,
+        "rank": 5,
+        "score": 0.6465151906013489
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00563",
+    "query": "From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 48
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 28,
+        "rank": 1,
+        "score": 0.5296374559402466
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 31,
+        "rank": 2,
+        "score": 0.5503209829330444
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 27,
+        "rank": 3,
+        "score": 0.5671922564506531
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 34,
+        "rank": 4,
+        "score": 0.5690861940383911
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 27,
+        "rank": 5,
+        "score": 0.5727863311767578
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00757",
+    "query": "Did AMD report customer concentration in FY22?",
+    "expected_doc": "AMD_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMD_2022_10K",
+        "page_number": 12
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 4,
+        "rank": 1,
+        "score": 0.6730802059173584
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 15,
+        "rank": 2,
+        "score": 0.7140890955924988
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 3,
+        "rank": 3,
+        "score": 0.7175676822662354
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 4,
+        "rank": 4,
+        "score": 0.7417705059051514
+      },
+      {
+        "doc_name": "AMD_2015_10K",
+        "page_number": 4,
+        "rank": 5,
+        "score": 0.743837833404541
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00476",
+    "query": "Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.557532787322998
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 309,
+        "rank": 2,
+        "score": 0.5786949396133423
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 1,
+        "rank": 3,
+        "score": 0.5976850986480713
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 137,
+        "rank": 4,
+        "score": 0.6027101874351501
+      },
+      {
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 1,
+        "rank": 5,
+        "score": 0.6050152778625488
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01028",
+    "query": "What are the geographies that American Express primarily operates in as of 2022?",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 155
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 254,
+        "rank": 1,
+        "score": 0.5912978053092957
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 253,
+        "rank": 2,
+        "score": 0.6016048192977905
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 252,
+        "rank": 3,
+        "score": 0.6140577793121338
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 6,
+        "rank": 4,
+        "score": 0.6184045672416687
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 254,
+        "rank": 5,
+        "score": 0.6808493137359619
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00723",
+    "query": "Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 96
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.41043317317962646
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 49,
+        "rank": 2,
+        "score": 0.43259119987487793
+      },
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 56,
+        "rank": 3,
+        "score": 0.5423605442047119
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 4,
+        "score": 0.5572414994239807
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 5,
+        "score": 0.5586351752281189
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00720",
+    "query": "What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 96
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 1,
+        "score": 0.4208431839942932
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 2,
+        "score": 0.4380725622177124
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 3,
+        "score": 0.45504623651504517
+      },
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 26,
+        "rank": 4,
+        "score": 0.4847487807273865
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 28,
+        "rank": 5,
+        "score": 0.4865507483482361
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01351",
+    "query": "How much has the effective tax rate of American Express changed between FY2021 and FY2022?",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 44
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 49,
+        "rank": 1,
+        "score": 0.4875166714191437
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.5185928344726562
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 74,
+        "rank": 3,
+        "score": 0.5411568880081177
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 94,
+        "rank": 4,
+        "score": 0.5512180328369141
+      },
+      {
+        "doc_name": "NIKE_2019_10K",
+        "page_number": 72,
+        "rank": 5,
+        "score": 0.5536993145942688
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01964",
+    "query": "What was the largest liability in American Express's Balance Sheet in 2022?",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 98
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 152,
+        "rank": 1,
+        "score": 0.5077815055847168
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 126,
+        "rank": 2,
+        "score": 0.5170072317123413
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 119,
+        "rank": 3,
+        "score": 0.6161097884178162
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 118,
+        "rank": 4,
+        "score": 0.6293721795082092
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 299,
+        "rank": 5,
+        "score": 0.6318641901016235
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01981",
+    "query": "Was American Express able to retain card members during 2022?",
+    "expected_doc": "AMERICANEXPRESS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 45
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.5552427768707275
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 85,
+        "rank": 2,
+        "score": 0.6029273271560669
+      },
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 5,
+        "rank": 3,
+        "score": 0.6063534617424011
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 102,
+        "rank": 4,
+        "score": 0.6142865419387817
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 5,
+        "rank": 5,
+        "score": 0.6319937705993652
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_05718",
+    "query": "How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.",
+    "expected_doc": "AMERICANWATERWORKS_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 86
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 88,
+        "rank": 1,
+        "score": 0.47167396545410156
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 85,
+        "rank": 2,
+        "score": 0.4848145842552185
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 86,
+        "rank": 3,
+        "score": 0.4869011342525482
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 14,
+        "rank": 4,
+        "score": 0.5272507667541504
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 86,
+        "rank": 5,
+        "score": 0.5491655468940735
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_04254",
+    "query": "Basing your judgments off of the cash flow statement and the income statement, what is American Water Works's FY2021 unadjusted operating income + depreciation and amortization from the cash flow statement (unadjusted EBITDA) in USD millions?",
+    "expected_doc": "AMERICANWATERWORKS_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 86
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 88
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 86,
+        "rank": 1,
+        "score": 0.3840923607349396
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 88,
+        "rank": 2,
+        "score": 0.3851352334022522
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 85,
+        "rank": 3,
+        "score": 0.38564640283584595
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.4385911226272583
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 108,
+        "rank": 5,
+        "score": 0.46443408727645874
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_00070",
+    "query": "Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "expected_doc": "AMERICANWATERWORKS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 81
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 82
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 51,
+        "rank": 1,
+        "score": 0.5058562755584717
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2021_10K",
+        "page_number": 52,
+        "rank": 2,
+        "score": 0.5143819451332092
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 23,
+        "rank": 3,
+        "score": 0.5454782247543335
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 44,
+        "rank": 4,
+        "score": 0.5678281784057617
+      },
+      {
+        "doc_name": "AMERICANWATERWORKS_2020_10K",
+        "page_number": 135,
+        "rank": 5,
+        "score": 0.5725537538528442
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02608",
+    "query": "In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.",
+    "expected_doc": "BESTBUY_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 56
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 27,
+        "rank": 1,
+        "score": 0.45562613010406494
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 26,
+        "rank": 2,
+        "score": 0.4678434729576111
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 25,
+        "rank": 3,
+        "score": 0.4799234867095947
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 91,
+        "rank": 4,
+        "score": 0.4997914135456085
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 81,
+        "rank": 5,
+        "score": 0.5056600570678711
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04417",
+    "query": "What is the year end FY2019 total amount of inventories for Best Buy? Answer in USD millions. Base your judgments on the information provided primarily in the balance sheet.",
+    "expected_doc": "BESTBUY_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 26,
+        "rank": 1,
+        "score": 0.4602009057998657
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 14,
+        "rank": 2,
+        "score": 0.47293928265571594
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 91,
+        "rank": 3,
+        "score": 0.5076858997344971
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 32,
+        "rank": 4,
+        "score": 0.5286052227020264
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 83,
+        "rank": 5,
+        "score": 0.539813756942749
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00685",
+    "query": "Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+    "expected_doc": "BESTBUY_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 40
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 25,
+        "rank": 1,
+        "score": 0.5338985919952393
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 32,
+        "rank": 2,
+        "score": 0.5364512205123901
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 3,
+        "score": 0.5566219091415405
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 56,
+        "rank": 4,
+        "score": 0.5842580795288086
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.5858502984046936
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01077",
+    "query": "What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?",
+    "expected_doc": "BESTBUY_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 51
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.5473200082778931
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.5492278933525085
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 57,
+        "rank": 3,
+        "score": 0.5640719532966614
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 103,
+        "rank": 4,
+        "score": 0.5649964809417725
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 69,
+        "rank": 5,
+        "score": 0.5656710863113403
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01275",
+    "query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?",
+    "expected_doc": "BESTBUY_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 42
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 27,
+        "rank": 1,
+        "score": 0.5611339807510376
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 26,
+        "rank": 2,
+        "score": 0.6164757013320923
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 280,
+        "rank": 3,
+        "score": 0.6369671821594238
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 27,
+        "rank": 4,
+        "score": 0.6385010480880737
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 60,
+        "rank": 5,
+        "score": 0.6391933560371399
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00288",
+    "query": "Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?",
+    "expected_doc": "BESTBUY_2024Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 20
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 89,
+        "rank": 1,
+        "score": 0.48587584495544434
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.4900515377521515
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 57,
+        "rank": 3,
+        "score": 0.5073370933532715
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 20,
+        "rank": 4,
+        "score": 0.5195873379707336
+      },
+      {
+        "doc_name": "BLOCK_2016_10K",
+        "page_number": 75,
+        "rank": 5,
+        "score": 0.5400093793869019
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_00460",
+    "query": "Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?",
+    "expected_doc": "BESTBUY_2024Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 17
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 26,
+        "rank": 1,
+        "score": 0.48481470346450806
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 26,
+        "rank": 2,
+        "score": 0.48753783106803894
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 17,
+        "rank": 3,
+        "score": 0.5077561140060425
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 33,
+        "rank": 4,
+        "score": 0.5096703767776489
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 27,
+        "rank": 5,
+        "score": 0.5248842835426331
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_01902",
+    "query": "Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?",
+    "expected_doc": "BESTBUY_2024Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 18
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 17,
+        "rank": 1,
+        "score": 0.5732088088989258
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 35,
+        "rank": 2,
+        "score": 0.5872670412063599
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 21,
+        "rank": 3,
+        "score": 0.5999977588653564
+      },
+      {
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 19,
+        "rank": 4,
+        "score": 0.6012076139450073
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 17,
+        "rank": 5,
+        "score": 0.6026581525802612
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04660",
+    "query": "Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+    "expected_doc": "BLOCK_2016_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BLOCK_2016_10K",
+        "page_number": 68
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 1,
+        "score": 0.5660383701324463
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.5702708959579468
+      },
+      {
+        "doc_name": "BLOCK_2016_10K",
+        "page_number": 68,
+        "rank": 3,
+        "score": 0.5716986656188965
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 44,
+        "rank": 4,
+        "score": 0.577916145324707
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 18,
+        "rank": 5,
+        "score": 0.5846030712127686
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_03838",
+    "query": "What is the FY2019 - FY2020 total revenue growth rate for Block (formerly known as Square)? Answer in units of percents and round to one decimal place. Approach the question asked by assuming the standpoint of an investment banking analyst who only has access to the statement of income.",
+    "expected_doc": "BLOCK_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 86
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 86,
+        "rank": 1,
+        "score": 0.486072301864624
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 75,
+        "rank": 2,
+        "score": 0.497904896736145
+      },
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 87,
+        "rank": 3,
+        "score": 0.501237154006958
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 38,
+        "rank": 4,
+        "score": 0.5271575450897217
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 26,
+        "rank": 5,
+        "score": 0.5309664607048035
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_07661",
+    "query": "Using the cash flow statement, answer the following question to the best of your abilities: how much did Block (formerly known as Square) generate in cash flow from operating activities in FY2020? Answer in USD millions.",
+    "expected_doc": "BLOCK_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 90
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 90,
+        "rank": 1,
+        "score": 0.47687003016471863
+      },
+      {
+        "doc_name": "BLOCK_2016_10K",
+        "page_number": 73,
+        "rank": 2,
+        "score": 0.47921404242515564
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 14,
+        "rank": 3,
+        "score": 0.5151641368865967
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 59,
+        "rank": 4,
+        "score": 0.5159364342689514
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 34,
+        "rank": 5,
+        "score": 0.5349667072296143
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_10285",
+    "query": "We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?",
+    "expected_doc": "BOEING_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 52,
+        "rank": 1,
+        "score": 0.48099586367607117
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 56,
+        "rank": 2,
+        "score": 0.4863834083080292
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 57,
+        "rank": 3,
+        "score": 0.48761487007141113
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62,
+        "rank": 4,
+        "score": 0.49599689245224
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.49998772144317627
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00517",
+    "query": "Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 28,
+        "rank": 1,
+        "score": 0.4989869296550751
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 56,
+        "rank": 2,
+        "score": 0.5227482914924622
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62,
+        "rank": 3,
+        "score": 0.5288325548171997
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 82,
+        "rank": 4,
+        "score": 0.5289757251739502
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 4,
+        "rank": 5,
+        "score": 0.532065749168396
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_01091",
+    "query": "Has Boeing reported any materially important ongoing legal battles from FY2022?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 113
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 91,
+        "rank": 1,
+        "score": 0.5772954225540161
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 135,
+        "rank": 2,
+        "score": 0.5873093008995056
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 190,
+        "rank": 3,
+        "score": 0.6041179895401001
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 189,
+        "rank": 4,
+        "score": 0.6084306240081787
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 136,
+        "rank": 5,
+        "score": 0.609573245048523
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00678",
+    "query": "Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 55
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 1,
+        "score": 0.5048006772994995
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 2,
+        "score": 0.5161469578742981
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 28,
+        "rank": 3,
+        "score": 0.538593053817749
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 4,
+        "score": 0.5419206619262695
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 49,
+        "rank": 5,
+        "score": 0.5578044652938843
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01290",
+    "query": "Who are the primary customers of Boeing as of FY2022?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 8
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 10
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 14
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 5,
+        "rank": 1,
+        "score": 0.6056373119354248
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 41,
+        "rank": 2,
+        "score": 0.627902626991272
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 128,
+        "rank": 3,
+        "score": 0.6335525512695312
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 37,
+        "rank": 4,
+        "score": 0.6346020698547363
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 129,
+        "rank": 5,
+        "score": 0.6468062400817871
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00464",
+    "query": "Is Boeing's business subject to cyclicality?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 8
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 3,
+        "rank": 1,
+        "score": 0.5808120965957642
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 57,
+        "rank": 2,
+        "score": 0.6063539981842041
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 37,
+        "rank": 3,
+        "score": 0.6069718599319458
+      },
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 6,
+        "rank": 4,
+        "score": 0.6104284524917603
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 63,
+        "rank": 5,
+        "score": 0.6228717565536499
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00494",
+    "query": "What production rate changes is Boeing forecasting for FY2023?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 9
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BOEING_2018_10K",
+        "page_number": 30,
+        "rank": 1,
+        "score": 0.5459991693496704
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 9,
+        "rank": 2,
+        "score": 0.5505959987640381
+      },
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 43,
+        "rank": 3,
+        "score": 0.572564959526062
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2021_10K",
+        "page_number": 45,
+        "rank": 4,
+        "score": 0.5780810713768005
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2020_10K",
+        "page_number": 46,
+        "rank": 5,
+        "score": 0.5844854116439819
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_00585",
+    "query": "How does Boeing's effective tax rate in FY2022 compare to FY2021?",
+    "expected_doc": "BOEING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 55
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 68,
+        "rank": 1,
+        "score": 0.5515103936195374
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.5518083572387695
+      },
+      {
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 24,
+        "rank": 3,
+        "score": 0.5739765763282776
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2020_10K",
+        "page_number": 41,
+        "rank": 4,
+        "score": 0.576295018196106
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 74,
+        "rank": 5,
+        "score": 0.5782260894775391
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03473",
+    "query": "What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.",
+    "expected_doc": "COCACOLA_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 74
+      },
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 76
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 76,
+        "rank": 1,
+        "score": 0.3911791741847992
+      },
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 77,
+        "rank": 2,
+        "score": 0.41730400919914246
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 64,
+        "rank": 3,
+        "score": 0.4215032160282135
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.4267005920410156
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 65,
+        "rank": 5,
+        "score": 0.43045395612716675
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_09724",
+    "query": "What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.",
+    "expected_doc": "COCACOLA_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 62
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 174,
+        "rank": 1,
+        "score": 0.4940224885940552
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 67,
+        "rank": 2,
+        "score": 0.5030796527862549
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 62,
+        "rank": 3,
+        "score": 0.5042790174484253
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 66,
+        "rank": 4,
+        "score": 0.5095217227935791
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 63,
+        "rank": 5,
+        "score": 0.5097751617431641
+      }
+    ],
+    "mrr_score": 0.3333333333333333,
+    "rank": 3
+  },
+  {
+    "query_id": "financebench_id_06272",
+    "query": "What is Coca Cola's FY2022 dividend payout ratio (using total cash dividends paid and net income attributable to shareholders)? Round answer to two decimal places. Answer the question asked by assuming you only have access to information clearly displayed in the cash flow statement and the income statement.",
+    "expected_doc": "COCACOLA_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 63
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 66
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 65,
+        "rank": 1,
+        "score": 0.37853750586509705
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 66,
+        "rank": 2,
+        "score": 0.3853769302368164
+      },
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 174,
+        "rank": 3,
+        "score": 0.38765981793403625
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 67,
+        "rank": 4,
+        "score": 0.40158554911613464
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 66,
+        "rank": 5,
+        "score": 0.41068166494369507
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_10130",
+    "query": "Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.",
+    "expected_doc": "CORNING_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 70
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 72
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 131,
+        "rank": 1,
+        "score": 0.5120720863342285
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 41,
+        "rank": 2,
+        "score": 0.5253463983535767
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 51,
+        "rank": 3,
+        "score": 0.5400818586349487
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 83,
+        "rank": 4,
+        "score": 0.5557194948196411
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 72,
+        "rank": 5,
+        "score": 0.5581546425819397
+      }
+    ],
+    "mrr_score": 0.2,
+    "rank": 5
+  },
+  {
+    "query_id": "financebench_id_02981",
+    "query": "Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.",
+    "expected_doc": "CORNING_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 65
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 31,
+        "rank": 1,
+        "score": 0.4373926520347595
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 70,
+        "rank": 2,
+        "score": 0.4484964609146118
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 26,
+        "rank": 3,
+        "score": 0.4486157298088074
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 26,
+        "rank": 4,
+        "score": 0.4612374007701874
+      },
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 24,
+        "rank": 5,
+        "score": 0.4681915044784546
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01346",
+    "query": "How much has the effective tax rate of Corning changed between FY2021 and FY2022?",
+    "expected_doc": "CORNING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 24
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.4681190848350525
+      },
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 26,
+        "rank": 2,
+        "score": 0.48221033811569214
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 94,
+        "rank": 3,
+        "score": 0.5725764632225037
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 26,
+        "rank": 4,
+        "score": 0.5875430107116699
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 75,
+        "rank": 5,
+        "score": 0.5885369777679443
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00005",
+    "query": "Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "expected_doc": "CORNING_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 60
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 32,
+        "rank": 1,
+        "score": 0.4475814998149872
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 24,
+        "rank": 2,
+        "score": 0.44894731044769287
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 24,
+        "rank": 3,
+        "score": 0.46115463972091675
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 9,
+        "rank": 4,
+        "score": 0.47209930419921875
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 24,
+        "rank": 5,
+        "score": 0.4766712486743927
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04209",
+    "query": "Using only the information within the balance sheet, how much total assets did Costco have at the end of FY2021? Answer in USD millions.",
+    "expected_doc": "COSTCO_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 38
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 38,
+        "rank": 1,
+        "score": 0.4841955602169037
+      },
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.577242374420166
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 55,
+        "rank": 3,
+        "score": 0.5847518444061279
+      },
+      {
+        "doc_name": "COSTCO_2021_10K",
+        "page_number": 40,
+        "rank": 4,
+        "score": 0.5857688188552856
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 304,
+        "rank": 5,
+        "score": 0.5869830250740051
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_05915",
+    "query": "What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.",
+    "expected_doc": "CVSHEALTH_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 302
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 304
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 327,
+        "rank": 1,
+        "score": 0.4674495756626129
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 304,
+        "rank": 2,
+        "score": 0.4916202425956726
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 304,
+        "rank": 3,
+        "score": 0.492933988571167
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 70,
+        "rank": 4,
+        "score": 0.5014263391494751
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 376,
+        "rank": 5,
+        "score": 0.5100705623626709
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_00790",
+    "query": "Is CVS Health a capital-intensive business based on FY2022 data?",
+    "expected_doc": "CVSHEALTH_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 108
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 110
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 265,
+        "rank": 1,
+        "score": 0.47899574041366577
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 114,
+        "rank": 2,
+        "score": 0.48463010787963867
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 163,
+        "rank": 3,
+        "score": 0.5272863507270813
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 75,
+        "rank": 4,
+        "score": 0.5382332801818848
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 308,
+        "rank": 5,
+        "score": 0.5407676696777344
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01107",
+    "query": "Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?",
+    "expected_doc": "CVSHEALTH_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 173
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 173
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174,
+        "rank": 1,
+        "score": 0.6167616248130798
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 1,
+        "rank": 2,
+        "score": 0.6184728145599365
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174,
+        "rank": 3,
+        "score": 0.6207900643348694
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 163,
+        "rank": 4,
+        "score": 0.6240968704223633
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 95,
+        "rank": 5,
+        "score": 0.6355907917022705
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01244",
+    "query": "Has CVS Health paid dividends to common shareholders in Q2 of FY2022?",
+    "expected_doc": "CVSHEALTH_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 68
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 92,
+        "rank": 1,
+        "score": 0.3388006091117859
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 361,
+        "rank": 2,
+        "score": 0.3892980217933655
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 307,
+        "rank": 3,
+        "score": 0.4834301769733429
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 63,
+        "rank": 4,
+        "score": 0.48747518658638
+      },
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 168,
+        "rank": 5,
+        "score": 0.4928012490272522
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00839",
+    "query": "Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?",
+    "expected_doc": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+    "expected_evidence": [
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.458636075258255
+      },
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 29,
+        "rank": 2,
+        "score": 0.4825068712234497
+      },
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 30,
+        "rank": 3,
+        "score": 0.5286587476730347
+      },
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 2,
+        "rank": 4,
+        "score": 0.6049489974975586
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 7,
+        "rank": 5,
+        "score": 0.6230982542037964
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_00822",
+    "query": "Were there any board member nominees who had substantially more votes against joining than the other nominees?",
+    "expected_doc": "FOOTLOCKER_2022_8K_dated-2022-05-20",
+    "expected_evidence": [
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 119,
+        "rank": 1,
+        "score": 0.6632348895072937
+      },
+      {
+        "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
+        "page_number": 2,
+        "rank": 2,
+        "score": 0.6738030910491943
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 4,
+        "rank": 3,
+        "score": 0.7139896154403687
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 3,
+        "rank": 4,
+        "score": 0.7440073490142822
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 225,
+        "rank": 5,
+        "score": 0.7483054995536804
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_04103",
+    "query": "What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.",
+    "expected_doc": "GENERALMILLS_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "GENERALMILLS_2019_10K",
+        "page_number": 53
+      },
+      {
+        "doc_name": "GENERALMILLS_2019_10K",
+        "page_number": 55
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 105,
+        "rank": 1,
+        "score": 0.4752313196659088
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 52,
+        "rank": 2,
+        "score": 0.47705769538879395
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 53,
+        "rank": 3,
+        "score": 0.4780714511871338
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 97,
+        "rank": 4,
+        "score": 0.49870118498802185
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.5000377893447876
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03471",
+    "query": "By drawing conclusions from the information stated only in the statement of financial position, what is General Mills's FY2020 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+    "expected_doc": "GENERALMILLS_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 50
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 1,
+        "score": 0.4779822826385498
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.4908502399921417
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 44,
+        "rank": 3,
+        "score": 0.5014192461967468
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 50,
+        "rank": 4,
+        "score": 0.5027973651885986
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 51,
+        "rank": 5,
+        "score": 0.5065234899520874
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_04854",
+    "query": "According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.",
+    "expected_doc": "GENERALMILLS_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 33,
+        "rank": 1,
+        "score": 0.366047739982605
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 40,
+        "rank": 2,
+        "score": 0.36763277649879456
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.3785189986228943
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 35,
+        "rank": 4,
+        "score": 0.37977075576782227
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 34,
+        "rank": 5,
+        "score": 0.3868246078491211
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_10136",
+    "query": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.",
+    "expected_doc": "GENERALMILLS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 45
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 49
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 52,
+        "rank": 1,
+        "score": 0.514983594417572
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 49,
+        "rank": 2,
+        "score": 0.5216839909553528
+      },
+      {
+        "doc_name": "GENERALMILLS_2019_10K",
+        "page_number": 46,
+        "rank": 3,
+        "score": 0.5381569862365723
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 81,
+        "rank": 4,
+        "score": 0.5391010046005249
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 41,
+        "rank": 5,
+        "score": 0.5399254560470581
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_00956",
+    "query": "Are JnJ's FY2022 financials that of a high growth company?",
+    "expected_doc": "JOHNSON_JOHNSON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 28
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.5838303565979004
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.5843967199325562
+      },
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 8,
+        "rank": 3,
+        "score": 0.5924186706542969
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 7,
+        "rank": 4,
+        "score": 0.5952228307723999
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 49,
+        "rank": 5,
+        "score": 0.6259956359863281
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00669",
+    "query": "What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+    "expected_doc": "JOHNSON_JOHNSON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 34
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 28,
+        "rank": 1,
+        "score": 0.3795848488807678
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 2,
+        "score": 0.4173077344894409
+      },
+      {
+        "doc_name": "CORNING_2021_10K",
+        "page_number": 28,
+        "rank": 3,
+        "score": 0.4568958580493927
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 38,
+        "rank": 4,
+        "score": 0.4590567946434021
+      },
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 5,
+        "score": 0.4622618556022644
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00711",
+    "query": "Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+    "expected_doc": "JOHNSON_JOHNSON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 46
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 47
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 99,
+        "rank": 1,
+        "score": 0.5292353630065918
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 291,
+        "rank": 2,
+        "score": 0.5311410427093506
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 44,
+        "rank": 3,
+        "score": 0.5539025068283081
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 291,
+        "rank": 4,
+        "score": 0.5597308874130249
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 60,
+        "rank": 5,
+        "score": 0.5749197006225586
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00651",
+    "query": "Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?",
+    "expected_doc": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.5807708501815796
+      },
+      {
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 45,
+        "rank": 2,
+        "score": 0.6281139850616455
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4,
+        "rank": 3,
+        "score": 0.6284990310668945
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 4,
+        "score": 0.6300348043441772
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 3,
+        "rank": 5,
+        "score": 0.6344570517539978
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_01484",
+    "query": "How did JnJ's US sales growth compare to international sales growth in FY2022?",
+    "expected_doc": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 20,
+        "rank": 1,
+        "score": 0.5369977951049805
+      },
+      {
+        "doc_name": "AMAZON_2017_10K",
+        "page_number": 25,
+        "rank": 2,
+        "score": 0.5452584028244019
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 18,
+        "rank": 3,
+        "score": 0.5460073947906494
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 21,
+        "rank": 4,
+        "score": 0.5503000617027283
+      },
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 23,
+        "rank": 5,
+        "score": 0.567624032497406
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01488",
+    "query": "Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?",
+    "expected_doc": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.6203497648239136
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 72,
+        "rank": 2,
+        "score": 0.6212698221206665
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 265,
+        "rank": 3,
+        "score": 0.6561924815177917
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 268,
+        "rank": 4,
+        "score": 0.659613311290741
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 325,
+        "rank": 5,
+        "score": 0.6598126888275146
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01490",
+    "query": "What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?",
+    "expected_doc": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 24,
+        "rank": 1,
+        "score": 0.5213398933410645
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 29,
+        "rank": 2,
+        "score": 0.5367873907089233
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.5467321872711182
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 278,
+        "rank": 4,
+        "score": 0.5477283596992493
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 8,
+        "rank": 5,
+        "score": 0.5488255023956299
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01491",
+    "query": "What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?",
+    "expected_doc": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 6,
+        "rank": 1,
+        "score": 0.43048176169395447
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.4748573899269104
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 2,
+        "rank": 3,
+        "score": 0.48915189504623413
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 6,
+        "rank": 4,
+        "score": 0.522442102432251
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 1,
+        "rank": 5,
+        "score": 0.5228996872901917
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_01487",
+    "query": "Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?",
+    "expected_doc": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 10
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 20,
+        "rank": 1,
+        "score": 0.5248257517814636
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 2,
+        "score": 0.5508834719657898
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 3,
+        "score": 0.5615934729576111
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 41,
+        "rank": 4,
+        "score": 0.5622909069061279
+      },
+      {
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 11,
+        "rank": 5,
+        "score": 0.5693620443344116
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00299",
+    "query": "Which of JPM's business segments had the lowest net revenue in 2021 Q1?",
+    "expected_doc": "JPMORGAN_2021Q1_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 19
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 27,
+        "rank": 1,
+        "score": 0.6512866020202637
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.659650981426239
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 36,
+        "rank": 3,
+        "score": 0.6600933074951172
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 63,
+        "rank": 4,
+        "score": 0.6603429317474365
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 30,
+        "rank": 5,
+        "score": 0.668895959854126
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02119",
+    "query": "If JPM went bankrupted by the end by 2021 Q1 and liquidated all of its assets to pay its shareholders, how much could each shareholder get?",
+    "expected_doc": "JPMORGAN_2021Q1_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 6
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 4,
+        "rank": 1,
+        "score": 0.5623441338539124
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 48,
+        "rank": 2,
+        "score": 0.5652481913566589
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 4,
+        "rank": 3,
+        "score": 0.565781831741333
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 4,
+        "rank": 4,
+        "score": 0.567073404788971
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 21,
+        "rank": 5,
+        "score": 0.5775164365768433
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00206",
+    "query": "Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+    "expected_doc": "JPMORGAN_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 3
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2022_10K",
+        "page_number": 50,
+        "rank": 1,
+        "score": 0.49937745928764343
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 47,
+        "rank": 2,
+        "score": 0.5046621561050415
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 49,
+        "rank": 3,
+        "score": 0.5271466970443726
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 31,
+        "rank": 4,
+        "score": 0.5410723686218262
+      },
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 38,
+        "rank": 5,
+        "score": 0.5441876649856567
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00394",
+    "query": "In 2022 Q2, which of JPM's business segments had the highest net income?",
+    "expected_doc": "JPMORGAN_2022Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 21
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 7,
+        "rank": 1,
+        "score": 0.5471236705780029
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 41,
+        "rank": 2,
+        "score": 0.589532196521759
+      },
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 5,
+        "rank": 3,
+        "score": 0.5929823517799377
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 49,
+        "rank": 4,
+        "score": 0.5979164242744446
+      },
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 64,
+        "rank": 5,
+        "score": 0.6014606952667236
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02049",
+    "query": "Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?",
+    "expected_doc": "JPMORGAN_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 85
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 136,
+        "rank": 1,
+        "score": 0.5167498588562012
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 68,
+        "rank": 2,
+        "score": 0.5314921140670776
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 8,
+        "rank": 3,
+        "score": 0.5353600978851318
+      },
+      {
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 85,
+        "rank": 4,
+        "score": 0.5649580955505371
+      },
+      {
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 66,
+        "rank": 5,
+        "score": 0.5685999393463135
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_10499",
+    "query": "What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.",
+    "expected_doc": "KRAFTHEINZ_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 50
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 52,
+        "rank": 1,
+        "score": 0.3995610475540161
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 114,
+        "rank": 2,
+        "score": 0.47593969106674194
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 115,
+        "rank": 3,
+        "score": 0.486242413520813
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 50,
+        "rank": 4,
+        "score": 0.494037389755249
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 26,
+        "rank": 5,
+        "score": 0.5062735676765442
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_04412",
+    "query": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.",
+    "expected_doc": "LOCKHEEDMARTIN_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "LOCKHEEDMARTIN_2020_10K",
+        "page_number": 67
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2020_10K",
+        "page_number": 69
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MICROSOFT_2016_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.5322674512863159
+      },
+      {
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 95,
+        "rank": 2,
+        "score": 0.5334558486938477
+      },
+      {
+        "doc_name": "CORNING_2020_10K",
+        "page_number": 128,
+        "rank": 3,
+        "score": 0.5339378118515015
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 65,
+        "rank": 4,
+        "score": 0.5356798768043518
+      },
+      {
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 93,
+        "rank": 5,
+        "score": 0.5371891856193542
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03031",
+    "query": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+    "expected_doc": "LOCKHEEDMARTIN_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "LOCKHEEDMARTIN_2021_10K",
+        "page_number": 68
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 44,
+        "rank": 1,
+        "score": 0.49245214462280273
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.5047430396080017
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2021_10K",
+        "page_number": 77,
+        "rank": 3,
+        "score": 0.5087908506393433
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 4,
+        "score": 0.5104891061782837
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 66,
+        "rank": 5,
+        "score": 0.5105966329574585
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03718",
+    "query": "What is Lockheed Martin's 2 year total revenue CAGR from FY2020 to FY2022 (in units of percents and round to one decimal place)? Provide a response to the question by primarily using the statement of income.",
+    "expected_doc": "LOCKHEEDMARTIN_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 63
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 63,
+        "rank": 1,
+        "score": 0.4328124523162842
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 64,
+        "rank": 2,
+        "score": 0.444796621799469
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2022_10K",
+        "page_number": 66,
+        "rank": 3,
+        "score": 0.4477077126502991
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2020_10K",
+        "page_number": 68,
+        "rank": 4,
+        "score": 0.4843024015426636
+      },
+      {
+        "doc_name": "LOCKHEEDMARTIN_2021_10K",
+        "page_number": 67,
+        "rank": 5,
+        "score": 0.4901719093322754
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_04171",
+    "query": "Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.",
+    "expected_doc": "MGMRESORTS_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 57
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.375942200422287
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 64,
+        "rank": 2,
+        "score": 0.40479549765586853
+      },
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 59,
+        "rank": 3,
+        "score": 0.40649178624153137
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 60,
+        "rank": 4,
+        "score": 0.4263191819190979
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 68,
+        "rank": 5,
+        "score": 0.43900179862976074
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_03849",
+    "query": "What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.",
+    "expected_doc": "MGMRESORTS_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 65
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 67
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 68,
+        "rank": 1,
+        "score": 0.44821688532829285
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 67,
+        "rank": 2,
+        "score": 0.4562743902206421
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 51,
+        "rank": 3,
+        "score": 0.46239790320396423
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 60,
+        "rank": 4,
+        "score": 0.467509001493454
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 61,
+        "rank": 5,
+        "score": 0.47309941053390503
+      }
+    ],
+    "mrr_score": 0.5,
+    "rank": 2
+  },
+  {
+    "query_id": "financebench_id_01254",
+    "query": "Has MGM Resorts paid dividends to common shareholders in FY2022?",
+    "expected_doc": "MGMRESORTS_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 32
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 64,
+        "rank": 1,
+        "score": 0.39349663257598877
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 53,
+        "rank": 2,
+        "score": 0.4163304269313812
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 97,
+        "rank": 3,
+        "score": 0.4301682412624359
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 31,
+        "rank": 4,
+        "score": 0.43122634291648865
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 61,
+        "rank": 5,
+        "score": 0.4348549246788025
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00382",
+    "query": "Which region had the Highest EBITDAR Contribution for MGM during FY2022?",
+    "expected_doc": "MGMRESORTS_2022Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 13
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 31,
+        "rank": 1,
+        "score": 0.5393303632736206
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.5488020181655884
+      },
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 3,
+        "score": 0.570244312286377
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 39,
+        "rank": 4,
+        "score": 0.578993022441864
+      },
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 24,
+        "rank": 5,
+        "score": 0.5803239345550537
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01911",
+    "query": "What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?",
+    "expected_doc": "MGMRESORTS_2022Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 14
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 41,
+        "rank": 1,
+        "score": 0.5044298768043518
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 46,
+        "rank": 2,
+        "score": 0.5376297235488892
+      },
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 31,
+        "rank": 3,
+        "score": 0.5397239923477173
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 42,
+        "rank": 4,
+        "score": 0.5428306460380554
+      },
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 99,
+        "rank": 5,
+        "score": 0.5647703409194946
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01912",
+    "query": "Which region had the worst topline performance for MGM during FY2022?",
+    "expected_doc": "MGMRESORTS_2022Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 3
+      },
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 4
+      },
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 2,
+        "rank": 1,
+        "score": 0.6074733138084412
+      },
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.6270720958709717
+      },
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 32,
+        "rank": 3,
+        "score": 0.6295871734619141
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 100,
+        "rank": 4,
+        "score": 0.6483378410339355
+      },
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 24,
+        "rank": 5,
+        "score": 0.6516017317771912
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00407",
+    "query": "Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?",
+    "expected_doc": "MGMRESORTS_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 11
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 46,
+        "rank": 1,
+        "score": 0.5511491298675537
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 54,
+        "rank": 2,
+        "score": 0.5589380264282227
+      },
+      {
+        "doc_name": "MGMRESORTS_2018_10K",
+        "page_number": 47,
+        "rank": 3,
+        "score": 0.5677434206008911
+      },
+      {
+        "doc_name": "MGMRESORTS_2020_10K",
+        "page_number": 86,
+        "rank": 4,
+        "score": 0.5727996826171875
+      },
+      {
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 47,
+        "rank": 5,
+        "score": 0.5728179216384888
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04700",
+    "query": "What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.",
+    "expected_doc": "MICROSOFT_2016_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "MICROSOFT_2016_10K",
+        "page_number": 52
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "MICROSOFT_2016_10K",
+        "page_number": 29,
+        "rank": 1,
+        "score": 0.506362795829773
+      },
+      {
+        "doc_name": "ADOBE_2017_10K",
+        "page_number": 40,
+        "rank": 2,
+        "score": 0.562904953956604
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 88,
+        "rank": 3,
+        "score": 0.5632277131080627
+      },
+      {
+        "doc_name": "MICROSOFT_2016_10K",
+        "page_number": 94,
+        "rank": 4,
+        "score": 0.5686180591583252
+      },
+      {
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 95,
+        "rank": 5,
+        "score": 0.573340654373169
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00552",
+    "query": "Has Microsoft increased its debt on balance sheet between FY2023 and the FY2022 period?",
+    "expected_doc": "MICROSOFT_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 60
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2017_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.5805996656417847
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 66,
+        "rank": 2,
+        "score": 0.6050846576690674
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 48,
+        "rank": 3,
+        "score": 0.6079977750778198
+      },
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 48,
+        "rank": 4,
+        "score": 0.6213092803955078
+      },
+      {
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 51,
+        "rank": 5,
+        "score": 0.6306920051574707
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04458",
+    "query": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).",
+    "expected_doc": "NETFLIX_2015_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NETFLIX_2015_10K",
+        "page_number": 40
+      },
+      {
+        "doc_name": "NETFLIX_2015_10K",
+        "page_number": 42
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "BLOCK_2020_10K",
+        "page_number": 53,
+        "rank": 1,
+        "score": 0.44562289118766785
+      },
+      {
+        "doc_name": "BLOCK_2016_10K",
+        "page_number": 42,
+        "rank": 2,
+        "score": 0.48725855350494385
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 56,
+        "rank": 3,
+        "score": 0.4979007840156555
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 42,
+        "rank": 4,
+        "score": 0.5045958757400513
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 96,
+        "rank": 5,
+        "score": 0.5080486536026001
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03282",
+    "query": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+    "expected_doc": "NETFLIX_2017_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NETFLIX_2017_10K",
+        "page_number": 45
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "NETFLIX_2017_10K",
+        "page_number": 45,
+        "rank": 1,
+        "score": 0.3589433431625366
+      },
+      {
+        "doc_name": "NETFLIX_2015_10K",
+        "page_number": 43,
+        "rank": 2,
+        "score": 0.375213623046875
+      },
+      {
+        "doc_name": "NETFLIX_2017_10K",
+        "page_number": 42,
+        "rank": 3,
+        "score": 0.4663732945919037
+      },
+      {
+        "doc_name": "NETFLIX_2015_10K",
+        "page_number": 40,
+        "rank": 4,
+        "score": 0.46699070930480957
+      },
+      {
+        "doc_name": "NETFLIX_2017_10K",
+        "page_number": 43,
+        "rank": 5,
+        "score": 0.47576960921287537
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_04302",
+    "query": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.",
+    "expected_doc": "NIKE_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 46
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 59,
+        "rank": 1,
+        "score": 0.427806556224823
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 34,
+        "rank": 2,
+        "score": 0.43365639448165894
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 28,
+        "rank": 3,
+        "score": 0.44314414262771606
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 22,
+        "rank": 4,
+        "score": 0.4446778893470764
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 89,
+        "rank": 5,
+        "score": 0.45065855979919434
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03531",
+    "query": "According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.",
+    "expected_doc": "NIKE_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NIKE_2019_10K",
+        "page_number": 54
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 61,
+        "rank": 1,
+        "score": 0.35354310274124146
+      },
+      {
+        "doc_name": "NIKE_2021_10K",
+        "page_number": 61,
+        "rank": 2,
+        "score": 0.42454683780670166
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 48,
+        "rank": 3,
+        "score": 0.4258473515510559
+      },
+      {
+        "doc_name": "NIKE_2019_10K",
+        "page_number": 54,
+        "rank": 4,
+        "score": 0.42708998918533325
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 91,
+        "rank": 5,
+        "score": 0.42771604657173157
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_04080",
+    "query": "When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.",
+    "expected_doc": "NIKE_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NIKE_2021_10K",
+        "page_number": 59
+      },
+      {
+        "doc_name": "NIKE_2021_10K",
+        "page_number": 61
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 59,
+        "rank": 1,
+        "score": 0.4700703024864197
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 22,
+        "rank": 2,
+        "score": 0.47922128438949585
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 40,
+        "rank": 3,
+        "score": 0.48000574111938477
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 62,
+        "rank": 4,
+        "score": 0.4841289818286896
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 60,
+        "rank": 5,
+        "score": 0.49342089891433716
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01163",
+    "query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?",
+    "expected_doc": "NIKE_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 62
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 62,
+        "rank": 1,
+        "score": 0.508947491645813
+      },
+      {
+        "doc_name": "NIKE_2021_10K",
+        "page_number": 31,
+        "rank": 2,
+        "score": 0.5237545967102051
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 36,
+        "rank": 3,
+        "score": 0.5267053842544556
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 32,
+        "rank": 4,
+        "score": 0.5627150535583496
+      },
+      {
+        "doc_name": "NIKE_2018_10K",
+        "page_number": 30,
+        "rank": 5,
+        "score": 0.564710259437561
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00080",
+    "query": "Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "expected_doc": "PAYPAL_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 61
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "3M_2018_10K",
+        "page_number": 44,
+        "rank": 1,
+        "score": 0.5632447600364685
+      },
+      {
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 33,
+        "rank": 2,
+        "score": 0.5852012634277344
+      },
+      {
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 71,
+        "rank": 3,
+        "score": 0.5903029441833496
+      },
+      {
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 36,
+        "rank": 4,
+        "score": 0.592310905456543
+      },
+      {
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 96,
+        "rank": 5,
+        "score": 0.5970429182052612
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04980",
+    "query": "What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.",
+    "expected_doc": "PEPSICO_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 63
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 64,
+        "rank": 1,
+        "score": 0.4340677559375763
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 65,
+        "rank": 2,
+        "score": 0.4354730248451233
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 7,
+        "rank": 3,
+        "score": 0.43910324573516846
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 63,
+        "rank": 4,
+        "score": 0.4415995478630066
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64,
+        "rank": 5,
+        "score": 0.4452236294746399
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_01009",
+    "query": "What are the geographies that Pepsico primarily operates in as of FY2022?",
+    "expected_doc": "PEPSICO_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 4
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 5
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 482,
+        "rank": 1,
+        "score": 0.5471037030220032
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 489,
+        "rank": 2,
+        "score": 0.5476868152618408
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 106,
+        "rank": 3,
+        "score": 0.5551425218582153
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 528,
+        "rank": 4,
+        "score": 0.5571526288986206
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 533,
+        "rank": 5,
+        "score": 0.5661993026733398
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00735",
+    "query": "Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?",
+    "expected_doc": "PEPSICO_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 26
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 5,
+        "rank": 1,
+        "score": 0.5486003160476685
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 4,
+        "rank": 2,
+        "score": 0.5709304213523865
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 12,
+        "rank": 3,
+        "score": 0.5834953784942627
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 106,
+        "rank": 4,
+        "score": 0.5854185819625854
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 130,
+        "rank": 5,
+        "score": 0.5938120484352112
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01328",
+    "query": "What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+    "expected_doc": "PEPSICO_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 78
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 55,
+        "rank": 1,
+        "score": 0.4326874017715454
+      },
+      {
+        "doc_name": "3M_2022_10K",
+        "page_number": 65,
+        "rank": 2,
+        "score": 0.43407899141311646
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 49,
+        "rank": 3,
+        "score": 0.43731436133384705
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 13,
+        "rank": 4,
+        "score": 0.44696828722953796
+      },
+      {
+        "doc_name": "GENERALMILLS_2020_10K",
+        "page_number": 21,
+        "rank": 5,
+        "score": 0.4476172924041748
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_03620",
+    "query": "What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.",
+    "expected_doc": "PEPSICO_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 62
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 12,
+        "rank": 1,
+        "score": 0.4112836718559265
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 49,
+        "rank": 2,
+        "score": 0.42696335911750793
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 15,
+        "rank": 3,
+        "score": 0.4493829309940338
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 6,
+        "rank": 4,
+        "score": 0.4586719274520874
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 103,
+        "rank": 5,
+        "score": 0.4605678617954254
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04481",
+    "query": "What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.",
+    "expected_doc": "PEPSICO_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 62
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 12,
+        "rank": 1,
+        "score": 0.39090046286582947
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 15,
+        "rank": 2,
+        "score": 0.3973633646965027
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 49,
+        "rank": 3,
+        "score": 0.4233659505844116
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 13,
+        "rank": 4,
+        "score": 0.44138872623443604
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 11,
+        "rank": 5,
+        "score": 0.448177695274353
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_01482",
+    "query": "At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?",
+    "expected_doc": "PEPSICO_2023_8K_dated-2023-05-05",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 4
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 4,
+        "rank": 1,
+        "score": 0.3650686740875244
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.3814086318016052
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 133,
+        "rank": 3,
+        "score": 0.5694921612739563
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 110,
+        "rank": 4,
+        "score": 0.5769691467285156
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 112,
+        "rank": 5,
+        "score": 0.5790300965309143
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00705",
+    "query": "By how much did Pepsico increase its unsecured five year revolving credit agreement on May 26, 2023?",
+    "expected_doc": "PEPSICO_2023_8K_dated-2023-05-30",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 1,
+        "score": 0.3441704511642456
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 2,
+        "score": 0.36340776085853577
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 3,
+        "score": 0.3775113821029663
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 85,
+        "rank": 4,
+        "score": 0.41821354627609253
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 81,
+        "rank": 5,
+        "score": 0.4547603130340576
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00882",
+    "query": "As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?",
+    "expected_doc": "PEPSICO_2023_8K_dated-2023-05-30",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 1,
+        "score": 0.313222736120224
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 2,
+        "score": 0.35367462038993835
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 2,
+        "rank": 3,
+        "score": 0.365316241979599
+      },
+      {
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 5,
+        "rank": 4,
+        "score": 0.45650461316108704
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 8,
+        "rank": 5,
+        "score": 0.4637753963470459
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01474",
+    "query": "As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?",
+    "expected_doc": "PEPSICO_2023Q1_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.5392404794692993
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.5904449820518494
+      },
+      {
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 127,
+        "rank": 3,
+        "score": 0.5992392897605896
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 106,
+        "rank": 4,
+        "score": 0.6090357899665833
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 12,
+        "rank": 5,
+        "score": 0.6152712106704712
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_01476",
+    "query": "As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?",
+    "expected_doc": "PEPSICO_2023Q1_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.35986775159835815
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 3,
+        "rank": 2,
+        "score": 0.4129824638366699
+      },
+      {
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 12,
+        "rank": 3,
+        "score": 0.4668722450733185
+      },
+      {
+        "doc_name": "AMCOR_2020_10K",
+        "page_number": 106,
+        "rank": 4,
+        "score": 0.48181289434432983
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 45,
+        "rank": 5,
+        "score": 0.4999518394470215
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00302",
+    "query": "Did Pfizer grow its PPNE between FY20 and FY21?",
+    "expected_doc": "PFIZER_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 59
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "rank": 1,
+        "score": 0.6093325614929199
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 31,
+        "rank": 2,
+        "score": 0.6270558834075928
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 44,
+        "rank": 3,
+        "score": 0.637023389339447
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 10,
+        "rank": 4,
+        "score": 0.6377983689308167
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 21,
+        "rank": 5,
+        "score": 0.6454664468765259
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00702",
+    "query": "Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?",
+    "expected_doc": "PFIZER_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 57
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 57,
+        "rank": 1,
+        "score": 0.5084677934646606
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 42,
+        "rank": 2,
+        "score": 0.5108805298805237
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "rank": 3,
+        "score": 0.5153334140777588
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 61,
+        "rank": 4,
+        "score": 0.5239583849906921
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 78,
+        "rank": 5,
+        "score": 0.537623405456543
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_02416",
+    "query": "What are three main companies acquired by Pfizer mentioned in this 10K report?",
+    "expected_doc": "PFIZER_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 70
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 71
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 71,
+        "rank": 1,
+        "score": 0.5091460943222046
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 39,
+        "rank": 2,
+        "score": 0.5116520524024963
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 74,
+        "rank": 3,
+        "score": 0.5576374530792236
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 36,
+        "rank": 4,
+        "score": 0.5579200983047485
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 31,
+        "rank": 5,
+        "score": 0.5602666139602661
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "query_id": "financebench_id_00283",
+    "query": "How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?",
+    "expected_doc": "Pfizer_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 41
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 71,
+        "rank": 1,
+        "score": 0.41149264574050903
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 50,
+        "rank": 2,
+        "score": 0.5680378079414368
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 58,
+        "rank": 3,
+        "score": 0.576310396194458
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 71,
+        "rank": 4,
+        "score": 0.5797298550605774
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 76,
+        "rank": 5,
+        "score": 0.5882470607757568
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00724",
+    "query": "For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?",
+    "expected_doc": "Pfizer_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 38
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "rank": 1,
+        "score": 0.4404999017715454
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 46,
+        "rank": 2,
+        "score": 0.5123415589332581
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 45,
+        "rank": 3,
+        "score": 0.5136436223983765
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 33,
+        "rank": 4,
+        "score": 0.5199233293533325
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "rank": 5,
+        "score": 0.5224927663803101
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02419",
+    "query": "As of Q2'2023, is Pfizer spinning off any large business segments?",
+    "expected_doc": "Pfizer_2023Q2_10Q",
+    "expected_evidence": [
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 41
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 107,
+        "rank": 1,
+        "score": 0.5244107246398926
+      },
+      {
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 38,
+        "rank": 2,
+        "score": 0.5528304576873779
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "rank": 3,
+        "score": 0.5631648302078247
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 107,
+        "rank": 4,
+        "score": 0.5656964778900146
+      },
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 29,
+        "rank": 5,
+        "score": 0.5816143751144409
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00746",
+    "query": "Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?",
+    "expected_doc": "ULTABEAUTY_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 1
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 84,
+        "rank": 1,
+        "score": 0.5748435854911804
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 309,
+        "rank": 2,
+        "score": 0.5853173136711121
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 335,
+        "rank": 3,
+        "score": 0.5900735855102539
+      },
+      {
+        "doc_name": "AES_2022_10K",
+        "page_number": 153,
+        "rank": 4,
+        "score": 0.5901272296905518
+      },
+      {
+        "doc_name": "CVSHEALTH_2018_10K",
+        "page_number": 334,
+        "rank": 5,
+        "score": 0.619448184967041
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00521",
+    "query": "What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?",
+    "expected_doc": "ULTABEAUTY_2023_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 57
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.48468464612960815
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 2,
+        "score": 0.5109906196594238
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 3,
+        "score": 0.5113356113433838
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 10,
+        "rank": 4,
+        "score": 0.5455491542816162
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 59,
+        "rank": 5,
+        "score": 0.5602133274078369
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00601",
+    "query": "What drove the reduction in SG&A expense as a percent of net sales in FY2023?",
+    "expected_doc": "ULTABEAUTY_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "GENERALMILLS_2022_10K",
+        "page_number": 19,
+        "rank": 1,
+        "score": 0.3941635489463806
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 39,
+        "rank": 2,
+        "score": 0.4598515033721924
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 32,
+        "rank": 3,
+        "score": 0.47030025720596313
+      },
+      {
+        "doc_name": "BESTBUY_2017_10K",
+        "page_number": 34,
+        "rank": 4,
+        "score": 0.47469890117645264
+      },
+      {
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "rank": 5,
+        "score": 0.5007044076919556
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00603",
+    "query": "What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?",
+    "expected_doc": "ULTABEAUTY_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 3
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.5787098407745361
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 2,
+        "score": 0.5930194854736328
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 3,
+        "score": 0.5984399318695068
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 7,
+        "rank": 4,
+        "score": 0.6126340627670288
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 10,
+        "rank": 5,
+        "score": 0.6235032081604004
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00605",
+    "query": "What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?",
+    "expected_doc": "ULTABEAUTY_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 3
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.413669228553772
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 2,
+        "score": 0.4430670738220215
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 3,
+        "score": 0.5136107206344604
+      },
+      {
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 29,
+        "rank": 4,
+        "score": 0.5283412337303162
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 8,
+        "rank": 5,
+        "score": 0.5384576916694641
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00606",
+    "query": "Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?",
+    "expected_doc": "ULTABEAUTY_2023Q4_EARNINGS",
+    "expected_evidence": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 2
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 1,
+        "score": 0.45934394001960754
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 2,
+        "score": 0.4974838197231293
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 6,
+        "rank": 3,
+        "score": 0.5082926750183105
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "rank": 4,
+        "score": 0.5122617483139038
+      },
+      {
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 8,
+        "rank": 5,
+        "score": 0.5282069444656372
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00859",
+    "query": "Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?",
+    "expected_doc": "VERIZON_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 85
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 59,
+        "rank": 1,
+        "score": 0.5178154706954956
+      },
+      {
+        "doc_name": "BESTBUY_2019_10K",
+        "page_number": 48,
+        "rank": 2,
+        "score": 0.5196256637573242
+      },
+      {
+        "doc_name": "COCACOLA_2021_10K",
+        "page_number": 82,
+        "rank": 3,
+        "score": 0.5243208408355713
+      },
+      {
+        "doc_name": "PEPSICO_2021_10K",
+        "page_number": 38,
+        "rank": 4,
+        "score": 0.5269018411636353
+      },
+      {
+        "doc_name": "NIKE_2021_10K",
+        "page_number": 85,
+        "rank": 5,
+        "score": 0.5294803380966187
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_02024",
+    "query": "As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?",
+    "expected_doc": "VERIZON_2021_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 63
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 94
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 105,
+        "rank": 1,
+        "score": 0.5194939374923706
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 92,
+        "rank": 2,
+        "score": 0.5367031097412109
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 24,
+        "rank": 3,
+        "score": 0.5455902814865112
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 89,
+        "rank": 4,
+        "score": 0.5706791877746582
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 70,
+        "rank": 5,
+        "score": 0.5716039538383484
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00216",
+    "query": "Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "expected_doc": "VERIZON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 56
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 20,
+        "rank": 1,
+        "score": 0.6118402481079102
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 62,
+        "rank": 2,
+        "score": 0.6286144256591797
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.6287954449653625
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 40,
+        "rank": 4,
+        "score": 0.6332336664199829
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 19,
+        "rank": 5,
+        "score": 0.6349385976791382
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_00215",
+    "query": "Is Verizon a capital intensive business based on FY 2022 data?",
+    "expected_doc": "VERIZON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 56
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 23
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 70,
+        "rank": 1,
+        "score": 0.4350827932357788
+      },
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 22,
+        "rank": 2,
+        "score": 0.4504052400588989
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 22,
+        "rank": 3,
+        "score": 0.45576998591423035
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 56,
+        "rank": 4,
+        "score": 0.4616500735282898
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 24,
+        "rank": 5,
+        "score": 0.4641358256340027
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_00566",
+    "query": "Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?",
+    "expected_doc": "VERIZON_2022_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 77
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 38,
+        "rank": 1,
+        "score": 0.43515151739120483
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 34,
+        "rank": 2,
+        "score": 0.4615212678909302
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 40,
+        "rank": 3,
+        "score": 0.46226954460144043
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 77,
+        "rank": 4,
+        "score": 0.46549636125564575
+      },
+      {
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 40,
+        "rank": 5,
+        "score": 0.4726460874080658
+      }
+    ],
+    "mrr_score": 0.25,
+    "rank": 4
+  },
+  {
+    "query_id": "financebench_id_06247",
+    "query": "What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.",
+    "expected_doc": "WALMART_2018_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 57
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 59
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 131,
+        "rank": 1,
+        "score": 0.45845985412597656
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 197,
+        "rank": 2,
+        "score": 0.4880121350288391
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 35,
+        "rank": 3,
+        "score": 0.49566423892974854
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 48,
+        "rank": 4,
+        "score": 0.5050032138824463
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 51,
+        "rank": 5,
+        "score": 0.5096171498298645
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_04784",
+    "query": "Based on the information provided primarily in the statement of income, what is the FY2018 - FY2019 change in unadjusted operating income % margin for Walmart? Answer in units of percents and round to one decimal place.",
+    "expected_doc": "WALMART_2019_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 48
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 42,
+        "rank": 1,
+        "score": 0.3800334930419922
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.38589411973953247
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 43,
+        "rank": 3,
+        "score": 0.4071650803089142
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 35,
+        "rank": 4,
+        "score": 0.40813004970550537
+      },
+      {
+        "doc_name": "WALMART_2018_10K",
+        "page_number": 41,
+        "rank": 5,
+        "score": 0.4243144989013672
+      }
+    ],
+    "mrr_score": 0.0,
+    "rank": -1
+  },
+  {
+    "query_id": "financebench_id_06741",
+    "query": "What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.",
+    "expected_doc": "WALMART_2020_10K",
+    "expected_evidence": [
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 51
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 56
+      }
+    ],
+    "retrieved_docs": [
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 56,
+        "rank": 1,
+        "score": 0.4452151656150818
+      },
+      {
+        "doc_name": "WALMART_2020_10K",
+        "page_number": 37,
+        "rank": 2,
+        "score": 0.4516265094280243
+      },
+      {
+        "doc_name": "KRAFTHEINZ_2019_10K",
+        "page_number": 31,
+        "rank": 3,
+        "score": 0.45333829522132874
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 35,
+        "rank": 4,
+        "score": 0.46145689487457275
+      },
+      {
+        "doc_name": "WALMART_2019_10K",
+        "page_number": 52,
+        "rank": 5,
+        "score": 0.46565234661102295
+      }
+    ],
+    "mrr_score": 1.0,
+    "rank": 1
+  },
+  {
+    "summary": {
+      "provider": "ollama",
+      "model": "nomic-embed-text",
+      "chunk_size": 512,
+      "k_retrieve": 5,
+      "mode": "global",
+      "use_page_tolerance": true,
+      "total_queries": 150,
+      "average_mrr": 0.22466666666666668
+    }
+  }
+]
