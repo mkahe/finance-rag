@@ -1,0 +1,9 @@
+================================================================================
+EVALUATION SUMMARY REPORT
+================================================================================
+
+Total Configurations: 64
+Best Text MRR: 0.5712
+Best Page MRR: 0.6656
+Average Text MRR: 0.4802
+Average Page MRR: 0.4581

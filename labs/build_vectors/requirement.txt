@@ -38,3 +38,5 @@ ipywidgets  # For better tqdm in notebooks
 # Plot
 matplotlib
 seaborn
+
+tabulate
