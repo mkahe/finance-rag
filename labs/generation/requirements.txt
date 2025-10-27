@@ -1,0 +1,7 @@
+datasets
+langchain
+langchain-openai
+langchain-anthropic
+langchain-community
+python-dotenv
+tqdm
