@@ -38,14 +38,14 @@ Method: query_refinement / clarification
 Page-Based Metrics:
   MRR:       0.4205 (Δ +0.0189, +4.70%)
   Recall:    0.7767 (Δ +0.0378, +5.11%)
-  Precision: 0.0593 (Δ +0.0017)
-  F1:        0.1088 (Δ +0.0031)
+  Precision: 0.0593 (Δ +0.0017, +2.89%)
+  F1:        0.1088 (Δ +0.0031, +2.91%)
 
 Text-Based Metrics:
   MRR:       0.3237 (Δ +0.0380, +13.29%)
   Recall:    0.5756 (Δ +0.0222, +4.02%)
-  Precision: 0.0567 (Δ +0.0037)
-  F1:        0.0999 (Δ +0.0063)
+  Precision: 0.0567 (Δ +0.0037, +6.92%)
+  F1:        0.0999 (Δ +0.0063, +6.73%)
 
 --------------------------------------------------------------------------------
 Method: chain_of_thought / explicit_context
@@ -54,14 +54,14 @@ Method: chain_of_thought / explicit_context
 Page-Based Metrics:
   MRR:       0.4131 (Δ +0.0114, +2.84%)
   Recall:    0.7378 (Δ -0.0011, -0.15%)
-  Precision: 0.0577 (Δ +0.0000)
-  F1:        0.1055 (Δ -0.0003)
+  Precision: 0.0577 (Δ +0.0000, +0.00%)
+  F1:        0.1055 (Δ -0.0003, -0.28%)
 
 Text-Based Metrics:
   MRR:       0.3161 (Δ +0.0303, +10.61%)
   Recall:    0.5644 (Δ +0.0111, +2.01%)
-  Precision: 0.0577 (Δ +0.0047)
-  F1:        0.1013 (Δ +0.0077)
+  Precision: 0.0577 (Δ +0.0047, +8.81%)
+  F1:        0.1013 (Δ +0.0077, +8.27%)
 
 --------------------------------------------------------------------------------
 Method: chain_of_thought / step_by_step
@@ -70,14 +70,14 @@ Method: chain_of_thought / step_by_step
 Page-Based Metrics:
   MRR:       0.4040 (Δ +0.0024, +0.59%)
   Recall:    0.7500 (Δ +0.0111, +1.50%)
-  Precision: 0.0547 (Δ -0.0030)
-  F1:        0.1007 (Δ -0.0051)
+  Precision: 0.0547 (Δ -0.0030, -5.20%)
+  F1:        0.1007 (Δ -0.0051, -4.83%)
 
 Text-Based Metrics:
   MRR:       0.2950 (Δ +0.0092, +3.23%)
   Recall:    0.5633 (Δ +0.0100, +1.81%)
-  Precision: 0.0510 (Δ -0.0020)
-  F1:        0.0909 (Δ -0.0027)
+  Precision: 0.0510 (Δ -0.0020, -3.77%)
+  F1:        0.0909 (Δ -0.0027, -2.87%)
 
 --------------------------------------------------------------------------------
 Method: term_expansion / context_addition
@@ -86,14 +86,14 @@ Method: term_expansion / context_addition
 Page-Based Metrics:
   MRR:       0.4019 (Δ +0.0003, +0.07%)
   Recall:    0.7189 (Δ -0.0200, -2.71%)
-  Precision: 0.0553 (Δ -0.0023)
-  F1:        0.1016 (Δ -0.0042)
+  Precision: 0.0553 (Δ -0.0023, -4.05%)
+  F1:        0.1016 (Δ -0.0042, -3.98%)
 
 Text-Based Metrics:
   MRR:       0.2876 (Δ +0.0019, +0.65%)
   Recall:    0.5633 (Δ +0.0100, +1.81%)
-  Precision: 0.0527 (Δ -0.0003)
-  F1:        0.0936 (Δ +0.0000)
+  Precision: 0.0527 (Δ -0.0003, -0.63%)
+  F1:        0.0936 (Δ +0.0000, +0.01%)
 
 --------------------------------------------------------------------------------
 Method: hyde / financial_terminology
@@ -102,14 +102,14 @@ Method: hyde / financial_terminology
 Page-Based Metrics:
   MRR:       0.3967 (Δ -0.0049, -1.23%)
   Recall:    0.7822 (Δ +0.0433, +5.86%)
-  Precision: 0.0570 (Δ -0.0007)
-  F1:        0.1050 (Δ -0.0008)
+  Precision: 0.0570 (Δ -0.0007, -1.16%)
+  F1:        0.1050 (Δ -0.0008, -0.76%)
 
 Text-Based Metrics:
   MRR:       0.2769 (Δ -0.0088, -3.09%)
   Recall:    0.5867 (Δ +0.0333, +6.02%)
-  Precision: 0.0503 (Δ -0.0027)
-  F1:        0.0904 (Δ -0.0032)
+  Precision: 0.0503 (Δ -0.0027, -5.03%)
+  F1:        0.0904 (Δ -0.0032, -3.41%)
 
 --------------------------------------------------------------------------------
 Method: domain_adaptation / 10k_language
@@ -118,14 +118,14 @@ Method: domain_adaptation / 10k_language
 Page-Based Metrics:
   MRR:       0.3913 (Δ -0.0104, -2.58%)
   Recall:    0.7500 (Δ +0.0111, +1.50%)
-  Precision: 0.0543 (Δ -0.0033)
-  F1:        0.1002 (Δ -0.0056)
+  Precision: 0.0543 (Δ -0.0033, -5.78%)
+  F1:        0.1002 (Δ -0.0056, -5.26%)
 
 Text-Based Metrics:
   MRR:       0.2938 (Δ +0.0080, +2.82%)
   Recall:    0.5600 (Δ +0.0067, +1.20%)
-  Precision: 0.0537 (Δ +0.0007)
-  F1:        0.0946 (Δ +0.0010)
+  Precision: 0.0537 (Δ +0.0007, +1.26%)
+  F1:        0.0946 (Δ +0.0010, +1.06%)
 
 --------------------------------------------------------------------------------
 Method: hyde / detailed
@@ -134,14 +134,14 @@ Method: hyde / detailed
 Page-Based Metrics:
   MRR:       0.3844 (Δ -0.0173, -4.30%)
   Recall:    0.7767 (Δ +0.0378, +5.11%)
-  Precision: 0.0583 (Δ +0.0007)
-  F1:        0.1072 (Δ +0.0015)
+  Precision: 0.0583 (Δ +0.0007, +1.16%)
+  F1:        0.1072 (Δ +0.0015, +1.39%)
 
 Text-Based Metrics:
   MRR:       0.2677 (Δ -0.0181, -6.34%)
   Recall:    0.5789 (Δ +0.0256, +4.62%)
-  Precision: 0.0517 (Δ -0.0013)
-  F1:        0.0922 (Δ -0.0014)
+  Precision: 0.0517 (Δ -0.0013, -2.52%)
+  F1:        0.0922 (Δ -0.0014, -1.49%)
 
 --------------------------------------------------------------------------------
 Method: term_expansion / abbreviation_synonym
@@ -150,14 +150,14 @@ Method: term_expansion / abbreviation_synonym
 Page-Based Metrics:
   MRR:       0.3791 (Δ -0.0226, -5.61%)
   Recall:    0.7489 (Δ +0.0100, +1.35%)
-  Precision: 0.0570 (Δ -0.0007)
-  F1:        0.1046 (Δ -0.0012)
+  Precision: 0.0570 (Δ -0.0007, -1.16%)
+  F1:        0.1046 (Δ -0.0012, -1.15%)
 
 Text-Based Metrics:
   MRR:       0.2846 (Δ -0.0011, -0.39%)
   Recall:    0.5600 (Δ +0.0067, +1.20%)
-  Precision: 0.0520 (Δ -0.0010)
-  F1:        0.0928 (Δ -0.0008)
+  Precision: 0.0520 (Δ -0.0010, -1.89%)
+  F1:        0.0928 (Δ -0.0008, -0.82%)
 
 --------------------------------------------------------------------------------
 Method: hyde / basic
@@ -166,14 +166,14 @@ Method: hyde / basic
 Page-Based Metrics:
   MRR:       0.3715 (Δ -0.0302, -7.51%)
   Recall:    0.7400 (Δ +0.0011, +0.15%)
-  Precision: 0.0520 (Δ -0.0057)
-  F1:        0.0960 (Δ -0.0098)
+  Precision: 0.0520 (Δ -0.0057, -9.83%)
+  F1:        0.0960 (Δ -0.0098, -9.25%)
 
 Text-Based Metrics:
   MRR:       0.2565 (Δ -0.0292, -10.23%)
   Recall:    0.5367 (Δ -0.0167, -3.01%)
-  Precision: 0.0460 (Δ -0.0070)
-  F1:        0.0827 (Δ -0.0109)
+  Precision: 0.0460 (Δ -0.0070, -13.21%)
+  F1:        0.0827 (Δ -0.0109, -11.64%)
 
 --------------------------------------------------------------------------------
 Method: query_refinement / keyword_focused
@@ -182,14 +182,14 @@ Method: query_refinement / keyword_focused
 Page-Based Metrics:
   MRR:       0.3689 (Δ -0.0327, -8.15%)
   Recall:    0.7422 (Δ +0.0033, +0.45%)
-  Precision: 0.0557 (Δ -0.0020)
-  F1:        0.1023 (Δ -0.0034)
+  Precision: 0.0557 (Δ -0.0020, -3.47%)
+  F1:        0.1023 (Δ -0.0034, -3.25%)
 
 Text-Based Metrics:
   MRR:       0.2685 (Δ -0.0173, -6.05%)
   Recall:    0.5533 (Δ +0.0000, +0.00%)
-  Precision: 0.0507 (Δ -0.0023)
-  F1:        0.0904 (Δ -0.0031)
+  Precision: 0.0507 (Δ -0.0023, -4.40%)
+  F1:        0.0904 (Δ -0.0031, -3.35%)
 
 --------------------------------------------------------------------------------
 Method: query_refinement / formal
@@ -198,14 +198,14 @@ Method: query_refinement / formal
 Page-Based Metrics:
   MRR:       0.3593 (Δ -0.0424, -10.55%)
   Recall:    0.7167 (Δ -0.0222, -3.01%)
-  Precision: 0.0533 (Δ -0.0043)
-  F1:        0.0981 (Δ -0.0077)
+  Precision: 0.0533 (Δ -0.0043, -7.51%)
+  F1:        0.0981 (Δ -0.0077, -7.26%)
 
 Text-Based Metrics:
   MRR:       0.2608 (Δ -0.0250, -8.75%)
   Recall:    0.5433 (Δ -0.0100, -1.81%)
-  Precision: 0.0513 (Δ -0.0017)
-  F1:        0.0911 (Δ -0.0025)
+  Precision: 0.0513 (Δ -0.0017, -3.14%)
+  F1:        0.0911 (Δ -0.0025, -2.68%)
 
 --------------------------------------------------------------------------------
 Method: domain_adaptation / accounting_perspective
@@ -214,14 +214,14 @@ Method: domain_adaptation / accounting_perspective
 Page-Based Metrics:
   MRR:       0.3567 (Δ -0.0450, -11.20%)
   Recall:    0.7322 (Δ -0.0067, -0.90%)
-  Precision: 0.0553 (Δ -0.0023)
-  F1:        0.1017 (Δ -0.0040)
+  Precision: 0.0553 (Δ -0.0023, -4.05%)
+  F1:        0.1017 (Δ -0.0040, -3.83%)
 
 Text-Based Metrics:
   MRR:       0.2561 (Δ -0.0297, -10.39%)
   Recall:    0.5400 (Δ -0.0133, -2.41%)
-  Precision: 0.0513 (Δ -0.0017)
-  F1:        0.0913 (Δ -0.0023)
+  Precision: 0.0513 (Δ -0.0017, -3.14%)
+  F1:        0.0913 (Δ -0.0023, -2.42%)
 
 ================================================================================
 RANKING BY PAGE MRR IMPROVEMENT
@@ -243,6 +243,44 @@ Rank | Method                                    | Page MRR | Δ MRR    | %
   12 | domain_adaptation/accounting_perspective   | 0.3567   | -0.0450   | -11.20%
 
 ================================================================================
+RANKING BY PAGE RECALL IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Page Recall | Δ Recall | %
+--------------------------------------------------------------------------------
+   1 | hyde/financial_terminology                 | 0.7822      | +0.0433     | +5.86%
+   2 | hyde/detailed                              | 0.7767      | +0.0378     | +5.11%
+   3 | query_refinement/clarification             | 0.7767      | +0.0378     | +5.11%
+   4 | chain_of_thought/step_by_step              | 0.7500      | +0.0111     | +1.50%
+   5 | domain_adaptation/10k_language             | 0.7500      | +0.0111     | +1.50%
+   6 | term_expansion/abbreviation_synonym        | 0.7489      | +0.0100     | +1.35%
+   7 | query_refinement/keyword_focused           | 0.7422      | +0.0033     | +0.45%
+   8 | hyde/basic                                 | 0.7400      | +0.0011     | +0.15%
+   9 | chain_of_thought/explicit_context          | 0.7378      | -0.0011     | -0.15%
+  10 | domain_adaptation/accounting_perspective   | 0.7322      | -0.0067     | -0.90%
+  11 | term_expansion/context_addition            | 0.7189      | -0.0200     | -2.71%
+  12 | query_refinement/formal                    | 0.7167      | -0.0222     | -3.01%
+
+================================================================================
+RANKING BY PAGE PRECISION IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Page Precision | Δ Precision | %
+--------------------------------------------------------------------------------
+   1 | query_refinement/clarification             | 0.0593         | +0.0017        | +2.89%
+   2 | hyde/detailed                              | 0.0583         | +0.0007        | +1.16%
+   3 | chain_of_thought/explicit_context          | 0.0577         | +0.0000        | +0.00%
+   4 | hyde/financial_terminology                 | 0.0570         | -0.0007        | -1.16%
+   5 | term_expansion/abbreviation_synonym        | 0.0570         | -0.0007        | -1.16%
+   6 | query_refinement/keyword_focused           | 0.0557         | -0.0020        | -3.47%
+   7 | term_expansion/context_addition            | 0.0553         | -0.0023        | -4.05%
+   8 | domain_adaptation/accounting_perspective   | 0.0553         | -0.0023        | -4.05%
+   9 | chain_of_thought/step_by_step              | 0.0547         | -0.0030        | -5.20%
+  10 | domain_adaptation/10k_language             | 0.0543         | -0.0033        | -5.78%
+  11 | query_refinement/formal                    | 0.0533         | -0.0043        | -7.51%
+  12 | hyde/basic                                 | 0.0520         | -0.0057        | -9.83%
+
+================================================================================
 RANKING BY TEXT MRR IMPROVEMENT
 ================================================================================
 
@@ -260,6 +298,44 @@ Rank | Method                                    | Text MRR | Δ MRR    | %
   10 | query_refinement/formal                    | 0.2608   | -0.0250   | -8.75%
   11 | hyde/basic                                 | 0.2565   | -0.0292   | -10.23%
   12 | domain_adaptation/accounting_perspective   | 0.2561   | -0.0297   | -10.39%
+
+================================================================================
+RANKING BY TEXT RECALL IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Text Recall | Δ Recall | %
+--------------------------------------------------------------------------------
+   1 | hyde/financial_terminology                 | 0.5867      | +0.0333     | +6.02%
+   2 | hyde/detailed                              | 0.5789      | +0.0256     | +4.62%
+   3 | query_refinement/clarification             | 0.5756      | +0.0222     | +4.02%
+   4 | chain_of_thought/explicit_context          | 0.5644      | +0.0111     | +2.01%
+   5 | term_expansion/context_addition            | 0.5633      | +0.0100     | +1.81%
+   6 | chain_of_thought/step_by_step              | 0.5633      | +0.0100     | +1.81%
+   7 | term_expansion/abbreviation_synonym        | 0.5600      | +0.0067     | +1.20%
+   8 | domain_adaptation/10k_language             | 0.5600      | +0.0067     | +1.20%
+   9 | query_refinement/keyword_focused           | 0.5533      | +0.0000     | +0.00%
+  10 | query_refinement/formal                    | 0.5433      | -0.0100     | -1.81%
+  11 | domain_adaptation/accounting_perspective   | 0.5400      | -0.0133     | -2.41%
+  12 | hyde/basic                                 | 0.5367      | -0.0167     | -3.01%
+
+================================================================================
+RANKING BY TEXT PRECISION IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Text Precision | Δ Precision | %
+--------------------------------------------------------------------------------
+   1 | chain_of_thought/explicit_context          | 0.0577         | +0.0047        | +8.81%
+   2 | query_refinement/clarification             | 0.0567         | +0.0037        | +6.92%
+   3 | domain_adaptation/10k_language             | 0.0537         | +0.0007        | +1.26%
+   4 | term_expansion/context_addition            | 0.0527         | -0.0003        | -0.63%
+   5 | term_expansion/abbreviation_synonym        | 0.0520         | -0.0010        | -1.89%
+   6 | hyde/detailed                              | 0.0517         | -0.0013        | -2.52%
+   7 | query_refinement/formal                    | 0.0513         | -0.0017        | -3.14%
+   8 | domain_adaptation/accounting_perspective   | 0.0513         | -0.0017        | -3.14%
+   9 | chain_of_thought/step_by_step              | 0.0510         | -0.0020        | -3.77%
+  10 | query_refinement/keyword_focused           | 0.0507         | -0.0023        | -4.40%
+  11 | hyde/financial_terminology                 | 0.0503         | -0.0027        | -5.03%
+  12 | hyde/basic                                 | 0.0460         | -0.0070        | -13.21%
 
 ================================================================================
 ANALYSIS BY EXPANSION CATEGORY
@@ -380,14 +456,14 @@ Method: hyde / financial_terminology
 Page-Based Metrics:
   MRR:       0.5140 (Δ +0.0450, +9.60%)
   Recall:    0.9022 (Δ +0.0867, +10.63%)
-  Precision: 0.0946 (Δ +0.0099)
-  F1:        0.1629 (Δ +0.0176)
+  Precision: 0.0946 (Δ +0.0099, +11.65%)
+  F1:        0.1629 (Δ +0.0176, +12.13%)
 
 Text-Based Metrics:
   MRR:       0.3638 (Δ +0.0446, +13.98%)
   Recall:    0.6767 (Δ +0.0533, +8.56%)
-  Precision: 0.0726 (Δ +0.0032)
-  F1:        0.1264 (Δ +0.0063)
+  Precision: 0.0726 (Δ +0.0032, +4.54%)
+  F1:        0.1264 (Δ +0.0063, +5.27%)
 
 --------------------------------------------------------------------------------
 Method: chain_of_thought / explicit_context
@@ -396,14 +472,14 @@ Method: chain_of_thought / explicit_context
 Page-Based Metrics:
   MRR:       0.4935 (Δ +0.0245, +5.22%)
   Recall:    0.8189 (Δ +0.0033, +0.41%)
-  Precision: 0.0823 (Δ -0.0024)
-  F1:        0.1412 (Δ -0.0041)
+  Precision: 0.0823 (Δ -0.0024, -2.86%)
+  F1:        0.1412 (Δ -0.0041, -2.83%)
 
 Text-Based Metrics:
   MRR:       0.3755 (Δ +0.0563, +17.64%)
   Recall:    0.6211 (Δ -0.0022, -0.36%)
-  Precision: 0.0722 (Δ +0.0028)
-  F1:        0.1245 (Δ +0.0044)
+  Precision: 0.0722 (Δ +0.0028, +4.00%)
+  F1:        0.1245 (Δ +0.0044, +3.67%)
 
 --------------------------------------------------------------------------------
 Method: query_refinement / clarification
@@ -412,14 +488,14 @@ Method: query_refinement / clarification
 Page-Based Metrics:
   MRR:       0.4923 (Δ +0.0233, +4.96%)
   Recall:    0.8467 (Δ +0.0311, +3.81%)
-  Precision: 0.0840 (Δ -0.0008)
-  F1:        0.1441 (Δ -0.0012)
+  Precision: 0.0840 (Δ -0.0008, -0.91%)
+  F1:        0.1441 (Δ -0.0012, -0.82%)
 
 Text-Based Metrics:
   MRR:       0.3713 (Δ +0.0521, +16.31%)
   Recall:    0.6278 (Δ +0.0044, +0.71%)
-  Precision: 0.0702 (Δ +0.0008)
-  F1:        0.1214 (Δ +0.0013)
+  Precision: 0.0702 (Δ +0.0008, +1.15%)
+  F1:        0.1214 (Δ +0.0013, +1.08%)
 
 --------------------------------------------------------------------------------
 Method: domain_adaptation / 10k_language
@@ -428,14 +504,14 @@ Method: domain_adaptation / 10k_language
 Page-Based Metrics:
   MRR:       0.4872 (Δ +0.0182, +3.87%)
   Recall:    0.8422 (Δ +0.0267, +3.27%)
-  Precision: 0.0914 (Δ +0.0067)
-  F1:        0.1522 (Δ +0.0070)
+  Precision: 0.0914 (Δ +0.0067, +7.93%)
+  F1:        0.1522 (Δ +0.0070, +4.79%)
 
 Text-Based Metrics:
   MRR:       0.3576 (Δ +0.0384, +12.03%)
   Recall:    0.6356 (Δ +0.0122, +1.96%)
-  Precision: 0.0756 (Δ +0.0062)
-  F1:        0.1287 (Δ +0.0086)
+  Precision: 0.0756 (Δ +0.0062, +8.87%)
+  F1:        0.1287 (Δ +0.0086, +7.18%)
 
 --------------------------------------------------------------------------------
 Method: chain_of_thought / step_by_step
@@ -444,14 +520,14 @@ Method: chain_of_thought / step_by_step
 Page-Based Metrics:
   MRR:       0.4821 (Δ +0.0131, +2.79%)
   Recall:    0.8533 (Δ +0.0378, +4.63%)
-  Precision: 0.0818 (Δ -0.0029)
-  F1:        0.1418 (Δ -0.0035)
+  Precision: 0.0818 (Δ -0.0029, -3.41%)
+  F1:        0.1418 (Δ -0.0035, -2.40%)
 
 Text-Based Metrics:
   MRR:       0.3470 (Δ +0.0278, +8.72%)
   Recall:    0.6422 (Δ +0.0189, +3.03%)
-  Precision: 0.0687 (Δ -0.0007)
-  F1:        0.1198 (Δ -0.0003)
+  Precision: 0.0687 (Δ -0.0007, -0.96%)
+  F1:        0.1198 (Δ -0.0003, -0.25%)
 
 --------------------------------------------------------------------------------
 Method: hyde / detailed
@@ -460,14 +536,14 @@ Method: hyde / detailed
 Page-Based Metrics:
   MRR:       0.4800 (Δ +0.0110, +2.34%)
   Recall:    0.8833 (Δ +0.0678, +8.31%)
-  Precision: 0.0891 (Δ +0.0044)
-  F1:        0.1536 (Δ +0.0083)
+  Precision: 0.0891 (Δ +0.0044, +5.19%)
+  F1:        0.1536 (Δ +0.0083, +5.71%)
 
 Text-Based Metrics:
   MRR:       0.3296 (Δ +0.0104, +3.25%)
   Recall:    0.6622 (Δ +0.0389, +6.24%)
-  Precision: 0.0716 (Δ +0.0022)
-  F1:        0.1240 (Δ +0.0040)
+  Precision: 0.0716 (Δ +0.0022, +3.16%)
+  F1:        0.1240 (Δ +0.0040, +3.29%)
 
 --------------------------------------------------------------------------------
 Method: term_expansion / context_addition
@@ -476,14 +552,14 @@ Method: term_expansion / context_addition
 Page-Based Metrics:
   MRR:       0.4623 (Δ -0.0067, -1.43%)
   Recall:    0.8333 (Δ +0.0178, +2.18%)
-  Precision: 0.0831 (Δ -0.0016)
-  F1:        0.1430 (Δ -0.0023)
+  Precision: 0.0831 (Δ -0.0016, -1.94%)
+  F1:        0.1430 (Δ -0.0023, -1.56%)
 
 Text-Based Metrics:
   MRR:       0.3212 (Δ +0.0020, +0.62%)
   Recall:    0.6267 (Δ +0.0033, +0.53%)
-  Precision: 0.0689 (Δ -0.0005)
-  F1:        0.1191 (Δ -0.0009)
+  Precision: 0.0689 (Δ -0.0005, -0.75%)
+  F1:        0.1191 (Δ -0.0009, -0.77%)
 
 --------------------------------------------------------------------------------
 Method: hyde / basic
@@ -492,14 +568,14 @@ Method: hyde / basic
 Page-Based Metrics:
   MRR:       0.4546 (Δ -0.0144, -3.07%)
   Recall:    0.8678 (Δ +0.0522, +6.40%)
-  Precision: 0.0873 (Δ +0.0025)
-  F1:        0.1505 (Δ +0.0052)
+  Precision: 0.0873 (Δ +0.0025, +2.98%)
+  F1:        0.1505 (Δ +0.0052, +3.59%)
 
 Text-Based Metrics:
   MRR:       0.3136 (Δ -0.0056, -1.74%)
   Recall:    0.6456 (Δ +0.0222, +3.57%)
-  Precision: 0.0668 (Δ -0.0026)
-  F1:        0.1172 (Δ -0.0028)
+  Precision: 0.0668 (Δ -0.0026, -3.79%)
+  F1:        0.1172 (Δ -0.0028, -2.36%)
 
 --------------------------------------------------------------------------------
 Method: query_refinement / keyword_focused
@@ -508,14 +584,14 @@ Method: query_refinement / keyword_focused
 Page-Based Metrics:
   MRR:       0.4507 (Δ -0.0184, -3.91%)
   Recall:    0.8267 (Δ +0.0111, +1.36%)
-  Precision: 0.0816 (Δ -0.0032)
-  F1:        0.1401 (Δ -0.0052)
+  Precision: 0.0816 (Δ -0.0032, -3.73%)
+  F1:        0.1401 (Δ -0.0052, -3.57%)
 
 Text-Based Metrics:
   MRR:       0.3262 (Δ +0.0070, +2.18%)
   Recall:    0.6033 (Δ -0.0200, -3.21%)
-  Precision: 0.0648 (Δ -0.0046)
-  F1:        0.1133 (Δ -0.0068)
+  Precision: 0.0648 (Δ -0.0046, -6.68%)
+  F1:        0.1133 (Δ -0.0068, -5.68%)
 
 --------------------------------------------------------------------------------
 Method: term_expansion / abbreviation_synonym
@@ -524,14 +600,14 @@ Method: term_expansion / abbreviation_synonym
 Page-Based Metrics:
   MRR:       0.4449 (Δ -0.0241, -5.14%)
   Recall:    0.8622 (Δ +0.0467, +5.72%)
-  Precision: 0.0855 (Δ +0.0007)
-  F1:        0.1472 (Δ +0.0019)
+  Precision: 0.0855 (Δ +0.0007, +0.86%)
+  F1:        0.1472 (Δ +0.0019, +1.34%)
 
 Text-Based Metrics:
   MRR:       0.3201 (Δ +0.0009, +0.29%)
   Recall:    0.6433 (Δ +0.0200, +3.21%)
-  Precision: 0.0678 (Δ -0.0016)
-  F1:        0.1185 (Δ -0.0016)
+  Precision: 0.0678 (Δ -0.0016, -2.24%)
+  F1:        0.1185 (Δ -0.0016, -1.31%)
 
 --------------------------------------------------------------------------------
 Method: query_refinement / formal
@@ -540,14 +616,14 @@ Method: query_refinement / formal
 Page-Based Metrics:
   MRR:       0.4282 (Δ -0.0409, -8.71%)
   Recall:    0.8222 (Δ +0.0067, +0.82%)
-  Precision: 0.0801 (Δ -0.0047)
-  F1:        0.1380 (Δ -0.0073)
+  Precision: 0.0801 (Δ -0.0047, -5.49%)
+  F1:        0.1380 (Δ -0.0073, -5.02%)
 
 Text-Based Metrics:
   MRR:       0.3010 (Δ -0.0182, -5.69%)
   Recall:    0.6100 (Δ -0.0133, -2.14%)
-  Precision: 0.0655 (Δ -0.0039)
-  F1:        0.1139 (Δ -0.0061)
+  Precision: 0.0655 (Δ -0.0039, -5.60%)
+  F1:        0.1139 (Δ -0.0061, -5.12%)
 
 --------------------------------------------------------------------------------
 Method: domain_adaptation / accounting_perspective
@@ -556,14 +632,14 @@ Method: domain_adaptation / accounting_perspective
 Page-Based Metrics:
   MRR:       0.4276 (Δ -0.0415, -8.84%)
   Recall:    0.8378 (Δ +0.0222, +2.72%)
-  Precision: 0.0828 (Δ -0.0020)
-  F1:        0.1433 (Δ -0.0019)
+  Precision: 0.0828 (Δ -0.0020, -2.31%)
+  F1:        0.1433 (Δ -0.0019, -1.34%)
 
 Text-Based Metrics:
   MRR:       0.2990 (Δ -0.0202, -6.32%)
   Recall:    0.6200 (Δ -0.0033, -0.53%)
-  Precision: 0.0678 (Δ -0.0016)
-  F1:        0.1186 (Δ -0.0015)
+  Precision: 0.0678 (Δ -0.0016, -2.29%)
+  F1:        0.1186 (Δ -0.0015, -1.22%)
 
 ================================================================================
 RANKING BY PAGE MRR IMPROVEMENT
@@ -585,6 +661,44 @@ Rank | Method                                    | Page MRR | Δ MRR    | %
   12 | domain_adaptation/accounting_perspective   | 0.4276   | -0.0415   | -8.84%
 
 ================================================================================
+RANKING BY PAGE RECALL IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Page Recall | Δ Recall | %
+--------------------------------------------------------------------------------
+   1 | hyde/financial_terminology                 | 0.9022      | +0.0867     | +10.63%
+   2 | hyde/detailed                              | 0.8833      | +0.0678     | +8.31%
+   3 | hyde/basic                                 | 0.8678      | +0.0522     | +6.40%
+   4 | term_expansion/abbreviation_synonym        | 0.8622      | +0.0467     | +5.72%
+   5 | chain_of_thought/step_by_step              | 0.8533      | +0.0378     | +4.63%
+   6 | query_refinement/clarification             | 0.8467      | +0.0311     | +3.81%
+   7 | domain_adaptation/10k_language             | 0.8422      | +0.0267     | +3.27%
+   8 | domain_adaptation/accounting_perspective   | 0.8378      | +0.0222     | +2.72%
+   9 | term_expansion/context_addition            | 0.8333      | +0.0178     | +2.18%
+  10 | query_refinement/keyword_focused           | 0.8267      | +0.0111     | +1.36%
+  11 | query_refinement/formal                    | 0.8222      | +0.0067     | +0.82%
+  12 | chain_of_thought/explicit_context          | 0.8189      | +0.0033     | +0.41%
+
+================================================================================
+RANKING BY PAGE PRECISION IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Page Precision | Δ Precision | %
+--------------------------------------------------------------------------------
+   1 | hyde/financial_terminology                 | 0.0946         | +0.0099        | +11.65%
+   2 | domain_adaptation/10k_language             | 0.0914         | +0.0067        | +7.93%
+   3 | hyde/detailed                              | 0.0891         | +0.0044        | +5.19%
+   4 | hyde/basic                                 | 0.0873         | +0.0025        | +2.98%
+   5 | term_expansion/abbreviation_synonym        | 0.0855         | +0.0007        | +0.86%
+   6 | query_refinement/clarification             | 0.0840         | -0.0008        | -0.91%
+   7 | term_expansion/context_addition            | 0.0831         | -0.0016        | -1.94%
+   8 | domain_adaptation/accounting_perspective   | 0.0828         | -0.0020        | -2.31%
+   9 | chain_of_thought/explicit_context          | 0.0823         | -0.0024        | -2.86%
+  10 | chain_of_thought/step_by_step              | 0.0818         | -0.0029        | -3.41%
+  11 | query_refinement/keyword_focused           | 0.0816         | -0.0032        | -3.73%
+  12 | query_refinement/formal                    | 0.0801         | -0.0047        | -5.49%
+
+================================================================================
 RANKING BY TEXT MRR IMPROVEMENT
 ================================================================================
 
@@ -602,6 +716,44 @@ Rank | Method                                    | Text MRR | Δ MRR    | %
   10 | hyde/basic                                 | 0.3136   | -0.0056   | -1.74%
   11 | query_refinement/formal                    | 0.3010   | -0.0182   | -5.69%
   12 | domain_adaptation/accounting_perspective   | 0.2990   | -0.0202   | -6.32%
+
+================================================================================
+RANKING BY TEXT RECALL IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Text Recall | Δ Recall | %
+--------------------------------------------------------------------------------
+   1 | hyde/financial_terminology                 | 0.6767      | +0.0533     | +8.56%
+   2 | hyde/detailed                              | 0.6622      | +0.0389     | +6.24%
+   3 | hyde/basic                                 | 0.6456      | +0.0222     | +3.57%
+   4 | term_expansion/abbreviation_synonym        | 0.6433      | +0.0200     | +3.21%
+   5 | chain_of_thought/step_by_step              | 0.6422      | +0.0189     | +3.03%
+   6 | domain_adaptation/10k_language             | 0.6356      | +0.0122     | +1.96%
+   7 | query_refinement/clarification             | 0.6278      | +0.0044     | +0.71%
+   8 | term_expansion/context_addition            | 0.6267      | +0.0033     | +0.53%
+   9 | chain_of_thought/explicit_context          | 0.6211      | -0.0022     | -0.36%
+  10 | domain_adaptation/accounting_perspective   | 0.6200      | -0.0033     | -0.53%
+  11 | query_refinement/formal                    | 0.6100      | -0.0133     | -2.14%
+  12 | query_refinement/keyword_focused           | 0.6033      | -0.0200     | -3.21%
+
+================================================================================
+RANKING BY TEXT PRECISION IMPROVEMENT
+================================================================================
+
+Rank | Method                                    | Text Precision | Δ Precision | %
+--------------------------------------------------------------------------------
+   1 | domain_adaptation/10k_language             | 0.0756         | +0.0062        | +8.87%
+   2 | hyde/financial_terminology                 | 0.0726         | +0.0032        | +4.54%
+   3 | chain_of_thought/explicit_context          | 0.0722         | +0.0028        | +4.00%
+   4 | hyde/detailed                              | 0.0716         | +0.0022        | +3.16%
+   5 | query_refinement/clarification             | 0.0702         | +0.0008        | +1.15%
+   6 | term_expansion/context_addition            | 0.0689         | -0.0005        | -0.75%
+   7 | chain_of_thought/step_by_step              | 0.0687         | -0.0007        | -0.96%
+   8 | term_expansion/abbreviation_synonym        | 0.0678         | -0.0016        | -2.24%
+   9 | domain_adaptation/accounting_perspective   | 0.0678         | -0.0016        | -2.29%
+  10 | hyde/basic                                 | 0.0668         | -0.0026        | -3.79%
+  11 | query_refinement/formal                    | 0.0655         | -0.0039        | -5.60%
+  12 | query_refinement/keyword_focused           | 0.0648         | -0.0046        | -6.68%
 
 ================================================================================
 ANALYSIS BY EXPANSION CATEGORY
