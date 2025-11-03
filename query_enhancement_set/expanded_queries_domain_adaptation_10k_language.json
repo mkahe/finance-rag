@@ -1,0 +1,914 @@
+{
+  "metadata": {
+    "expansion_type": "domain_adaptation",
+    "expansion_sub_type": "10k_language",
+    "llm_provider": "openai",
+    "llm_model": "gpt-4o-mini",
+    "template": "Rewrite the following question using the exact language patterns, structure, and terminology typically found in SEC financial disclosures including 10-K annual reports, 10-Q quarterly reports, 8-K current reports, and earnings call transcripts.\n\nOriginal Question: {query}\n\nSEC Filing Style Question:",
+    "temperature": 0.4,
+    "creation_date": "2025-11-03T01:50:53.149008",
+    "total_queries": 150
+  },
+  "queries": [
+    {
+      "financebench_id": "financebench_id_03029",
+      "original_query": "What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2018, please provide the total capital expenditures incurred by 3M Company, expressed in millions of U.S. dollars. This inquiry seeks to elicit information as delineated within the cash flow statement included in the Company’s financial disclosures.",
+      "doc_name": "3M_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04672",
+      "original_query": "Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.",
+      "expanded_query": "In accordance with the financial reporting requirements as delineated by the Securities and Exchange Commission (SEC), please provide an analysis pertaining to the net property, plant, and equipment (PP&E) for 3M Company as of the fiscal year ended December 31, 2018. Specifically, we request that you utilize the balance sheet data presented in the company's Form 10-K for the relevant fiscal year to ascertain the year-end net PP&E figure, expressed in U.S. dollars, in billions.",
+      "doc_name": "3M_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00499",
+      "original_query": "Is 3M a capital-intensive business based on FY2022 data?",
+      "expanded_query": "Based on the financial data and operational metrics disclosed for the fiscal year ended December 31, 2022, can it be determined whether 3M Company operates as a capital-intensive enterprise within its respective industry?",
+      "doc_name": "3M_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01226",
+      "original_query": "What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In reference to the operating margin fluctuations observed for 3M Company during the fiscal year ended December 31, 2022, please provide a detailed analysis of the primary factors contributing to such changes. Furthermore, should the operating margin not be deemed a relevant performance metric for the company, kindly articulate the rationale behind this assessment, including any alternative metrics that may provide more meaningful insights into the company's operational efficiency and financial performance.",
+      "doc_name": "3M_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01865",
+      "original_query": "If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?",
+      "expanded_query": "In the context of evaluating the Company’s financial performance for the fiscal year ended December 31, 2022, and excluding the effects of mergers and acquisitions, which specific business segment has contributed to a decline in the overall growth trajectory of 3M Company during the reporting period?",
+      "doc_name": "3M_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00807",
+      "original_query": "Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+      "expanded_query": "In accordance with the provisions of Regulation S-K and relevant accounting standards, please provide an assessment of 3M's liquidity position as of the second quarter of fiscal year 2023, specifically in relation to the company's quick ratio. Should the quick ratio be deemed an inadequate or inappropriate metric for evaluating liquidity, kindly articulate the rationale for such determination and identify alternative liquidity measures that may be more relevant in this context.",
+      "doc_name": "3M_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_00941",
+      "original_query": "Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?",
+      "expanded_query": "As of the conclusion of the second quarter of fiscal year 2023, which specific debt securities have been duly registered for trading on a national securities exchange under the name of 3M Company?",
+      "doc_name": "3M_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_01858",
+      "original_query": "Does 3M maintain a stable trend of dividend distribution?",
+      "expanded_query": "In light of the Company's historical performance and current financial position, does 3M exhibit a consistent pattern of dividend distributions to shareholders, as evidenced by its dividend payout ratio and historical dividend growth rates?",
+      "doc_name": "3M_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_02987",
+      "original_query": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2019, please provide the fixed asset turnover ratio for Activision Blizzard, Inc. The fixed asset turnover ratio is to be calculated as the ratio of total revenue for the fiscal year 2019 to the average property, plant, and equipment (PP&E) balance as reported in the consolidated financial statements for the fiscal years ended December 31, 2018, and December 31, 2019. For the purposes of this inquiry, please round the resulting ratio to two decimal places. This calculation should be based primarily on the information disclosed in the consolidated statement of income and the consolidated balance sheet as presented in the Company’s Form 10-K for the fiscal year ended December 31, 2019.",
+      "doc_name": "ACTIVISIONBLIZZARD_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_07966",
+      "original_query": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+      "expanded_query": "In accordance with the requirements set forth by the Securities and Exchange Commission, please provide the three-year average capital expenditures as a percentage of revenue for Activision Blizzard for the fiscal years 2017 through 2019. The response should be expressed in percentage terms, rounded to one decimal place. This calculation should be derived from the relevant data contained within the consolidated statement of income and the consolidated statement of cash flows.",
+      "doc_name": "ACTIVISIONBLIZZARD_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04735",
+      "original_query": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+      "expanded_query": "In connection with the evaluation of Adobe Inc.'s financial performance for the fiscal year ended December 31, 2015, and utilizing solely the information presented in the consolidated statement of financial position and the consolidated statement of cash flows, please provide the operating cash flow ratio for the aforementioned fiscal year. The operating cash flow ratio is defined as the ratio of cash provided by operating activities to total current liabilities. Kindly present the calculated ratio rounded to two decimal places.",
+      "doc_name": "ADOBE_2015_10K"
+    },
+    {
+      "financebench_id": "financebench_id_07507",
+      "original_query": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+      "expanded_query": "In accordance with the requirements for financial reporting and analysis, please provide the year-over-year percentage change in unadjusted operating income for Adobe Inc. from the fiscal year ended November 30, 2015, to the fiscal year ended November 30, 2016. This calculation should be derived from the consolidated income statement and presented in percentage terms, rounded to one decimal place.",
+      "doc_name": "ADOBE_2016_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03856",
+      "original_query": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+      "expanded_query": "In reference to the fiscal year ended November 30, 2017, please provide the operating cash flow ratio for Adobe Inc. The operating cash flow ratio is defined as the quotient of cash flows from operating activities divided by total current liabilities, as reported in the consolidated balance sheet and the consolidated statement of cash flows. Kindly present your response rounded to two decimal places.",
+      "doc_name": "ADOBE_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00438",
+      "original_query": "Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+      "expanded_query": "In reference to the fiscal year 2022, does Adobe Inc. exhibit a trend of improvement in its operating margin profile? Furthermore, should the operating margin metric be deemed not applicable or less relevant for the assessment of Adobe's financial performance, please provide a rationale for such determination, including any pertinent factors that may influence the utility of this metric in evaluating the company's operational efficiency and profitability.",
+      "doc_name": "ADOBE_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00591",
+      "original_query": "Does Adobe have an improving Free cashflow conversion as of FY2022?",
+      "expanded_query": "In reference to the fiscal year 2022, can the Company provide an analysis regarding the trend in Free Cash Flow conversion, specifically addressing whether there has been a positive trajectory in this metric during the reporting period?",
+      "doc_name": "ADOBE_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01319",
+      "original_query": "What is the quantity of restructuring costs directly outlined in AES Corporation's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+      "expanded_query": "In reference to the financial performance of AES Corporation for the fiscal year ended December 31, 2022, please disclose the amount of restructuring costs as presented in the consolidated statements of income. In the event that such restructuring costs are not explicitly detailed within the financial statements, please indicate a value of zero (0).",
+      "doc_name": "AES_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00540",
+      "original_query": "Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide an analysis of the inventory turnover ratio for AES Corporation. Specifically, quantify the frequency of inventory sales during this reporting period. Should the conventional inventory management metrics be deemed not applicable to the company’s operational framework, kindly elaborate on the rationale for such a determination, including any relevant contextual factors that may influence inventory management practices within the organization.",
+      "doc_name": "AES_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_10420",
+      "original_query": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+      "expanded_query": "In accordance with the information presented in the consolidated balance sheet and the consolidated statement of operations, please calculate AES Corporation's return on assets (ROA) for the fiscal year ended December 31, 2022. For the purposes of this calculation, ROA is defined as the ratio of net income for the fiscal year 2022 to the average total assets for the fiscal years 2021 and 2022. Kindly round your computed result to two decimal places.",
+      "doc_name": "AES_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_06655",
+      "original_query": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2017, please provide the calculation of Amazon.com, Inc.'s Days Payable Outstanding (DPO). For the purpose of this calculation, DPO is defined as follows: 365 multiplied by the average accounts payable for the fiscal years ended December 31, 2016, and December 31, 2017, divided by the sum of the Cost of Goods Sold (COGS) for the fiscal year ended December 31, 2017, and the change in inventory between the fiscal years ended December 31, 2016, and December 31, 2017. Kindly present the final result rounded to two decimal places, utilizing the relevant line items and information disclosed in the consolidated balance sheet and the consolidated statement of operations.",
+      "doc_name": "AMAZON_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_08135",
+      "original_query": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+      "expanded_query": "In accordance with the requirements for financial reporting and analysis, please provide the year-over-year percentage change in Amazon.com, Inc.'s revenue for the fiscal year ended December 31, 2017, compared to the fiscal year ended December 31, 2016. This calculation should be derived from the relevant line items presented in the consolidated statement of income, and the resulting percentage should be rounded to one decimal place for clarity and precision in reporting.",
+      "doc_name": "AMAZON_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_08286",
+      "original_query": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+      "expanded_query": "In accordance with the financial reporting standards and the guidelines set forth by the Securities and Exchange Commission (SEC), and based solely on the data presented within the consolidated statements of operations for the fiscal year ended December 31, 2019, what is the net income attributable to Amazon.com, Inc. shareholders, expressed in millions of U.S. dollars?",
+      "doc_name": "AMAZON_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03882",
+      "original_query": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+      "expanded_query": "In reference to the financial statements presented in the most recent Form 10-K for the fiscal year ended December 31, 2020, please provide the amount of net accounts receivable (AR) reported by Amcor plc, expressed in millions of United States dollars (USD). This inquiry is to be addressed exclusively through the analysis of the balance sheet data contained within the aforementioned filing, without consideration of any external financial metrics or supplementary disclosures.",
+      "doc_name": "AMCOR_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01935",
+      "original_query": "What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?",
+      "expanded_query": "In reference to the 8-K Current Report filed by Amcor plc on July 1, 2022, please provide a detailed summary of the principal matters addressed within the filing, including any significant developments, operational updates, or strategic initiatives disclosed therein.",
+      "doc_name": "AMCOR_2022_8K_dated-2022-07-01"
+    },
+    {
+      "financebench_id": "financebench_id_00799",
+      "original_query": "Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.",
+      "expanded_query": "In accordance with the requirements for financial analysis and reporting, has the quick ratio for Amcor plc exhibited an upward or downward trend during the fiscal year ended June 30, 2023, in comparison to the fiscal year ended June 30, 2022? Furthermore, should the quick ratio not be deemed a relevant metric for evaluation by financial analysts within the context of Amcor's operational and financial profile, please provide a rationale for its limited applicability in assessing the company’s liquidity position.",
+      "doc_name": "AMCOR_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01079",
+      "original_query": "What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?",
+      "expanded_query": "In accordance with Item 2.01 of Form 8-K and relevant disclosures under Regulation S-K, please provide a comprehensive overview of significant acquisitions undertaken by Amcor plc during the fiscal years ended June 30, 2023, June 30, 2022, and June 30, 2021, including, but not limited to, the nature of the acquired entities, the strategic rationale for each acquisition, and the financial impact on the Company’s consolidated results of operations.",
+      "doc_name": "AMCOR_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01148",
+      "original_query": "What industry does AMCOR primarily operate in?",
+      "expanded_query": "In reference to the business operations of Amcor plc, please provide a detailed description of the primary industry sectors in which the company is engaged, including any relevant segments and market dynamics that may impact its operational performance.",
+      "doc_name": "AMCOR_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00684",
+      "original_query": "Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ending December 31, 2023, can the registrant, AMCOR, provide an assessment of its gross margin profile, including any trends indicative of improvement? Furthermore, if gross margin is deemed not to be a relevant or effective financial metric for evaluating the company’s operational performance, please elucidate the rationale behind this determination and discuss alternative metrics that may be more applicable in this context.",
+      "doc_name": "AMCOR_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01936",
+      "original_query": "What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?",
+      "expanded_query": "What is the nature and purpose of AMCOR's restructuring liability as of the close of the second quarter of fiscal year 2023, and how does this liability impact the Company's financial position and results of operations?",
+      "doc_name": "AMCOR_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_01928",
+      "original_query": "What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023",
+      "expanded_query": "What is the Adjusted Non-GAAP EBITDA reported by AMCOR for the fiscal year ended December 31, 2023, as disclosed in the Company’s financial statements and accompanying notes?",
+      "doc_name": "AMCOR_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01930",
+      "original_query": "How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?",
+      "expanded_query": "In reference to the financial performance of Amcor for the fiscal year ended June 30, 2023, please provide an analysis of the Real change in Sales compared to the fiscal year ended June 30, 2022, while excluding the effects of foreign exchange fluctuations, passthrough costs, and any non-recurring items.",
+      "doc_name": "AMCOR_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_03069",
+      "original_query": "Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?",
+      "expanded_query": "In accordance with the guidelines established by the Securities and Exchange Commission (SEC) for the preparation and presentation of financial statements, please provide an analysis of the fiscal year 2015 depreciation and amortization (D&A) percentage margin as derived from the consolidated statement of operations and the statement of cash flows for Advanced Micro Devices, Inc. (AMD). This inquiry is predicated on the assumption that the respondent is operating without access to external financial metric providers due to a loss of internet connectivity.",
+      "doc_name": "AMD_2015_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00222",
+      "original_query": "Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+      "expanded_query": "In consideration of Advanced Micro Devices, Inc.'s liquidity profile for the fiscal year ended December 31, 2022, can the Company affirm that its quick ratio reflects a reasonably healthy liquidity position? In the event that the quick ratio is deemed not to be a relevant metric for assessing liquidity, we request a disclosure elucidating the rationale behind such determination.",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00995",
+      "original_query": "What are the major products and services that AMD sells as of FY22?",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide a comprehensive overview of the principal products and services offered by Advanced Micro Devices, Inc. (AMD), including any relevant details pertaining to their respective market segments and contributions to the Company’s overall revenue streams.",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01198",
+      "original_query": "What drove revenue change as of the FY22 for AMD?",
+      "expanded_query": "What factors contributed to the fluctuations in revenue for Advanced Micro Devices, Inc. (\"AMD\") for the fiscal year ended December 31, 2022, as reported in the consolidated financial statements and accompanying notes?",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00917",
+      "original_query": "What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide a detailed analysis of the factors influencing the change in operating margin for Advanced Micro Devices, Inc. (\"AMD\"). Should operating margin be deemed an inadequate or non-representative metric for evaluating AMD's financial performance, we request a comprehensive explanation of the rationale behind this assessment, including any alternative metrics that may provide a more accurate reflection of the company's operational efficiency and profitability.",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01279",
+      "original_query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?",
+      "expanded_query": "In reference to the cash flow statement for Advanced Micro Devices, Inc. (\"AMD\") for the fiscal year ended December 31, 2022, please delineate the comparative contributions of operating, investing, and financing activities to the net cash flow, specifically identifying which segment generated the highest inflow or incurred the least outflow of cash during the reporting period.",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00563",
+      "original_query": "From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?",
+      "expanded_query": "In the context of fiscal year 2021 compared to fiscal year 2022, and excluding the Embedded segment, which reporting segment of Advanced Micro Devices, Inc. (AMD) experienced the most significant proportional increase in sales?",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00757",
+      "original_query": "Did AMD report customer concentration in FY22?",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, did Advanced Micro Devices, Inc. disclose any information pertaining to customer concentration in its financial statements or accompanying notes as required under Item 1A of Form 10-K?",
+      "doc_name": "AMD_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00476",
+      "original_query": "Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?",
+      "expanded_query": "As of December 31, 2022, please identify the specific debt securities that are registered for trading on a national securities exchange under the name of American Express Company, including any relevant details pertaining to their classification, maturity, and interest rates, as disclosed in accordance with applicable regulations and reporting standards.",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01028",
+      "original_query": "What are the geographies that American Express primarily operates in as of 2022?",
+      "expanded_query": "As of the fiscal year ended December 31, 2022, in which geographic regions does American Express Company primarily conduct its business operations?",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00723",
+      "original_query": "Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+      "expanded_query": "In reference to the operating performance metrics of American Express Company (\"AMEX\") for the fiscal year ended December 31, 2022, please provide an assessment of the company's operating margin profile, including any trends indicating improvement or deterioration. Furthermore, if the operating margin is deemed not to be a relevant or meaningful indicator of AMEX's financial performance due to the nature of its business model or other factors, kindly elaborate on the rationale for such a conclusion, including any alternative metrics that may be more indicative of the company's operational efficiency and profitability.",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00720",
+      "original_query": "What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide a detailed analysis of the factors that contributed to the fluctuation in gross margin for American Express Company. In the event that gross margin is deemed an inadequate or non-representative metric for assessing the financial performance of the Company, kindly articulate the rationale behind this assessment and elucidate on alternative metrics that may be more applicable for evaluating the Company’s operational efficiency and profitability.",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01351",
+      "original_query": "How much has the effective tax rate of American Express changed between FY2021 and FY2022?",
+      "expanded_query": "In accordance with the requirements set forth by the Securities and Exchange Commission, please provide a detailed analysis of the fluctuations in the effective tax rate for American Express Company for the fiscal year ended December 31, 2022, as compared to the fiscal year ended December 31, 2021.",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01964",
+      "original_query": "What was the largest liability in American Express's Balance Sheet in 2022?",
+      "expanded_query": "In reference to the financial statements of American Express Company for the fiscal year ended December 31, 2022, please identify the most significant liability as reported on the Balance Sheet, as well as any relevant contextual information regarding its nature and implications for the Company’s financial position.",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01981",
+      "original_query": "Was American Express able to retain card members during 2022?",
+      "expanded_query": "In the context of evaluating the Company’s operational performance and customer retention metrics for the fiscal year ended December 31, 2022, can management provide insights regarding American Express's ability to retain card members during the reporting period?",
+      "doc_name": "AMERICANEXPRESS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_05718",
+      "original_query": "How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2020, please disclose the total cash dividends distributed by American Water Works Company, Inc. (the \"Company\") as reflected in the statement of cash flows, expressed in billions of U.S. dollars. This inquiry seeks to ascertain the specific amount allocated for cash dividends during the aforementioned fiscal period.",
+      "doc_name": "AMERICANWATERWORKS_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04254",
+      "original_query": "Basing your judgments off of the cash flow statement and the income statement, what is American Water Works's FY2021 unadjusted operating income + depreciation and amortization from the cash flow statement (unadjusted EBITDA) in USD millions?",
+      "expanded_query": "In accordance with the analysis of the consolidated cash flow statement and the consolidated income statement for the fiscal year ended December 31, 2021, please provide the unadjusted operating income, inclusive of depreciation and amortization, as derived from the cash flow statement, specifically referred to as unadjusted EBITDA, expressed in millions of United States dollars (USD).",
+      "doc_name": "AMERICANWATERWORKS_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00070",
+      "original_query": "Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide an assessment of American Water Works Company's working capital position. Specifically, does the Company exhibit positive working capital as of the close of FY2022? In the event that working capital is deemed an inapplicable or non-material metric for evaluating the financial health of the Company, kindly articulate the rationale for such determination and provide any relevant context to support this conclusion.",
+      "doc_name": "AMERICANWATERWORKS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_02608",
+      "original_query": "In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.",
+      "expanded_query": "In accordance with the financial data presented in the consolidated statements of operations, please provide the three-year average net profit margin, expressed as a percentage, for Best Buy Co., Inc. for the fiscal years 2015 through 2017. Responses should be articulated in percentage terms and rounded to one decimal place, consistent with the reporting standards outlined in our financial disclosures.",
+      "doc_name": "BESTBUY_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04417",
+      "original_query": "What is the year end FY2019 total amount of inventories for Best Buy? Answer in USD millions. Base your judgments on the information provided primarily in the balance sheet.",
+      "expanded_query": "In reference to the fiscal year ending December 31, 2019, please disclose the total amount of inventories reported by Best Buy Co., Inc., as reflected in the balance sheet, expressed in millions of U.S. dollars.",
+      "doc_name": "BESTBUY_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00685",
+      "original_query": "Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In accordance with our ongoing commitment to transparency and clarity in financial reporting, we seek to ascertain whether Best Buy Co., Inc.'s gross margins have demonstrated historical consistency, specifically whether such margins have exhibited fluctuations not exceeding two percentage points on an annual basis. Should gross margins not be deemed a pertinent financial metric for the assessment of the Company's operational performance, we request a detailed explanation of the rationale underlying this determination, including any alternative metrics that may be more indicative of the Company's financial health and operational efficiency.",
+      "doc_name": "BESTBUY_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01077",
+      "original_query": "What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?",
+      "expanded_query": "In reference to the fiscal years 2023, 2022, and 2021, please provide a comprehensive overview of significant acquisitions undertaken by Best Buy Co., Inc., including the strategic rationale for such transactions and their anticipated impact on the Company’s financial performance and operational capabilities.",
+      "doc_name": "BESTBUY_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01275",
+      "original_query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?",
+      "expanded_query": "In reference to the cash flow statement for the fiscal year ended January 28, 2023, please delineate the contributions of operating, investing, and financing activities to the overall cash flow position of Best Buy Co., Inc. Specifically, which of these categories generated the highest inflow of cash or incurred the least outflow during the reporting period?",
+      "doc_name": "BESTBUY_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00288",
+      "original_query": "Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?",
+      "expanded_query": "In reference to the financial performance metrics reported, can management provide an analysis regarding any fluctuations observed in the Cash and Cash Equivalents line item between the conclusion of Fiscal Year 2023 and the second quarter of Fiscal Year 2024?",
+      "doc_name": "BESTBUY_2024Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_00460",
+      "original_query": "Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?",
+      "expanded_query": "In reference to the comparative analysis of the number of retail locations operated by Best Buy Co., Inc. (\"the Company\") for the second quarter of fiscal year 2024 versus the second quarter of fiscal year 2023, can the Company provide details regarding any material changes in the total store count during this period?",
+      "doc_name": "BESTBUY_2024Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_01902",
+      "original_query": "Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?",
+      "expanded_query": "In reference to the financial performance metrics for the second quarter of the fiscal year 2024, please identify the product category within Best Buy's domestic market operations that exhibited the highest revenue generation, as measured by top-line sales figures, during the specified reporting period.",
+      "doc_name": "BESTBUY_2024Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_04660",
+      "original_query": "Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+      "expanded_query": "In reference to the consolidated balance sheet data for Block, Inc. (formerly known as Square, Inc.) as of the fiscal year ended December 31, 2016, please provide the calculation of the working capital ratio. For the purposes of this inquiry, the working capital ratio is defined as the quotient of total current assets divided by total current liabilities. Kindly round the resultant figure to two decimal places for clarity in financial analysis.",
+      "doc_name": "BLOCK_2016_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03838",
+      "original_query": "What is the FY2019 - FY2020 total revenue growth rate for Block (formerly known as Square)? Answer in units of percents and round to one decimal place. Approach the question asked by assuming the standpoint of an investment banking analyst who only has access to the statement of income.",
+      "expanded_query": "In reference to the fiscal years 2019 and 2020, please provide the total revenue growth rate for Block, Inc. (formerly known as Square, Inc.), as delineated in the consolidated statement of income. The requested growth rate should be expressed in percentage terms and rounded to one decimal place. This inquiry is made from the perspective of an investment banking analyst with access solely to the aforementioned financial statement.",
+      "doc_name": "BLOCK_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_07661",
+      "original_query": "Using the cash flow statement, answer the following question to the best of your abilities: how much did Block (formerly known as Square) generate in cash flow from operating activities in FY2020? Answer in USD millions.",
+      "expanded_query": "In reference to the consolidated statement of cash flows, please provide an analysis regarding the cash flow generated from operating activities by Block, Inc. (formerly known as Square, Inc.) for the fiscal year ended December 31, 2020. Kindly express the amount in millions of U.S. dollars (USD).",
+      "doc_name": "BLOCK_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_10285",
+      "original_query": "We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?",
+      "expanded_query": "In accordance with the requirements set forth by the Securities and Exchange Commission (SEC) and in alignment with the financial reporting standards applicable to public companies, we seek to ascertain a specific financial metric derived exclusively from the information presented in the balance sheet. Accordingly, we request the disclosure of Boeing Company's net property, plant, and equipment as of the fiscal year ended December 31, 2018, expressed in millions of United States dollars (USD).",
+      "doc_name": "BOEING_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00517",
+      "original_query": "Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?",
+      "expanded_query": "In accordance with the requirements set forth by the Securities and Exchange Commission, we seek to ascertain whether any individual product or service categories accounted for in excess of 20% of Boeing's total revenue for the fiscal year ended December 31, 2022, as disclosed in the Company's financial statements and accompanying notes.",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01091",
+      "original_query": "Has Boeing reported any materially important ongoing legal battles from FY2022?",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, has The Boeing Company disclosed any material ongoing legal proceedings that could potentially impact its financial condition or operating results, as required under Item 103 of Regulation S-K?",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00678",
+      "original_query": "Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+      "expanded_query": "In accordance with the financial performance metrics typically disclosed in the Company’s annual and quarterly reports, does The Boeing Company exhibit a favorable trend in its gross margin profile as of the fiscal year ended December 31, 2022? Should gross margin not serve as a pertinent indicator of financial health for an enterprise of this nature, please elucidate the rationale behind such a determination.",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01290",
+      "original_query": "Who are the primary customers of Boeing as of FY2022?",
+      "expanded_query": "As of the fiscal year ended December 31, 2022, please identify the principal customer segments of The Boeing Company, including any material changes in customer composition and the implications for revenue generation and market strategy.",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00464",
+      "original_query": "Is Boeing's business subject to cyclicality?",
+      "expanded_query": "To what extent does Boeing's business model exhibit susceptibility to cyclical fluctuations in demand, as influenced by macroeconomic conditions and industry-specific trends?",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00494",
+      "original_query": "What production rate changes is Boeing forecasting for FY2023?",
+      "expanded_query": "In reference to the fiscal year 2023, could the Company provide an update on its anticipated production rate adjustments, including any material changes to previously disclosed forecasts?",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00585",
+      "original_query": "How does Boeing's effective tax rate in FY2022 compare to FY2021?",
+      "expanded_query": "In reference to Boeing's financial performance, please provide a comparative analysis of the Company's effective tax rate for the fiscal year ended December 31, 2022, in relation to the effective tax rate for the fiscal year ended December 31, 2021, including any relevant factors that may have influenced such rates.",
+      "doc_name": "BOEING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03473",
+      "original_query": "What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.",
+      "expanded_query": "In accordance with the financial reporting standards and methodologies utilized in our annual disclosures, please provide the fiscal year 2017 return on assets (ROA) for The Coca-Cola Company. For the purposes of this calculation, ROA shall be defined as the quotient of fiscal year 2017 net income divided by the average total assets as reported in the balance sheet for the fiscal years ending December 31, 2016, and December 31, 2017. Please ensure that the resulting ROA is expressed to two decimal places. The response should be derived from the relevant figures presented in the consolidated balance sheet and the consolidated statement of income for the respective fiscal periods.",
+      "doc_name": "COCACOLA_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_09724",
+      "original_query": "What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.",
+      "expanded_query": "In reference to the financial performance of The Coca-Cola Company for the fiscal year ended December 31, 2021, please provide the percentage of Cost of Goods Sold (COGS) as a proportion of total revenue, as delineated in the consolidated income statement. This calculation should be derived from the respective line items reported therein.",
+      "doc_name": "COCACOLA_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_06272",
+      "original_query": "What is Coca Cola's FY2022 dividend payout ratio (using total cash dividends paid and net income attributable to shareholders)? Round answer to two decimal places. Answer the question asked by assuming you only have access to information clearly displayed in the cash flow statement and the income statement.",
+      "expanded_query": "In reference to the fiscal year ending December 31, 2022, please provide the dividend payout ratio for The Coca-Cola Company, calculated by utilizing total cash dividends paid to shareholders in conjunction with net income attributable to shareholders. The resultant ratio should be expressed to two decimal places. For the purpose of this inquiry, it is assumed that the analysis is to be conducted exclusively with data readily available in the cash flow statement and the income statement as presented in the Company’s financial disclosures.",
+      "doc_name": "COCACOLA_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_10130",
+      "original_query": "Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.",
+      "expanded_query": "In accordance with the financial reporting standards and methodologies typically employed in the preparation of our consolidated financial statements, specifically as delineated in our balance sheet and statement of income for the fiscal year ended December 31, 2020, please provide the calculation of the Days Payable Outstanding (DPO) for Corning Incorporated for FY2020. For clarity, DPO is defined as follows: 365 multiplied by the average accounts payable for the fiscal years ended December 31, 2019, and December 31, 2020, divided by the sum of the Cost of Goods Sold (COGS) for FY2020 and the change in inventory between the fiscal years ended December 31, 2019, and December 31, 2020. Please ensure that the final result is rounded to two decimal places for reporting purposes.",
+      "doc_name": "CORNING_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_02981",
+      "original_query": "Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.",
+      "expanded_query": "In consideration of the financial data presented in the income statement, please provide the three-year average unadjusted operating income percentage margin for Corning Incorporated for the fiscal years ending December 31, 2019, through December 31, 2021. Responses should be expressed in percentage terms and rounded to one decimal place.",
+      "doc_name": "CORNING_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01346",
+      "original_query": "How much has the effective tax rate of Corning changed between FY2021 and FY2022?",
+      "expanded_query": "In accordance with the reporting requirements set forth by the Securities and Exchange Commission, please provide a detailed analysis of the changes in the effective tax rate for Corning Incorporated for the fiscal years ended December 31, 2021, and December 31, 2022, including any relevant factors that may have contributed to such changes.",
+      "doc_name": "CORNING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00005",
+      "original_query": "Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide an analysis of Corning Incorporated's working capital position. Specifically, does the Company exhibit a positive working capital balance as of the close of FY2022? In the event that working capital is deemed an inadequate or non-relevant financial metric for the evaluation of Corning's operational liquidity and financial health, kindly elaborate on the rationale for such determination and discuss any alternative metrics that may provide a more accurate representation of the Company's financial condition.",
+      "doc_name": "CORNING_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04209",
+      "original_query": "Using only the information within the balance sheet, how much total assets did Costco have at the end of FY2021? Answer in USD millions.",
+      "expanded_query": "In reference to the consolidated balance sheet as of the fiscal year ended August 29, 2021, please quantify the total assets reported by Costco Wholesale Corporation, expressed in millions of U.S. dollars.",
+      "doc_name": "COSTCO_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_05915",
+      "original_query": "What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.",
+      "expanded_query": "In reference to the fiscal year 2018, please provide the fixed asset turnover ratio for CVS Health, as defined herein as the quotient of total revenue for FY2018 divided by the average property, plant, and equipment (PP&E) for the period encompassing fiscal years 2017 and 2018. For the purposes of this calculation, please ensure that the figures utilized are derived from the relevant line items disclosed in the consolidated statements of operations and the consolidated balance sheets. The resultant ratio should be expressed to two decimal places.",
+      "doc_name": "CVSHEALTH_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00790",
+      "original_query": "Is CVS Health a capital-intensive business based on FY2022 data?",
+      "expanded_query": "Based on the financial data for the fiscal year ended December 31, 2022, would you characterize CVS Health as operating within a capital-intensive business model, considering the relevant capital expenditures, asset utilization metrics, and overall investment strategies as disclosed in the consolidated financial statements and accompanying notes?",
+      "doc_name": "CVSHEALTH_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01107",
+      "original_query": "Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?",
+      "expanded_query": "In reference to the periods ending December 31, 2022, December 31, 2021, and December 31, 2020, has CVS Health disclosed any material ongoing legal proceedings that could potentially impact its financial condition or results of operations, as required under Item 103 of Regulation S-K?",
+      "doc_name": "CVSHEALTH_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01244",
+      "original_query": "Has CVS Health paid dividends to common shareholders in Q2 of FY2022?",
+      "expanded_query": "In reference to the fiscal second quarter of the year 2022, can the Company confirm whether CVS Health Corporation has declared and paid dividends to holders of its common stock?",
+      "doc_name": "CVSHEALTH_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00839",
+      "original_query": "Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?",
+      "expanded_query": "In connection with the leadership transition at Foot Locker, Inc., we seek to ascertain whether the individual appointed as Chief Executive Officer possesses prior experience serving as a Chief Executive Officer in a company operating within a comparable industry or market segment to that of Foot Locker, Inc.",
+      "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19"
+    },
+    {
+      "financebench_id": "financebench_id_00822",
+      "original_query": "Were there any board member nominees who had substantially more votes against joining than the other nominees?",
+      "expanded_query": "In connection with the recent election of directors, did any nominees for the board of directors receive a significantly higher number of votes cast against their election compared to the other nominees presented for consideration?",
+      "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20"
+    },
+    {
+      "financebench_id": "financebench_id_04103",
+      "original_query": "What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.",
+      "expanded_query": "In accordance with the financial metrics utilized in assessing operational efficiency, please provide the cash conversion cycle (CCC) for General Mills for the fiscal year ended 2019. For clarity, the CCC is calculated using the following formula: CCC = Days Inventory Outstanding (DIO) + Days Sales Outstanding (DSO) - Days Payable Outstanding (DPO). \n\nIn this context, DIO is determined as follows: DIO = 365 * (Average Inventory for the fiscal years 2018 and 2019) / (Cost of Goods Sold (COGS) for the fiscal year 2019). Furthermore, DSO is calculated as: DSO = 365 * (Average Accounts Receivable for the fiscal years 2018 and 2019) / (Total Revenue for the fiscal year 2019). Lastly, DPO is defined as: DPO = 365 * (Average Accounts Payable for the fiscal years 2018 and 2019) / (COGS for the fiscal year 2019 plus the change in inventory between the fiscal years 2018 and 2019). \n\nPlease ensure that all calculations are rounded to two decimal places and are supported by the relevant line items and information as disclosed in the income statement and balance sheet for the respective fiscal periods.",
+      "doc_name": "GENERALMILLS_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03471",
+      "original_query": "By drawing conclusions from the information stated only in the statement of financial position, what is General Mills's FY2020 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+      "expanded_query": "In accordance with the information presented in the statement of financial position for the fiscal year ended May 31, 2020, please calculate the working capital ratio for General Mills, Inc. The working capital ratio is defined as the quotient of total current assets divided by total current liabilities. Kindly present your calculated ratio rounded to two decimal places.",
+      "doc_name": "GENERALMILLS_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04854",
+      "original_query": "According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.",
+      "expanded_query": "In reference to the consolidated statement of cash flows presented in the fiscal year 2020 financial statements of General Mills, Inc., please disclose the amount of free cash flow (FCF) for the fiscal year 2020. For the purposes of this inquiry, FCF is defined as the excess of cash provided by operating activities over capital expenditures (capex). Please provide the response in millions of U.S. dollars (USD).",
+      "doc_name": "GENERALMILLS_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_10136",
+      "original_query": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.",
+      "expanded_query": "In accordance with the requirements for financial analysis and reporting, we seek to ascertain a specific financial metric pertinent to General Mills, Inc. (the \"Company\"). We request assistance in the computation of the retention ratio for the fiscal year ended May 29, 2022 (FY2022). This calculation should be derived from the information presented in the Company's consolidated cash flow statement and consolidated income statement. Specifically, we inquire about the retention ratio, defined as the proportion of net income attributable to shareholders that is retained within the Company, utilizing total cash dividends paid and net income attributable to shareholders as the relevant inputs. We kindly request that the resultant ratio be rounded to two decimal places for clarity and precision in reporting.",
+      "doc_name": "GENERALMILLS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00956",
+      "original_query": "Are JnJ's FY2022 financials that of a high growth company?",
+      "expanded_query": "In evaluating the financial performance of Johnson & Johnson for the fiscal year ended December 31, 2022, to what extent do the reported financial metrics and growth indicators align with the characteristics typically associated with a high-growth company, as defined by industry standards and benchmarks?",
+      "doc_name": "JOHNSON_JOHNSON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00669",
+      "original_query": "What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In connection with the financial performance of Johnson & Johnson for the fiscal year ended December 31, 2022, please provide a detailed analysis of the factors contributing to the fluctuations observed in gross margin. Furthermore, should gross margin be deemed an inadequate or non-representative metric for assessing the financial health of the Company, we request a comprehensive explanation delineating the rationale for such a conclusion.",
+      "doc_name": "JOHNSON_JOHNSON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00711",
+      "original_query": "Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide an analysis of Johnson & Johnson's inventory turnover ratio, including the total number of times inventory was sold during the reporting period. Should conventional inventory management metrics be deemed not applicable to the company's operational model, kindly elucidate the rationale behind this determination and any relevant factors that contribute to such a conclusion.",
+      "doc_name": "JOHNSON_JOHNSON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00651",
+      "original_query": "Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?",
+      "expanded_query": "In light of the Company's ongoing strategic initiatives and market conditions, can management provide insights regarding the anticipated trajectory of adjusted earnings per share (EPS) growth for Johnson & Johnson for the fiscal year 2023, particularly in terms of whether such growth is expected to experience an acceleration compared to prior periods?",
+      "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01484",
+      "original_query": "How did JnJ's US sales growth compare to international sales growth in FY2022?",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide a comparative analysis of the growth in domestic sales of Johnson & Johnson as juxtaposed with the growth in international sales during the same reporting period.",
+      "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01488",
+      "original_query": "Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?",
+      "expanded_query": "In accordance with the provisions set forth in ASC 205-20, please identify the specific business segment of Johnson & Johnson that will be classified as a discontinued operation effective August 30, 2023, and provide a detailed explanation of the implications of this classification on the Company's financial statements and operational performance moving forward.",
+      "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30"
+    },
+    {
+      "financebench_id": "financebench_id_01490",
+      "original_query": "What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?",
+      "expanded_query": "As of August 30, 2023, what is the quantified financial impact, specifically the gain recognized by Johnson & Johnson, resulting from the strategic separation of its Consumer Health business segment, as disclosed in accordance with applicable accounting standards and regulatory requirements?",
+      "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30"
+    },
+    {
+      "financebench_id": "financebench_id_01491",
+      "original_query": "What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?",
+      "expanded_query": "In reference to the separation of Kenvue, previously classified under the Consumer Health business segment, please disclose the total cash proceeds realized by Johnson & Johnson as of August 30, 2023, in accordance with the relevant accounting standards and regulatory guidelines.",
+      "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30"
+    },
+    {
+      "financebench_id": "financebench_id_01487",
+      "original_query": "Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?",
+      "expanded_query": "In the context of the financial performance of Johnson & Johnson, did the net earnings attributable to the Company, expressed as a percentage of total net sales, exhibit an increase during the second quarter of the fiscal year 2023 as compared to the second quarter of the fiscal year 2022?",
+      "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00299",
+      "original_query": "Which of JPM's business segments had the lowest net revenue in 2021 Q1?",
+      "expanded_query": "In reference to the financial performance of JPMorgan Chase & Co. for the first quarter of the fiscal year 2021, please identify the specific business segment that reported the lowest net revenue during this period, as delineated in the consolidated financial statements and accompanying notes.",
+      "doc_name": "JPMORGAN_2021Q1_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_02119",
+      "original_query": "If JPM went bankrupted by the end by 2021 Q1 and liquidated all of its assets to pay its shareholders, how much could each shareholder get?",
+      "expanded_query": "In the event that JPMorgan Chase & Co. (the \"Company\") were to undergo a bankruptcy proceeding resulting in the liquidation of all its assets as of the conclusion of the first quarter of fiscal year 2021, what would be the estimated distribution per share to the Company's shareholders following the satisfaction of all outstanding liabilities and obligations?",
+      "doc_name": "JPMORGAN_2021Q1_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_00206",
+      "original_query": "Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+      "expanded_query": "In connection with the evaluation of JPMorgan Chase & Co.'s (the \"Company\") financial performance, could the Company provide an analysis of its historical gross margin trends, specifically addressing whether such margins have exhibited consistency, defined as fluctuations not exceeding approximately 2% on an annual basis? Furthermore, if gross margins are deemed not to be a pertinent metric for assessing the Company's financial health and operational efficiency, we request a detailed explanation of the rationale behind this assessment, including any alternative metrics that may be more relevant for stakeholders' consideration.",
+      "doc_name": "JPMORGAN_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00394",
+      "original_query": "In 2022 Q2, which of JPM's business segments had the highest net income?",
+      "expanded_query": "In the second quarter of fiscal year 2022, which of JPMorgan Chase & Co.'s business segments reported the highest net income as delineated in the consolidated financial statements?",
+      "doc_name": "JPMORGAN_2022Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_02049",
+      "original_query": "Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?",
+      "expanded_query": "In reference to the Value at Risk (VaR) metrics, can management provide an analysis of the comparative risk exposure experienced by JPMorgan Chase & Co. during the second fiscal quarter of 2023, as juxtaposed with the corresponding period in the prior fiscal year?",
+      "doc_name": "JPMORGAN_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_10499",
+      "original_query": "What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.",
+      "expanded_query": "In accordance with the financial reporting standards and methodologies typically employed in the preparation of SEC filings, specifically referencing the fiscal year ended December 31, 2019, please provide the inventory turnover ratio for Kraft Heinz Company. For the purposes of this calculation, the inventory turnover ratio shall be defined as the ratio of Cost of Goods Sold (COGS) for the fiscal year 2019 to the average inventory balance as reported in the balance sheet for the fiscal years ended December 31, 2018, and December 31, 2019. Kindly round the resultant figure to two decimal places. This inquiry is predicated upon the financial data disclosed in the relevant balance sheet and income statement.",
+      "doc_name": "KRAFTHEINZ_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04412",
+      "original_query": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.",
+      "expanded_query": "In accordance with the relevant financial reporting standards and guidance, we seek to derive a reasonable approximation of the asset turnover ratio for Lockheed Martin Corporation for the fiscal year ended December 31, 2020. The asset turnover ratio is defined as the quotient of total revenue for FY2020 divided by the average total assets for the period spanning from the fiscal year ended December 31, 2019, to the fiscal year ended December 31, 2020. For the purposes of this calculation, please utilize the financial information as presented in the consolidated balance sheet and the consolidated statement of operations. Kindly round the resultant asset turnover ratio to two decimal places for clarity and precision in reporting.",
+      "doc_name": "LOCKHEEDMARTIN_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03031",
+      "original_query": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+      "expanded_query": "In accordance with the financial reporting standards and definitions typically employed in SEC filings, please provide the net working capital for Lockheed Martin Corporation for the fiscal year ended December 31, 2021. For the purposes of this inquiry, net working capital shall be defined as the difference between total current assets and total current liabilities as reported on the balance sheet. Responses should be articulated in millions of U.S. dollars, and the analysis should be conducted from the perspective of an investment analyst, utilizing only the information presented within the balance sheet.",
+      "doc_name": "LOCKHEEDMARTIN_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03718",
+      "original_query": "What is Lockheed Martin's 2 year total revenue CAGR from FY2020 to FY2022 (in units of percents and round to one decimal place)? Provide a response to the question by primarily using the statement of income.",
+      "expanded_query": "In accordance with the requirements for financial reporting and analysis, please provide the Compound Annual Growth Rate (CAGR) of Lockheed Martin's total revenue for the two-year period from Fiscal Year 2020 to Fiscal Year 2022, expressed in percentage terms and rounded to one decimal place. Kindly derive this calculation primarily from the statement of income as presented in the relevant financial statements.",
+      "doc_name": "LOCKHEEDMARTIN_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04171",
+      "original_query": "Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.",
+      "expanded_query": "In reference to the financial statements presented within the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018, please provide the total amount of accounts payable as reported on the balance sheet. The response should be articulated in millions of U.S. dollars (USD).",
+      "doc_name": "MGMRESORTS_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03849",
+      "original_query": "What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.",
+      "expanded_query": "In accordance with the requirements set forth in Regulation S-K, please provide the three-year average capital expenditures (capex) as a percentage of revenue for MGM Resorts International for the fiscal years ended December 31, 2018, December 31, 2019, and December 31, 2020. This calculation should be derived primarily from the consolidated statements of cash flows and the consolidated statements of income, and the resulting percentage should be expressed in units of percent, rounded to one decimal place.",
+      "doc_name": "MGMRESORTS_2020_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01254",
+      "original_query": "Has MGM Resorts paid dividends to common shareholders in FY2022?",
+      "expanded_query": "In reference to the fiscal year 2022, can the Company confirm whether dividends were declared and paid to holders of common stock?",
+      "doc_name": "MGMRESORTS_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00382",
+      "original_query": "Which region had the Highest EBITDAR Contribution for MGM during FY2022?",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, which geographical segment reported the highest Earnings Before Interest, Taxes, Depreciation, Amortization, and Rent (EBITDAR) contribution for MGM Resorts International?",
+      "doc_name": "MGMRESORTS_2022Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01911",
+      "original_query": "What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?",
+      "expanded_query": "In reference to MGM Resorts International's financial performance for the fiscal year ended December 31, 2022, please provide the calculation of the interest coverage ratio, utilizing Adjusted Earnings Before Interest and Taxes (EBIT) for the fiscal year 2022 as the numerator and the total annual interest expense as the denominator.",
+      "doc_name": "MGMRESORTS_2022Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01912",
+      "original_query": "Which region had the worst topline performance for MGM during FY2022?",
+      "expanded_query": "In reference to the financial performance metrics disclosed in the fiscal year 2022, which geographic region reported the lowest revenue generation for MGM Resorts International?",
+      "doc_name": "MGMRESORTS_2022Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00407",
+      "original_query": "Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?",
+      "expanded_query": "In reference to the short-term investment portfolio of MGM Resorts International for the six-month period ended June 30, 2023, which category of debt instruments experienced the highest level of capital allocation?",
+      "doc_name": "MGMRESORTS_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_04700",
+      "original_query": "What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.",
+      "expanded_query": "In reference to the fiscal year ended June 30, 2016, please disclose the Cost of Goods Sold (COGS) for Microsoft Corporation, expressed in millions of United States dollars. Kindly provide the response based on the information presented in the Statement of Income within the respective financial statements.",
+      "doc_name": "MICROSOFT_2016_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00552",
+      "original_query": "Has Microsoft increased its debt on balance sheet between FY2023 and the FY2022 period?",
+      "expanded_query": "In reference to the fiscal years ended June 30, 2023, and June 30, 2022, please provide an analysis of any changes in the total debt reported on the balance sheet of Microsoft Corporation, including a comparison of the outstanding debt instruments and any associated liabilities during the specified periods.",
+      "doc_name": "MICROSOFT_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04458",
+      "original_query": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).",
+      "expanded_query": "In accordance with the guidelines established by the Securities and Exchange Commission (SEC) for financial disclosures, we seek to ascertain a specific financial metric pertinent to our analysis. We request your assistance in the computation of this metric, utilizing the information derived from the consolidated statements of income and cash flows. Specifically, we inquire regarding the calculation of the unadjusted EBITDA percentage margin for the fiscal year ended December 31, 2015, for Netflix, Inc. Please compute the unadjusted EBITDA by referencing the unadjusted operating income and the depreciation and amortization (D&A) figures as reported in the statement of cash flows.",
+      "doc_name": "NETFLIX_2015_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03282",
+      "original_query": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+      "expanded_query": "In accordance with the financial reporting requirements delineated by the Securities and Exchange Commission, please provide the total current liabilities of Netflix, Inc. as of the fiscal year ended December 31, 2017, expressed in millions of U.S. dollars. This inquiry is to be addressed based on the relevant data presented in the company’s balance sheet for the aforementioned fiscal period.",
+      "doc_name": "NETFLIX_2017_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04302",
+      "original_query": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.",
+      "expanded_query": "In accordance with the requirements for financial reporting and analysis, we seek to ascertain a reasonable approximation of a specific financial metric. Utilizing the data presented within the consolidated statements of income, please provide the three-year average of Nike, Inc.'s cost of goods sold as a percentage of revenue for the fiscal years ended May 31, 2016, May 31, 2017, and May 31, 2018. The response should be expressed in percentage terms and rounded to one decimal place, consistent with standard reporting practices.",
+      "doc_name": "NIKE_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03531",
+      "original_query": "According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.",
+      "expanded_query": "In reference to the financial statements presented in the Company’s Annual Report on Form 10-K for the fiscal year ended May 31, 2019, please provide the total amount of current assets reported by Nike, Inc. as of the close of the fiscal year 2019, expressed in millions of U.S. dollars.",
+      "doc_name": "NIKE_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04080",
+      "original_query": "When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.",
+      "expanded_query": "In connection with the analysis of the consolidated statements of operations and the consolidated balance sheets, please provide the inventory turnover ratio for the fiscal year ended May 31, 2021, for Nike, Inc. The inventory turnover ratio shall be calculated in accordance with the following formula: (Cost of Goods Sold for the fiscal year 2021) divided by (the average inventory balance for the fiscal years ended May 31, 2020, and May 31, 2021). Kindly present the result rounded to two decimal places.",
+      "doc_name": "NIKE_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01163",
+      "original_query": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?",
+      "expanded_query": "In accordance with the requirements set forth by the Securities and Exchange Commission, please provide a detailed analysis of the cash flow generated or utilized by Nike, Inc. during the fiscal year 2023, specifically delineating the contributions from operating activities, investing activities, and financing activities. Additionally, please identify which category yielded the highest net cash inflow or incurred the least cash outflow for the period in question.",
+      "doc_name": "NIKE_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00080",
+      "original_query": "Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide an assessment of PayPal Holdings, Inc.'s working capital position. Specifically, does the company exhibit a positive working capital balance as of the close of FY2022? In the event that working capital is deemed not to be a pertinent or meaningful financial metric for the evaluation of the company’s liquidity and operational efficiency, kindly articulate the rationale for such determination, including any relevant contextual factors that may influence this assessment.",
+      "doc_name": "PAYPAL_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04980",
+      "original_query": "What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.",
+      "expanded_query": "In reference to the consolidated statement of cash flows for the fiscal year ended December 31, 2021, please provide the total capital expenditures incurred by PepsiCo, Inc. (the \"Company\"), expressed in United States dollars (USD) billions. This inquiry is to be addressed from the vantage point of an investment analyst, utilizing exclusively the information presented within the aforementioned statement of cash flows.",
+      "doc_name": "PEPSICO_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01009",
+      "original_query": "What are the geographies that Pepsico primarily operates in as of FY2022?",
+      "expanded_query": "In reference to fiscal year 2022, please provide a detailed enumeration of the geographic regions in which PepsiCo, Inc. conducts its principal business operations, including but not limited to, any material markets and segments that contribute to the Company’s revenue streams.",
+      "doc_name": "PEPSICO_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00735",
+      "original_query": "Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?",
+      "expanded_query": "In reference to the fiscal years ended December 31, 2022, and December 31, 2021, has PepsiCo, Inc. disclosed any ongoing legal proceedings that could be deemed material to its financial condition or results of operations, as per the requirements outlined in Item 103 of Regulation S-K?",
+      "doc_name": "PEPSICO_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01328",
+      "original_query": "What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+      "expanded_query": "In reference to the financial statements of PepsiCo, Inc. for the fiscal year ended December 31, 2022, please disclose the total amount of restructuring costs reported in the consolidated income statements. In the event that such restructuring costs are not explicitly enumerated within the financial disclosures, please indicate a value of zero (0).",
+      "doc_name": "PEPSICO_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_03620",
+      "original_query": "What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide the unadjusted EBITDA, calculated as unadjusted operating income plus depreciation and amortization, as derived from the consolidated statement of cash flows and the consolidated income statement of PepsiCo, Inc. Furthermore, please deduct capital expenditures from this figure to arrive at the net amount. The response should be articulated in millions of United States dollars (USD). This inquiry is positioned from the standpoint of an investment analyst, utilizing only the information presented within the aforementioned financial statements.",
+      "doc_name": "PEPSICO_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04481",
+      "original_query": "What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.",
+      "expanded_query": "In reference to the fiscal year ended December 31, 2022, please provide the unadjusted EBITDA percentage margin for PepsiCo, Inc. (\"PepsiCo\"). For the purpose of this calculation, unadjusted EBITDA shall be derived from the unadjusted operating income as reported in the consolidated statements of operations, augmented by depreciation and amortization expenses as delineated in the consolidated statements of cash flows. A detailed response should incorporate relevant figures from both the statement of cash flows and the consolidated statement of operations to substantiate the calculation of unadjusted EBITDA and the resultant margin percentage.",
+      "doc_name": "PEPSICO_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_01482",
+      "original_query": "At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?",
+      "expanded_query": "In reference to the Annual General Meeting of Shareholders (AGM) of PepsiCo, Inc. (the \"Company\") convened on May 3, 2023, please provide a detailed account of the results pertaining to the shareholder vote regarding the proposal submitted for the Company to prepare and present a congruency report on its net-zero emissions policies.",
+      "doc_name": "PEPSICO_2023_8K_dated-2023-05-05"
+    },
+    {
+      "financebench_id": "financebench_id_00705",
+      "original_query": "By how much did Pepsico increase its unsecured five year revolving credit agreement on May 26, 2023?",
+      "expanded_query": "In reference to the amendment of its unsecured five-year revolving credit agreement executed on May 26, 2023, please disclose the specific amount by which PepsiCo, Inc. increased the total borrowing capacity under said agreement.",
+      "doc_name": "PEPSICO_2023_8K_dated-2023-05-30"
+    },
+    {
+      "financebench_id": "financebench_id_00882",
+      "original_query": "As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?",
+      "expanded_query": "As of May 26, 2023, what is the aggregate borrowing capacity available to PepsiCo, Inc. under its unsecured revolving credit facilities, as disclosed in the Company's most recent financial statements and related notes?",
+      "doc_name": "PEPSICO_2023_8K_dated-2023-05-30"
+    },
+    {
+      "financebench_id": "financebench_id_01474",
+      "original_query": "As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?",
+      "expanded_query": "As of the first quarter of fiscal year 2023, what were the primary factors contributing to the upward revision of the full-year financial guidance for fiscal year 2023 by PepsiCo, Inc.?",
+      "doc_name": "PEPSICO_2023Q1_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_01476",
+      "original_query": "As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?",
+      "expanded_query": "As of the end of the first quarter of fiscal year 2023, what is the incremental percentage point increase in the Company’s full-year guidance pertaining to core constant currency earnings per share (EPS) growth, as compared to prior guidance?",
+      "doc_name": "PEPSICO_2023Q1_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00302",
+      "original_query": "Did Pfizer grow its PPNE between FY20 and FY21?",
+      "expanded_query": "In the context of the Company’s financial performance, did Pfizer, Inc. experience an increase in its Property, Plant, and Equipment (PP&E) during the fiscal year ended December 31, 2021, as compared to the fiscal year ended December 31, 2020?",
+      "doc_name": "PFIZER_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00702",
+      "original_query": "Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?",
+      "expanded_query": "In connection with the financial performance reported for the fiscal year ended December 31, 2019, please disclose any material events or transactions outside the ordinary course of Pfizer's business operations that may have significantly contributed to an increase in net income for that reporting period.",
+      "doc_name": "PFIZER_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_02416",
+      "original_query": "What are three main companies acquired by Pfizer mentioned in this 10K report?",
+      "expanded_query": "In reference to the disclosures contained within this Form 10-K report, could you please delineate the three principal entities that have been acquired by Pfizer, as specifically identified in the aforementioned document?",
+      "doc_name": "PFIZER_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00283",
+      "original_query": "How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?",
+      "expanded_query": "In connection with the anticipated spinoff of the Upjohn business segment, what is the estimated financial obligation that Pfizer Inc. expects to incur, expressed in millions of U.S. dollars, in relation to the execution of this transaction?",
+      "doc_name": "Pfizer_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_00724",
+      "original_query": "For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?",
+      "expanded_query": "In reference to Pfizer Inc.'s financial performance for the second quarter of the fiscal year 2023, please identify the geographic region that experienced the most significant decline in year-over-year revenues, expressed as a percentage of total revenues, as compared to the corresponding period in the prior fiscal year.",
+      "doc_name": "Pfizer_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_02419",
+      "original_query": "As of Q2'2023, is Pfizer spinning off any large business segments?",
+      "expanded_query": "As of the second quarter of fiscal year 2023, is Pfizer Inc. actively pursuing a strategic divestiture or spin-off of any significant business segments, and if so, what are the anticipated impacts on the company’s financial position and operational performance?",
+      "doc_name": "Pfizer_2023Q2_10Q"
+    },
+    {
+      "financebench_id": "financebench_id_00746",
+      "original_query": "Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?",
+      "expanded_query": "As of the fiscal year ending December 31, 2023, please provide a comprehensive list of debt securities that are registered for trading on a national securities exchange under the name of Ulta Beauty, Inc., including any relevant details pertaining to their classification, maturity dates, and associated interest rates.",
+      "doc_name": "ULTABEAUTY_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00521",
+      "original_query": "What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?",
+      "expanded_query": "In reference to the fiscal years ended January 28, 2023, and January 29, 2022, please provide a comprehensive overview of significant acquisitions undertaken by Ulta Beauty, Inc., including the strategic rationale and financial implications associated with such transactions.",
+      "doc_name": "ULTABEAUTY_2023_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00601",
+      "original_query": "What drove the reduction in SG&A expense as a percent of net sales in FY2023?",
+      "expanded_query": "What were the primary factors contributing to the decrease in Selling, General and Administrative (SG&A) expenses as a percentage of net sales for the fiscal year ended December 31, 2023?",
+      "doc_name": "ULTABEAUTY_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00603",
+      "original_query": "What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?",
+      "expanded_query": "What factors contributed to the increase in the merchandise inventories balance for Ulta Beauty, Inc. as reported at the conclusion of the fiscal year 2023?",
+      "doc_name": "ULTABEAUTY_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00605",
+      "original_query": "What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?",
+      "expanded_query": "In reference to Ulta Beauty's total expenditures on stock repurchases for the fiscal year ended January 28, 2023, please disclose the percentage of such expenditures that were allocated to the fourth quarter of fiscal year 2023.",
+      "doc_name": "ULTABEAUTY_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00606",
+      "original_query": "Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?",
+      "expanded_query": "In reference to the fiscal year ending December 31, 2023, please provide an analysis of whether Ulta Beauty's wages expense, expressed as a percentage of net sales, experienced an increase or decrease relative to the prior fiscal year.",
+      "doc_name": "ULTABEAUTY_2023Q4_EARNINGS"
+    },
+    {
+      "financebench_id": "financebench_id_00859",
+      "original_query": "Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?",
+      "expanded_query": "In connection with the Company’s risk management strategies pertaining to foreign currency exchange rate fluctuations and interest rate volatility, please identify the derivative instrument utilized by Verizon Communications Inc. that exhibited the highest notional value during the fiscal year ended December 31, 2021.",
+      "doc_name": "VERIZON_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_02024",
+      "original_query": "As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?",
+      "expanded_query": "In reference to the fiscal year ending December 31, 2021, what is the projected obligation of Verizon Communications Inc. for retiree benefits for the fiscal year ending December 31, 2024, as disclosed in the company's financial statements and related notes?",
+      "doc_name": "VERIZON_2021_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00216",
+      "original_query": "Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+      "expanded_query": "In light of the financial metrics presented in the Company’s annual report for the fiscal year ending December 31, 2022, can the registrant confirm whether its liquidity profile, as assessed by the quick ratio, reflects a reasonably healthy standing? Should the quick ratio be deemed an inappropriate or insufficient measure for evaluating the Company’s liquidity position, we request a detailed explanation of the rationale supporting such a determination.",
+      "doc_name": "VERIZON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00215",
+      "original_query": "Is Verizon a capital intensive business based on FY 2022 data?",
+      "expanded_query": "Based on the financial data and operational metrics reported for the fiscal year ended December 31, 2022, can it be determined whether Verizon Communications Inc. operates as a capital-intensive business?",
+      "doc_name": "VERIZON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_00566",
+      "original_query": "Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?",
+      "expanded_query": "In reference to the financial statements and disclosures presented in the fiscal years ending December 31, 2022, and December 31, 2021, has Verizon Communications Inc. experienced an increase in total indebtedness as reflected on its consolidated balance sheet?",
+      "doc_name": "VERIZON_2022_10K"
+    },
+    {
+      "financebench_id": "financebench_id_06247",
+      "original_query": "What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.",
+      "expanded_query": "In reference to the fiscal year ending January 31, 2018, please provide the calculation of Walmart Inc.'s Days Payable Outstanding (DPO). For the purposes of this inquiry, DPO shall be defined as: 365 multiplied by the average accounts payable balance for the fiscal years 2017 and 2018, divided by the sum of the Cost of Goods Sold (COGS) for the fiscal year 2018 and the change in inventory from the fiscal year 2017 to the fiscal year 2018. Kindly present your findings rounded to two decimal places, utilizing the relevant data primarily derived from the consolidated balance sheet and the consolidated statement of operations.",
+      "doc_name": "WALMART_2018_10K"
+    },
+    {
+      "financebench_id": "financebench_id_04784",
+      "original_query": "Based on the information provided primarily in the statement of income, what is the FY2018 - FY2019 change in unadjusted operating income % margin for Walmart? Answer in units of percents and round to one decimal place.",
+      "expanded_query": "In accordance with the financial information presented in the consolidated statement of income, please quantify the percentage change in unadjusted operating income margin for Walmart, as reported for the fiscal years ended January 31, 2018, and January 31, 2019. Respond in percentage terms, rounded to one decimal place.",
+      "doc_name": "WALMART_2019_10K"
+    },
+    {
+      "financebench_id": "financebench_id_06741",
+      "original_query": "What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.",
+      "expanded_query": "In reference to the fiscal years 2018 through 2020, please provide the three-year average of the unadjusted EBITDA percentage margin for Walmart Inc. For the purposes of this calculation, unadjusted EBITDA shall be defined as the sum of unadjusted operating income and depreciation and amortization as reported in the consolidated statement of cash flows. Responses should be expressed in percentage terms, rounded to one decimal place. Kindly perform this calculation utilizing the relevant line items as delineated in the consolidated statements of operations and cash flows.",
+      "doc_name": "WALMART_2020_10K"
+    }
+  ]
+}

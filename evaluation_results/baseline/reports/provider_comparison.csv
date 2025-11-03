@@ -1,0 +1,4 @@
+Provider,Text MRR,Text Recall,Text Precision,Text F1
+voyage,0.3621,0.6278,0.0614,0.1081
+openai,0.2767,0.5506,0.0591,0.1018
+ollama,0.2368,0.4385,0.0554,0.0919

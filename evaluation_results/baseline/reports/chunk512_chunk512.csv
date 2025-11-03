@@ -1,0 +1,13 @@
+Model,Chunk Size,K,Mode,Text MRR,Text Recall,Text Precision,Text F1,Page MRR,Page Recall,Page Precision,Page F1
+voyage/voyage-3-large,512,20,singledoc,0.4347,0.7044,0.0737,0.1286,0.5933,0.9267,0.1011,0.1728
+openai/text-embedding-3-large,512,20,singledoc,0.3874,0.6678,0.0781,0.1338,0.5366,0.9156,0.1033,0.1735
+voyage/voyage-3-large,512,20,global,0.3774,0.6322,0.0533,0.0958,0.5177,0.8267,0.064,0.1173
+voyage/voyage-finance-2,512,20,singledoc,0.3192,0.6233,0.0694,0.12,0.469,0.8156,0.0847,0.1452
+ollama/nomic-embed-text,512,20,singledoc,0.3518,0.6056,0.0946,0.1473,0.4396,0.8,0.1019,0.1591
+voyage/voyage-finance-2,512,20,global,0.2858,0.5533,0.053,0.0936,0.4016,0.7389,0.0577,0.1058
+ollama/bge-m3,512,20,singledoc,0.3315,0.58,0.0761,0.1274,0.387,0.7756,0.0832,0.1399
+openai/text-embedding-3-small,512,20,singledoc,0.2703,0.5433,0.0643,0.1087,0.384,0.7522,0.0839,0.1395
+openai/text-embedding-3-large,512,20,global,0.2458,0.53,0.0503,0.0893,0.3478,0.7044,0.056,0.1025
+ollama/bge-m3,512,20,global,0.2337,0.47,0.0473,0.083,0.2538,0.5967,0.043,0.0794
+ollama/nomic-embed-text,512,20,global,0.1921,0.4533,0.0427,0.0748,0.2456,0.5156,0.0373,0.0687
+openai/text-embedding-3-small,512,20,global,0.1558,0.4167,0.036,0.0644,0.2346,0.5778,0.0413,0.0762
