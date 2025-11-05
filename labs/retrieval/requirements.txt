@@ -1,3 +1,4 @@
+# requirements.txt
 # Core ML/AI libraries
 ipykernel
 openai
@@ -14,11 +15,11 @@ pymupdf
 
 # Embeddings
 sentence-transformers
-langchain
-langchain-community
-langchain-core
-langchain-ollama
-langchain-openai
+langchain<1.0.0
+langchain-community<0.4.0
+langchain-core<0.4.0
+langchain-ollama<1.0.0
+langchain-openai<1.0.0
 langchain-voyageai
 ollama
 
@@ -33,7 +34,7 @@ python-dotenv
 
 # Optional but recommended
 jupyter
-ipywidgets  # For better tqdm in notebooks
+ipywidgets
 
 # Plot
 matplotlib
