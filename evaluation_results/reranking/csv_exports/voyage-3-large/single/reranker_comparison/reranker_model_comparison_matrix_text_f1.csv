@@ -1,0 +1,4 @@
+reranker_model \ mode,single
+BAAI/bge-reranker-large,-0.70%
+cross-encoder/ms-marco-MiniLM-L-12-v2,-10.80%
+voyage-rerank-2.5,14.57%
