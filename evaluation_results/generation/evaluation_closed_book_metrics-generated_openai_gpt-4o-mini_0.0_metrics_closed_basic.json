@@ -1,0 +1,3889 @@
+{
+  "metadata": {
+    "original_file": "closed_book_metrics-generated_openai_gpt-4o-mini_0.0_metrics_closed_basic.json",
+    "mode": "closed_book",
+    "question_type": "metrics-generated",
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.0,
+    "template_alias": "metrics_closed_basic",
+    "evaluated_at": "2025-11-08T12:50:40.120160",
+    "evaluation_config": {
+      "tolerance": 0.05,
+      "llm_model": "gpt-4o-mini",
+      "temperature": 0.0,
+      "return_details": true
+    },
+    "total_questions": 50,
+    "total_evaluated": 50,
+    "evaluation_success": true
+  },
+  "results": [
+    {
+      "financebench_id": "financebench_id_03029",
+      "question": "What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.",
+      "gold_answer": "$1577.00",
+      "generated_answer": "$1,700 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.",
+        "gold_answer": "$1577.00",
+        "generated_answer": "$1,700 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 1577.0,
+            "gen_num": 1700.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 7.7996195307545975,
+            "absolute_error": 123.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 1577.0,
+            "normalized_gen": 1700.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 1577.0,
+            "gen_num": 1700.0,
+            "relative_error": 7.7996195307545975,
+            "absolute_error": 123.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer ($1,700 million) differs from the gold answer ($1,577 million) with an absolute error of 123 million, resulting in a relative error of 7.8%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 1577.0,
+              "generated_number": 1700.0,
+              "relative_error": 7.8,
+              "absolute_error": 123.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer ($1,700 million) differs from the gold answer ($1,577 million) with an absolute error of 123 million, resulting in a relative error of 7.8%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.",
+              "gold_answer": "$1577.00",
+              "generated_answer": "$1,700 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04672",
+      "question": "Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.",
+      "gold_answer": "$8.70",
+      "generated_answer": "$15 billion",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.",
+        "gold_answer": "$8.70",
+        "generated_answer": "$15 billion",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 11
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 8.7,
+            "gen_num": 15.0,
+            "gold_scale": null,
+            "gen_scale": "billion",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 72.41379310344828,
+            "absolute_error": 6.300000000000001,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 8.7,
+            "normalized_gen": 15.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 8.7,
+            "gen_num": 15.0,
+            "relative_error": 72.41379310344828,
+            "absolute_error": 6.300000000000001,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (15 billion) significantly exceeds the gold answer (8.7 billion), resulting in a relative error of approximately 72.41%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 8.7,
+              "generated_number": 15.0,
+              "relative_error": 72.41379310344826,
+              "absolute_error": 6.3,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (15 billion) significantly exceeds the gold answer (8.7 billion), resulting in a relative error of approximately 72.41%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.",
+              "gold_answer": "$8.70",
+              "generated_answer": "$15 billion"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_02987",
+      "question": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+      "gold_answer": "24.26",
+      "generated_answer": "4.06",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+        "gold_answer": "24.26",
+        "generated_answer": "4.06",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 24.26,
+            "gen_num": 4.06,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 83.2646331409728,
+            "absolute_error": 20.200000000000003,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 24.26,
+            "normalized_gen": 4.06,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 24.26,
+            "gen_num": 4.06,
+            "relative_error": 83.2646331409728,
+            "absolute_error": 20.200000000000003,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4.06) is significantly lower than the gold answer (24.26), resulting in a relative error of 83.25%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 24.26,
+              "generated_number": 4.06,
+              "relative_error": 83.25,
+              "absolute_error": 20.2,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4.06) is significantly lower than the gold answer (24.26), resulting in a relative error of 83.25%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.",
+              "gold_answer": "24.26",
+              "generated_answer": "4.06"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_07966",
+      "question": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+      "gold_answer": "1.9%",
+      "generated_answer": "4.7%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+        "gold_answer": "1.9%",
+        "generated_answer": "4.7%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 1.9,
+            "gen_num": 4.7,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 147.3684210526316,
+            "absolute_error": 2.8000000000000003,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 1.9,
+            "normalized_gen": 4.7,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 1.9,
+            "gen_num": 4.7,
+            "relative_error": 147.3684210526316,
+            "absolute_error": 2.8000000000000003,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4.7%) significantly exceeds the gold answer (1.9%) with a relative error of approximately 147.37%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 1.9,
+              "generated_number": 4.7,
+              "relative_error": 147.3684210526316,
+              "absolute_error": 2.8,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4.7%) significantly exceeds the gold answer (1.9%) with a relative error of approximately 147.37%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.",
+              "gold_answer": "1.9%",
+              "generated_answer": "4.7%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04735",
+      "question": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+      "gold_answer": "0.66",
+      "generated_answer": "1.50",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+        "gold_answer": "0.66",
+        "generated_answer": "1.50",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.66,
+            "gen_num": 1.5,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 127.27272727272727,
+            "absolute_error": 0.84,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.66,
+            "normalized_gen": 1.5,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.66,
+            "gen_num": 1.5,
+            "relative_error": 127.27272727272727,
+            "absolute_error": 0.84,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1.50) significantly differs from the gold answer (0.66) with a relative error of approximately 127.27%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.66,
+              "generated_number": 1.5,
+              "relative_error": 127.27272727272727,
+              "absolute_error": 0.84,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1.50) significantly differs from the gold answer (0.66) with a relative error of approximately 127.27%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.",
+              "gold_answer": "0.66",
+              "generated_answer": "1.50"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_07507",
+      "question": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+      "gold_answer": "65.4%",
+      "generated_answer": "20.0%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+        "gold_answer": "65.4%",
+        "generated_answer": "20.0%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 65.4,
+            "gen_num": 20.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 69.41896024464832,
+            "absolute_error": 45.400000000000006,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 65.4,
+            "normalized_gen": 20.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 65.4,
+            "gen_num": 20.0,
+            "relative_error": 69.41896024464832,
+            "absolute_error": 45.400000000000006,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (20.0%) is significantly lower than the gold answer (65.4%), resulting in a relative error of 69.4%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 65.4,
+              "generated_number": 20.0,
+              "relative_error": 69.4,
+              "absolute_error": 45.4,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (20.0%) is significantly lower than the gold answer (65.4%), resulting in a relative error of 69.4%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Adobe's year-over-year change in unadjusted operating income from FY2015 to FY2016 (in units of percents and round to one decimal place)? Give a solution to the question by using the income statement.",
+              "gold_answer": "65.4%",
+              "generated_answer": "20.0%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03856",
+      "question": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+      "gold_answer": "0.83",
+      "generated_answer": "2.33",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+        "gold_answer": "0.83",
+        "generated_answer": "2.33",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.83,
+            "gen_num": 2.33,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 180.72289156626508,
+            "absolute_error": 1.5,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.83,
+            "normalized_gen": 2.33,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.83,
+            "gen_num": 2.33,
+            "relative_error": 180.72289156626508,
+            "absolute_error": 1.5,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated number (2.33) significantly exceeds the gold answer (0.83), resulting in a relative error of 180.72%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.83,
+              "generated_number": 2.33,
+              "relative_error": 180.72,
+              "absolute_error": 1.5,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated number (2.33) significantly exceeds the gold answer (0.83), resulting in a relative error of 180.72%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2017 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places. Please utilize information provided primarily within the balance sheet and the cash flow statement.",
+              "gold_answer": "0.83",
+              "generated_answer": "2.33"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_10420",
+      "question": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+      "gold_answer": "-0.02",
+      "generated_answer": "11.11%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+        "gold_answer": "-0.02",
+        "generated_answer": "11.11%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": -0.02,
+            "gen_num": 11.11,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": true,
+            "relative_error": 55649.999999999985,
+            "absolute_error": 11.129999999999999,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": -0.02,
+            "normalized_gen": 11.11,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": -0.02,
+            "gen_num": 11.11,
+            "relative_error": 55649.999999999985,
+            "absolute_error": 11.129999999999999,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (11.11%) is significantly different from the gold answer (-0.02). The absolute error is 11.13, which results in a relative error that exceeds the 5.0% tolerance, indicating an out of tolerance match.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": -0.02,
+              "generated_number": 11.11,
+              "relative_error": null,
+              "absolute_error": 11.13,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (11.11%) is significantly different from the gold answer (-0.02). The absolute error is 11.13, which results in a relative error that exceeds the 5.0% tolerance, indicating an out of tolerance match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.",
+              "gold_answer": "-0.02",
+              "generated_answer": "11.11%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_06655",
+      "question": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+      "gold_answer": "93.86",
+      "generated_answer": "10.45",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+        "gold_answer": "93.86",
+        "generated_answer": "10.45",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 93.86,
+            "gen_num": 10.45,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 88.8663967611336,
+            "absolute_error": 83.41,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 93.86,
+            "normalized_gen": 10.45,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 93.86,
+            "gen_num": 10.45,
+            "relative_error": 88.8663967611336,
+            "absolute_error": 83.41,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (10.45) is significantly different from the gold answer (93.86), resulting in a relative error of 88.83%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 93.86,
+              "generated_number": 10.45,
+              "relative_error": 88.83,
+              "absolute_error": 83.41,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (10.45) is significantly different from the gold answer (93.86), resulting in a relative error of 88.83%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Amazon's FY2017 days payable outstanding (DPO)? DPO is defined as: 365 * (average accounts payable between FY2016 and FY2017) / (FY2017 COGS + change in inventory between FY2016 and FY2017). Round your answer to two decimal places. Address the question by using the line items and information shown within the balance sheet and the P&L statement.",
+              "gold_answer": "93.86",
+              "generated_answer": "10.45"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_08135",
+      "question": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+      "gold_answer": "30.8%",
+      "generated_answer": "30.1%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+        "gold_answer": "30.8%",
+        "generated_answer": "30.1%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 30.8,
+            "gen_num": 30.1,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 2.2727272727272703,
+            "absolute_error": 0.6999999999999993,
+            "error_category": "within_tolerance",
+            "normalized_gold": 30.8,
+            "normalized_gen": 30.1,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 30.8,
+            "gen_num": 30.1,
+            "relative_error": 2.2727272727272703,
+            "absolute_error": 0.6999999999999993,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (30.1%) is within 5% tolerance of the gold answer (30.8%). The relative error is 2.27%, which is less than 5%, indicating a match. [Auto-corrected: relative error 2.273% ≤ 5.0% tolerance]",
+            "success": true,
+            "corrected": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 30.8,
+              "generated_number": 30.1,
+              "relative_error": 2.27,
+              "absolute_error": 0.6999999999999993,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (30.1%) is within 5% tolerance of the gold answer (30.8%). The relative error is 2.27%, which is less than 5%, indicating a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Amazon's year-over-year change in revenue from FY2016 to FY2017 (in units of percents and round to one decimal place)? Calculate what was asked by utilizing the line items clearly shown in the statement of income.",
+              "gold_answer": "30.8%",
+              "generated_answer": "30.1%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_08286",
+      "question": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+      "gold_answer": "$11588.00",
+      "generated_answer": "$11,588 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+        "gold_answer": "$11588.00",
+        "generated_answer": "$11,588 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 15
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 11588.0,
+            "gen_num": 11588.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 0.0,
+            "absolute_error": 0.0,
+            "error_category": "exact_match",
+            "normalized_gold": 11588.0,
+            "normalized_gen": 11588.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 11588.0,
+            "gen_num": 11588.0,
+            "relative_error": 0.0,
+            "absolute_error": 0.0,
+            "error_category": "exact_match",
+            "justification": "Both answers represent $11,588 million. The format differs but the numerical value is identical.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 11588.0,
+              "generated_number": 11588.0,
+              "relative_error": 0.0,
+              "absolute_error": 0.0,
+              "error_category": "exact_match",
+              "justification": "Both answers represent $11,588 million. The format differs but the numerical value is identical."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+              "gold_answer": "$11588.00",
+              "generated_answer": "$11,588 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03882",
+      "question": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+      "gold_answer": "$1616.00",
+      "generated_answer": "Data not available.",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+        "gold_answer": "$1616.00",
+        "generated_answer": "Data not available.",
+        "refusal_check": {
+          "is_refusal": true,
+          "confidence": 1.0,
+          "refusal_type": "explicit",
+          "matched_pattern": "(?:data|information|details|answer)\\s+(?:is\\s+)?(?:not\\s+)?(?:available|unavailable|accessible|provided)",
+          "answer_length": 19
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 1616.0,
+            "gen_num": null,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "normalized_gold": null,
+            "normalized_gen": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 1616.0,
+            "gen_num": null,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "justification": "The generated answer indicates that data is not available, which is a refusal to provide a numerical value. Therefore, it cannot be compared to the gold answer.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 1616.0,
+              "generated_number": null,
+              "relative_error": null,
+              "absolute_error": null,
+              "error_category": "refusal",
+              "justification": "The generated answer indicates that data is not available, which is a refusal to provide a numerical value. Therefore, it cannot be compared to the gold answer."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+              "gold_answer": "$1616.00",
+              "generated_answer": "Data not available."
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": true,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03069",
+      "question": "Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?",
+      "gold_answer": "4.2%",
+      "generated_answer": "5%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?",
+        "gold_answer": "4.2%",
+        "generated_answer": "5%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 2
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 4.2,
+            "gen_num": 5.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 19.047619047619044,
+            "absolute_error": 0.7999999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 4.2,
+            "normalized_gen": 5.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 4.2,
+            "gen_num": 5.0,
+            "relative_error": 19.047619047619044,
+            "absolute_error": 0.7999999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (5.0%) exceeds the gold answer (4.2%) with a relative error of approximately 19.05%, which is greater than the 5.0% tolerance, resulting in an out of tolerance match. [Auto-corrected: relative error 19.048% > 5.0% tolerance]",
+            "success": true,
+            "corrected": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 4.2,
+              "generated_number": 5.0,
+              "relative_error": 19.04761904761905,
+              "absolute_error": 0.8,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (5.0%) exceeds the gold answer (4.2%) with a relative error of approximately 19.05%, which is greater than the 5.0% tolerance, resulting in an out of tolerance match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?",
+              "gold_answer": "4.2%",
+              "generated_answer": "5%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_05718",
+      "question": "How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.",
+      "gold_answer": "$0.40",
+      "generated_answer": "$1.2 billion",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.",
+        "gold_answer": "$0.40",
+        "generated_answer": "$1.2 billion",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 12
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.4,
+            "gen_num": 1.2,
+            "gold_scale": null,
+            "gen_scale": "billion",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 199.99999999999997,
+            "absolute_error": 0.7999999999999999,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.4,
+            "normalized_gen": 1.2,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.4,
+            "gen_num": 1200.0,
+            "relative_error": 299899.99999999994,
+            "absolute_error": 1199.6,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer of $1.2 billion (1200 million) is significantly higher than the gold answer of $0.40 (40 million), resulting in a relative error of approximately 300,000%, which far exceeds the 5% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=299999.99999999994%, but should be 299900.000%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.4,
+              "generated_number": 1200.0,
+              "relative_error": 299999.99999999994,
+              "absolute_error": 1199.6,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer of $1.2 billion (1200 million) is significantly higher than the gold answer of $0.40 (40 million), resulting in a relative error of approximately 300,000%, which far exceeds the 5% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.",
+              "gold_answer": "$0.40",
+              "generated_answer": "$1.2 billion"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04254",
+      "question": "Basing your judgments off of the cash flow statement and the income statement, what is American Water Works's FY2021 unadjusted operating income + depreciation and amortization from the cash flow statement (unadjusted EBITDA) in USD millions?",
+      "gold_answer": "$1832.00",
+      "generated_answer": "$1,200 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Basing your judgments off of the cash flow statement and the income statement, what is American Water Works's FY2021 unadjusted operating income + depreciation and amortization from the cash flow statement (unadjusted EBITDA) in USD millions?",
+        "gold_answer": "$1832.00",
+        "generated_answer": "$1,200 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 1832.0,
+            "gen_num": 1200.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 34.49781659388647,
+            "absolute_error": 632.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 1832.0,
+            "normalized_gen": 1200.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 1832.0,
+            "gen_num": 1200.0,
+            "relative_error": 34.49781659388647,
+            "absolute_error": 632.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1200 million) is significantly lower than the gold answer (1832 million), resulting in a relative error of 34.5%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 1832.0,
+              "generated_number": 1200.0,
+              "relative_error": 34.5,
+              "absolute_error": 632.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1200 million) is significantly lower than the gold answer (1832 million), resulting in a relative error of 34.5%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Basing your judgments off of the cash flow statement and the income statement, what is American Water Works's FY2021 unadjusted operating income + depreciation and amortization from the cash flow statement (unadjusted EBITDA) in USD millions?",
+              "gold_answer": "$1832.00",
+              "generated_answer": "$1,200 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_02608",
+      "question": "In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.",
+      "gold_answer": "2.8%",
+      "generated_answer": "3.5%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.",
+        "gold_answer": "2.8%",
+        "generated_answer": "3.5%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 2.8,
+            "gen_num": 3.5,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 25.000000000000007,
+            "absolute_error": 0.7000000000000002,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 2.8,
+            "normalized_gen": 3.5,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 2.8,
+            "gen_num": 3.5,
+            "relative_error": 25.000000000000007,
+            "absolute_error": 0.7000000000000002,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (3.5%) differs from the gold answer (2.8%) with a relative error of 25.0%, which exceeds the 5.0% tolerance, resulting in an out of tolerance match.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 2.8,
+              "generated_number": 3.5,
+              "relative_error": 25.0,
+              "absolute_error": 0.7,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (3.5%) differs from the gold answer (2.8%) with a relative error of 25.0%, which exceeds the 5.0% tolerance, resulting in an out of tolerance match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.",
+              "gold_answer": "2.8%",
+              "generated_answer": "3.5%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04417",
+      "question": "What is the year end FY2019 total amount of inventories for Best Buy? Answer in USD millions. Base your judgments on the information provided primarily in the balance sheet.",
+      "gold_answer": "$5409.00",
+      "generated_answer": "$3,000 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the year end FY2019 total amount of inventories for Best Buy? Answer in USD millions. Base your judgments on the information provided primarily in the balance sheet.",
+        "gold_answer": "$5409.00",
+        "generated_answer": "$3,000 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 5409.0,
+            "gen_num": 3000.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 44.53688297282307,
+            "absolute_error": 2409.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 5409.0,
+            "normalized_gen": 3000.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 5409.0,
+            "gen_num": 3000.0,
+            "relative_error": 44.53688297282307,
+            "absolute_error": 2409.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (3000 million) is significantly lower than the gold answer (5409 million), resulting in a relative error of 44.0%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=44.0%, but should be 44.537%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 5409.0,
+              "generated_number": 3000.0,
+              "relative_error": 44.0,
+              "absolute_error": 2409.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (3000 million) is significantly lower than the gold answer (5409 million), resulting in a relative error of 44.0%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the year end FY2019 total amount of inventories for Best Buy? Answer in USD millions. Base your judgments on the information provided primarily in the balance sheet.",
+              "gold_answer": "$5409.00",
+              "generated_answer": "$3,000 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04660",
+      "question": "Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+      "gold_answer": "1.73",
+      "generated_answer": "1.50",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+        "gold_answer": "1.73",
+        "generated_answer": "1.50",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 1.73,
+            "gen_num": 1.5,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 13.294797687861271,
+            "absolute_error": 0.22999999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 1.73,
+            "normalized_gen": 1.5,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 1.73,
+            "gen_num": 1.5,
+            "relative_error": 13.294797687861271,
+            "absolute_error": 0.22999999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1.50) differs from the gold answer (1.73) with an absolute error of 0.23, resulting in a relative error of approximately 13.28%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 1.73,
+              "generated_number": 1.5,
+              "relative_error": 13.28125,
+              "absolute_error": 0.23,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1.50) differs from the gold answer (1.73) with an absolute error of 0.23, resulting in a relative error of approximately 13.28%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+              "gold_answer": "1.73",
+              "generated_answer": "1.50"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03838",
+      "question": "What is the FY2019 - FY2020 total revenue growth rate for Block (formerly known as Square)? Answer in units of percents and round to one decimal place. Approach the question asked by assuming the standpoint of an investment banking analyst who only has access to the statement of income.",
+      "gold_answer": "101.5%",
+      "generated_answer": "102.1%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2019 - FY2020 total revenue growth rate for Block (formerly known as Square)? Answer in units of percents and round to one decimal place. Approach the question asked by assuming the standpoint of an investment banking analyst who only has access to the statement of income.",
+        "gold_answer": "101.5%",
+        "generated_answer": "102.1%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 101.5,
+            "gen_num": 102.1,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 0.5911330049261028,
+            "absolute_error": 0.5999999999999943,
+            "error_category": "within_tolerance",
+            "normalized_gold": 101.5,
+            "normalized_gen": 102.1,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 101.5,
+            "gen_num": 102.1,
+            "relative_error": 0.5911330049261028,
+            "absolute_error": 0.5999999999999943,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (102.1%) is within 5% tolerance of the gold answer (101.5%). The relative error is 0.590%, which is less than 5%, confirming this is a match.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 101.5,
+              "generated_number": 102.1,
+              "relative_error": 0.59,
+              "absolute_error": 0.6,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (102.1%) is within 5% tolerance of the gold answer (101.5%). The relative error is 0.590%, which is less than 5%, confirming this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2019 - FY2020 total revenue growth rate for Block (formerly known as Square)? Answer in units of percents and round to one decimal place. Approach the question asked by assuming the standpoint of an investment banking analyst who only has access to the statement of income.",
+              "gold_answer": "101.5%",
+              "generated_answer": "102.1%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_07661",
+      "question": "Using the cash flow statement, answer the following question to the best of your abilities: how much did Block (formerly known as Square) generate in cash flow from operating activities in FY2020? Answer in USD millions.",
+      "gold_answer": "$382.00",
+      "generated_answer": "$1,000 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Using the cash flow statement, answer the following question to the best of your abilities: how much did Block (formerly known as Square) generate in cash flow from operating activities in FY2020? Answer in USD millions.",
+        "gold_answer": "$382.00",
+        "generated_answer": "$1,000 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 382.0,
+            "gen_num": 1000.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 161.7801047120419,
+            "absolute_error": 618.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 382.0,
+            "normalized_gen": 1000.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 382.0,
+            "gen_num": 1000.0,
+            "relative_error": 161.7801047120419,
+            "absolute_error": 618.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1000 million) significantly exceeds the gold answer (382 million) with a relative error of 162.64%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=162.64%, but should be 161.780%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 382.0,
+              "generated_number": 1000.0,
+              "relative_error": 162.64,
+              "absolute_error": 618.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1000 million) significantly exceeds the gold answer (382 million) with a relative error of 162.64%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Using the cash flow statement, answer the following question to the best of your abilities: how much did Block (formerly known as Square) generate in cash flow from operating activities in FY2020? Answer in USD millions.",
+              "gold_answer": "$382.00",
+              "generated_answer": "$1,000 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_10285",
+      "question": "We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?",
+      "gold_answer": "$12645.00",
+      "generated_answer": "Data not available.",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?",
+        "gold_answer": "$12645.00",
+        "generated_answer": "Data not available.",
+        "refusal_check": {
+          "is_refusal": true,
+          "confidence": 1.0,
+          "refusal_type": "explicit",
+          "matched_pattern": "(?:data|information|details|answer)\\s+(?:is\\s+)?(?:not\\s+)?(?:available|unavailable|accessible|provided)",
+          "answer_length": 19
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 12645.0,
+            "gen_num": null,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "normalized_gold": null,
+            "normalized_gen": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 12645.0,
+            "gen_num": null,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "justification": "The generated answer states that data is not available, which is a refusal to provide a numerical value. Therefore, it cannot be compared to the gold answer.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 12645.0,
+              "generated_number": null,
+              "relative_error": null,
+              "absolute_error": null,
+              "error_category": "refusal",
+              "justification": "The generated answer states that data is not available, which is a refusal to provide a numerical value. Therefore, it cannot be compared to the gold answer."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?",
+              "gold_answer": "$12645.00",
+              "generated_answer": "Data not available."
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": true,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03473",
+      "question": "What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.",
+      "gold_answer": "0.01",
+      "generated_answer": "6.86%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.",
+        "gold_answer": "0.01",
+        "generated_answer": "6.86%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.01,
+            "gen_num": 6.86,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": true,
+            "relative_error": 586.0,
+            "absolute_error": 5.86,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 1.0,
+            "normalized_gen": 6.86,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.01,
+            "gen_num": 6.86,
+            "relative_error": 68500.0,
+            "absolute_error": 6.8500000000000005,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (6.86%) is significantly higher than the gold answer (0.01), resulting in a relative error of 68600%, which far exceeds the 5% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=68600.0%, but should be 68500.000%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.01,
+              "generated_number": 6.86,
+              "relative_error": 68600.0,
+              "absolute_error": 6.85,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (6.86%) is significantly higher than the gold answer (0.01), resulting in a relative error of 68600%, which far exceeds the 5% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.",
+              "gold_answer": "0.01",
+              "generated_answer": "6.86%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_09724",
+      "question": "What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.",
+      "gold_answer": "39.7%",
+      "generated_answer": "40.54%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.",
+        "gold_answer": "39.7%",
+        "generated_answer": "40.54%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 39.7,
+            "gen_num": 40.54,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 2.115869017632232,
+            "absolute_error": 0.8399999999999963,
+            "error_category": "within_tolerance",
+            "normalized_gold": 39.7,
+            "normalized_gen": 40.54,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 39.7,
+            "gen_num": 40.54,
+            "relative_error": 2.115869017632232,
+            "absolute_error": 0.8399999999999963,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (40.54%) is within 5% tolerance of the gold answer (39.7%). The relative error is 2.136%, which is less than 5%, so this is a match. [Auto-corrected: relative error 2.116% ≤ 5.0% tolerance]",
+            "success": true,
+            "corrected": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 39.7,
+              "generated_number": 40.54,
+              "relative_error": 2.136,
+              "absolute_error": 0.84,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (40.54%) is within 5% tolerance of the gold answer (39.7%). The relative error is 2.136%, which is less than 5%, so this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.",
+              "gold_answer": "39.7%",
+              "generated_answer": "40.54%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_06272",
+      "question": "What is Coca Cola's FY2022 dividend payout ratio (using total cash dividends paid and net income attributable to shareholders)? Round answer to two decimal places. Answer the question asked by assuming you only have access to information clearly displayed in the cash flow statement and the income statement.",
+      "gold_answer": "0.8",
+      "generated_answer": "78.95%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Coca Cola's FY2022 dividend payout ratio (using total cash dividends paid and net income attributable to shareholders)? Round answer to two decimal places. Answer the question asked by assuming you only have access to information clearly displayed in the cash flow statement and the income statement.",
+        "gold_answer": "0.8",
+        "generated_answer": "78.95%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 0.8,
+            "gen_num": 78.95,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": true,
+            "relative_error": 1.3124999999999964,
+            "absolute_error": 1.0499999999999972,
+            "error_category": "within_tolerance",
+            "normalized_gold": 80.0,
+            "normalized_gen": 78.95,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.8,
+            "gen_num": 78.95,
+            "relative_error": 9768.75,
+            "absolute_error": 78.15,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (78.95%) is significantly different from the gold answer (0.8) with a relative error of 9806.25%, which far exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=9806.25%, but should be 9768.750%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.8,
+              "generated_number": 78.95,
+              "relative_error": 9806.25,
+              "absolute_error": 78.15,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (78.95%) is significantly different from the gold answer (0.8) with a relative error of 9806.25%, which far exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Coca Cola's FY2022 dividend payout ratio (using total cash dividends paid and net income attributable to shareholders)? Round answer to two decimal places. Answer the question asked by assuming you only have access to information clearly displayed in the cash flow statement and the income statement.",
+              "gold_answer": "0.8",
+              "generated_answer": "78.95%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_10130",
+      "question": "Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.",
+      "gold_answer": "63.86",
+      "generated_answer": "77.69 days",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.",
+        "gold_answer": "63.86",
+        "generated_answer": "77.69 days",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 10
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 63.86,
+            "gen_num": 77.69,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 21.656749138740995,
+            "absolute_error": 13.829999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 63.86,
+            "normalized_gen": 77.69,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 63.86,
+            "gen_num": 77.69,
+            "relative_error": 21.656749138740995,
+            "absolute_error": 13.829999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (77.69 days) differs significantly from the gold answer (63.86 days) with a relative error of 21.56%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=21.56%, but should be 21.657%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 63.86,
+              "generated_number": 77.69,
+              "relative_error": 21.56,
+              "absolute_error": 13.83,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (77.69 days) differs significantly from the gold answer (63.86 days) with a relative error of 21.56%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.",
+              "gold_answer": "63.86",
+              "generated_answer": "77.69 days"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_02981",
+      "question": "Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.",
+      "gold_answer": "10.3%",
+      "generated_answer": "12.1%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.",
+        "gold_answer": "10.3%",
+        "generated_answer": "12.1%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 10.3,
+            "gen_num": 12.1,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 17.475728155339795,
+            "absolute_error": 1.799999999999999,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 10.3,
+            "normalized_gen": 12.1,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 10.3,
+            "gen_num": 12.1,
+            "relative_error": 17.475728155339795,
+            "absolute_error": 1.799999999999999,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (12.1%) differs from the gold answer (10.3%) with a relative error of 17.5%, which exceeds the 5.0% tolerance, resulting in an out of tolerance match.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 10.3,
+              "generated_number": 12.1,
+              "relative_error": 17.5,
+              "absolute_error": 1.8,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (12.1%) differs from the gold answer (10.3%) with a relative error of 17.5%, which exceeds the 5.0% tolerance, resulting in an out of tolerance match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.",
+              "gold_answer": "10.3%",
+              "generated_answer": "12.1%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04209",
+      "question": "Using only the information within the balance sheet, how much total assets did Costco have at the end of FY2021? Answer in USD millions.",
+      "gold_answer": "$59268.00",
+      "generated_answer": "$59,431 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Using only the information within the balance sheet, how much total assets did Costco have at the end of FY2021? Answer in USD millions.",
+        "gold_answer": "$59268.00",
+        "generated_answer": "$59,431 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 15
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 59268.0,
+            "gen_num": 59431.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 0.27502193426469596,
+            "absolute_error": 163.0,
+            "error_category": "within_tolerance",
+            "normalized_gold": 59268.0,
+            "normalized_gen": 59431.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 59268.0,
+            "gen_num": 59431.0,
+            "relative_error": 0.27502193426469596,
+            "absolute_error": 163.0,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (59431 million) is within 5% tolerance of the gold answer (59268 million). The relative error is 0.27%, which is less than 5%, confirming this is a match.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 59268.0,
+              "generated_number": 59431.0,
+              "relative_error": 0.27,
+              "absolute_error": 163.0,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (59431 million) is within 5% tolerance of the gold answer (59268 million). The relative error is 0.27%, which is less than 5%, confirming this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Using only the information within the balance sheet, how much total assets did Costco have at the end of FY2021? Answer in USD millions.",
+              "gold_answer": "$59268.00",
+              "generated_answer": "$59,431 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_05915",
+      "question": "What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.",
+      "gold_answer": "17.98",
+      "generated_answer": "5.22",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.",
+        "gold_answer": "17.98",
+        "generated_answer": "5.22",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 17.98,
+            "gen_num": 5.22,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 70.96774193548387,
+            "absolute_error": 12.760000000000002,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 17.98,
+            "normalized_gen": 5.22,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 17.98,
+            "gen_num": 5.22,
+            "relative_error": 70.96774193548387,
+            "absolute_error": 12.760000000000002,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (5.22) is significantly lower than the gold answer (17.98), resulting in a relative error of 70.0%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=70.0%, but should be 70.968%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 17.98,
+              "generated_number": 5.22,
+              "relative_error": 70.0,
+              "absolute_error": 12.76,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (5.22) is significantly lower than the gold answer (17.98), resulting in a relative error of 70.0%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.",
+              "gold_answer": "17.98",
+              "generated_answer": "5.22"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04103",
+      "question": "What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.",
+      "gold_answer": "-3.7",
+      "generated_answer": "108.35 days",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.",
+        "gold_answer": "-3.7",
+        "generated_answer": "108.35 days",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 11
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": -3.7,
+            "gen_num": 108.35,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 3028.3783783783783,
+            "absolute_error": 112.05,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": -3.7,
+            "normalized_gen": 108.35,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": -3.7,
+            "gen_num": 108.35,
+            "relative_error": 3028.3783783783783,
+            "absolute_error": 112.05,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (108.35 days) is significantly different from the gold answer (-3.7), resulting in an out of tolerance situation. The relative error cannot be calculated as the gold number is negative, but the difference is substantial.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": -3.7,
+              "generated_number": 108.35,
+              "relative_error": null,
+              "absolute_error": null,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (108.35 days) is significantly different from the gold answer (-3.7), resulting in an out of tolerance situation. The relative error cannot be calculated as the gold number is negative, but the difference is substantial."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.",
+              "gold_answer": "-3.7",
+              "generated_answer": "108.35 days"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03471",
+      "question": "By drawing conclusions from the information stated only in the statement of financial position, what is General Mills's FY2020 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+      "gold_answer": "0.68",
+      "generated_answer": "2.00",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "By drawing conclusions from the information stated only in the statement of financial position, what is General Mills's FY2020 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+        "gold_answer": "0.68",
+        "generated_answer": "2.00",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.68,
+            "gen_num": 2.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 194.11764705882348,
+            "absolute_error": 1.3199999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.68,
+            "normalized_gen": 2.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.68,
+            "gen_num": 2.0,
+            "relative_error": 194.11764705882348,
+            "absolute_error": 1.3199999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (2.00) significantly exceeds the gold answer (0.68), resulting in a relative error of approximately 194.12%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.68,
+              "generated_number": 2.0,
+              "relative_error": 194.11764705882354,
+              "absolute_error": 1.32,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (2.00) significantly exceeds the gold answer (0.68), resulting in a relative error of approximately 194.12%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "By drawing conclusions from the information stated only in the statement of financial position, what is General Mills's FY2020 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.",
+              "gold_answer": "0.68",
+              "generated_answer": "2.00"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04854",
+      "question": "According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.",
+      "gold_answer": "$3215.00",
+      "generated_answer": "$900 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.",
+        "gold_answer": "$3215.00",
+        "generated_answer": "$900 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 12
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 3215.0,
+            "gen_num": 900.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 72.00622083981337,
+            "absolute_error": 2315.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 3215.0,
+            "normalized_gen": 900.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 3215.0,
+            "gen_num": 900.0,
+            "relative_error": 72.00622083981337,
+            "absolute_error": 2315.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (900 million) is significantly lower than the gold answer (3215 million), resulting in a relative error of 72.05%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 3215.0,
+              "generated_number": 900.0,
+              "relative_error": 72.05,
+              "absolute_error": 2315.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (900 million) is significantly lower than the gold answer (3215 million), resulting in a relative error of 72.05%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.",
+              "gold_answer": "$3215.00",
+              "generated_answer": "$900 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_10136",
+      "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.",
+      "gold_answer": "0.54",
+      "generated_answer": "50.00%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.",
+        "gold_answer": "0.54",
+        "generated_answer": "50.00%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.54,
+            "gen_num": 50.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": true,
+            "relative_error": 7.4074074074074066,
+            "absolute_error": 4.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 54.0,
+            "normalized_gen": 50.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.54,
+            "gen_num": 0.5,
+            "relative_error": 7.407407407407414,
+            "absolute_error": 0.040000000000000036,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (50.00%) is equivalent to 0.50 when expressed as a decimal. The relative error of 7.41% exceeds the 5.0% tolerance, resulting in an out of tolerance match. [Auto-corrected: relative error 7.407% > 5.0% tolerance]",
+            "success": true,
+            "corrected": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 0.54,
+              "generated_number": 0.5,
+              "relative_error": 7.407407407407407,
+              "absolute_error": 0.04,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (50.00%) is equivalent to 0.50 when expressed as a decimal. The relative error of 7.41% exceeds the 5.0% tolerance, resulting in an out of tolerance match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.",
+              "gold_answer": "0.54",
+              "generated_answer": "50.00%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_10499",
+      "question": "What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.",
+      "gold_answer": "6.25",
+      "generated_answer": "4.55",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.",
+        "gold_answer": "6.25",
+        "generated_answer": "4.55",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 6.25,
+            "gen_num": 4.55,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 27.200000000000003,
+            "absolute_error": 1.7000000000000002,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 6.25,
+            "normalized_gen": 4.55,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 6.25,
+            "gen_num": 4.55,
+            "relative_error": 27.200000000000003,
+            "absolute_error": 1.7000000000000002,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4.55) differs significantly from the gold answer (6.25) with a relative error of 27.04%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=27.04%, but should be 27.200%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 6.25,
+              "generated_number": 4.55,
+              "relative_error": 27.04,
+              "absolute_error": 1.7,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4.55) differs significantly from the gold answer (6.25) with a relative error of 27.04%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.",
+              "gold_answer": "6.25",
+              "generated_answer": "4.55"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04412",
+      "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.",
+      "gold_answer": "1.33",
+      "generated_answer": "1.37",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.",
+        "gold_answer": "1.33",
+        "generated_answer": "1.37",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 1.33,
+            "gen_num": 1.37,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 3.0075187969924837,
+            "absolute_error": 0.040000000000000036,
+            "error_category": "within_tolerance",
+            "normalized_gold": 1.33,
+            "normalized_gen": 1.37,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 1.33,
+            "gen_num": 1.37,
+            "relative_error": 3.0075187969924837,
+            "absolute_error": 0.040000000000000036,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (1.37) is within 5.0% tolerance of the gold answer (1.33). The relative error is 3.01%, which is less than 5%, confirming this is a match.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 1.33,
+              "generated_number": 1.37,
+              "relative_error": 3.01,
+              "absolute_error": 0.04,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (1.37) is within 5.0% tolerance of the gold answer (1.33). The relative error is 3.01%, which is less than 5%, confirming this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.",
+              "gold_answer": "1.33",
+              "generated_answer": "1.37"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03031",
+      "question": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+      "gold_answer": "$5818.00",
+      "generated_answer": "$5,000 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+        "gold_answer": "$5818.00",
+        "generated_answer": "$5,000 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 5818.0,
+            "gen_num": 5000.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 14.059814369199037,
+            "absolute_error": 818.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 5818.0,
+            "normalized_gen": 5000.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 5818.0,
+            "gen_num": 5000.0,
+            "relative_error": 14.059814369199037,
+            "absolute_error": 818.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (5000 million) is significantly lower than the gold answer (5818 million), resulting in a relative error of 14.0%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=14.0%, but should be 14.060%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 5818.0,
+              "generated_number": 5000.0,
+              "relative_error": 14.0,
+              "absolute_error": 818.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (5000 million) is significantly lower than the gold answer (5818 million), resulting in a relative error of 14.0%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+              "gold_answer": "$5818.00",
+              "generated_answer": "$5,000 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03718",
+      "question": "What is Lockheed Martin's 2 year total revenue CAGR from FY2020 to FY2022 (in units of percents and round to one decimal place)? Provide a response to the question by primarily using the statement of income.",
+      "gold_answer": "0.4%",
+      "generated_answer": "1.5%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Lockheed Martin's 2 year total revenue CAGR from FY2020 to FY2022 (in units of percents and round to one decimal place)? Provide a response to the question by primarily using the statement of income.",
+        "gold_answer": "0.4%",
+        "generated_answer": "1.5%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.4,
+            "gen_num": 1.5,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 275.0,
+            "absolute_error": 1.1,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.4,
+            "normalized_gen": 1.5,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.4,
+            "gen_num": 1.5,
+            "relative_error": 275.0,
+            "absolute_error": 1.1,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1.5%) significantly exceeds the gold answer (0.4%) with a relative error of 275.0%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 0.4,
+              "generated_number": 1.5,
+              "relative_error": 275.0,
+              "absolute_error": 1.1,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1.5%) significantly exceeds the gold answer (0.4%) with a relative error of 275.0%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Lockheed Martin's 2 year total revenue CAGR from FY2020 to FY2022 (in units of percents and round to one decimal place)? Provide a response to the question by primarily using the statement of income.",
+              "gold_answer": "0.4%",
+              "generated_answer": "1.5%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04171",
+      "question": "Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.",
+      "gold_answer": "$303.00",
+      "generated_answer": "$1,200 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.",
+        "gold_answer": "$303.00",
+        "generated_answer": "$1,200 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 303.0,
+            "gen_num": 1200.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 296.03960396039605,
+            "absolute_error": 897.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 303.0,
+            "normalized_gen": 1200.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 303.0,
+            "gen_num": 1200.0,
+            "relative_error": 296.03960396039605,
+            "absolute_error": 897.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (1200 million) significantly exceeds the gold answer (303 million) with a relative error of 295.7%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=295.7%, but should be 296.040%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 303.0,
+              "generated_number": 1200.0,
+              "relative_error": 295.7,
+              "absolute_error": 897.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (1200 million) significantly exceeds the gold answer (303 million) with a relative error of 295.7%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.",
+              "gold_answer": "$303.00",
+              "generated_answer": "$1,200 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03849",
+      "question": "What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.",
+      "gold_answer": "7.9%",
+      "generated_answer": "10.0%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.",
+        "gold_answer": "7.9%",
+        "generated_answer": "10.0%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 7.9,
+            "gen_num": 10.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 26.58227848101265,
+            "absolute_error": 2.0999999999999996,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 7.9,
+            "normalized_gen": 10.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 7.9,
+            "gen_num": 10.0,
+            "relative_error": 26.58227848101265,
+            "absolute_error": 2.0999999999999996,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (10.0%) differs significantly from the gold answer (7.9%) with a relative error of 26.58%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 7.9,
+              "generated_number": 10.0,
+              "relative_error": 26.582278481012658,
+              "absolute_error": 2.1,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (10.0%) differs significantly from the gold answer (7.9%) with a relative error of 26.58%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.",
+              "gold_answer": "7.9%",
+              "generated_answer": "10.0%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04700",
+      "question": "What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.",
+      "gold_answer": "$32780.00",
+      "generated_answer": "$25,000 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.",
+        "gold_answer": "$32780.00",
+        "generated_answer": "$25,000 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 15
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 32780.0,
+            "gen_num": 25000.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 23.733984136668703,
+            "absolute_error": 7780.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 32780.0,
+            "normalized_gen": 25000.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 32780.0,
+            "gen_num": 25000.0,
+            "relative_error": 23.733984136668703,
+            "absolute_error": 7780.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (25,000 million) is significantly lower than the gold answer ($32,780 million), resulting in a relative error of 23.7%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 32780.0,
+              "generated_number": 25000.0,
+              "relative_error": 23.7,
+              "absolute_error": 7779.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (25,000 million) is significantly lower than the gold answer ($32,780 million), resulting in a relative error of 23.7%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.",
+              "gold_answer": "$32780.00",
+              "generated_answer": "$25,000 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04458",
+      "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).",
+      "gold_answer": "5.4%",
+      "generated_answer": "22.09%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).",
+        "gold_answer": "5.4%",
+        "generated_answer": "22.09%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 5.4,
+            "gen_num": 22.09,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 309.074074074074,
+            "absolute_error": 16.689999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 5.4,
+            "normalized_gen": 22.09,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 5.4,
+            "gen_num": 22.09,
+            "relative_error": 309.074074074074,
+            "absolute_error": 16.689999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (22.09%) significantly exceeds the gold answer (5.4%) with a relative error of approximately 309.81%, which is far greater than the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=309.81481481481484%, but should be 309.074%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 5.4,
+              "generated_number": 22.09,
+              "relative_error": 309.81481481481484,
+              "absolute_error": 16.69,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (22.09%) significantly exceeds the gold answer (5.4%) with a relative error of approximately 309.81%, which is far greater than the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).",
+              "gold_answer": "5.4%",
+              "generated_answer": "22.09%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03282",
+      "question": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+      "gold_answer": "$5466.00",
+      "generated_answer": "$4,200 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+        "gold_answer": "$5466.00",
+        "generated_answer": "$4,200 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 5466.0,
+            "gen_num": 4200.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 23.161361141602637,
+            "absolute_error": 1266.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 5466.0,
+            "normalized_gen": 4200.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 5466.0,
+            "gen_num": 4200.0,
+            "relative_error": 23.161361141602637,
+            "absolute_error": 1266.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4200 million) is significantly lower than the gold answer (5466 million), resulting in a relative error of 23.0%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=23.0%, but should be 23.161%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 5466.0,
+              "generated_number": 4200.0,
+              "relative_error": 23.0,
+              "absolute_error": 1266.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4200 million) is significantly lower than the gold answer (5466 million), resulting in a relative error of 23.0%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+              "gold_answer": "$5466.00",
+              "generated_answer": "$4,200 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04302",
+      "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.",
+      "gold_answer": "55.1%",
+      "generated_answer": "39.8%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.",
+        "gold_answer": "55.1%",
+        "generated_answer": "39.8%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 5
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 55.1,
+            "gen_num": 39.8,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 27.767695099818518,
+            "absolute_error": 15.300000000000004,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 55.1,
+            "normalized_gen": 39.8,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 55.1,
+            "gen_num": 39.8,
+            "relative_error": 27.767695099818518,
+            "absolute_error": 15.300000000000004,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (39.8%) is significantly lower than the gold answer (55.1%), resulting in a relative error of 28.5%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=28.5%, but should be 27.768%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 55.1,
+              "generated_number": 39.8,
+              "relative_error": 28.5,
+              "absolute_error": 15.3,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (39.8%) is significantly lower than the gold answer (55.1%), resulting in a relative error of 28.5%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.",
+              "gold_answer": "55.1%",
+              "generated_answer": "39.8%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03531",
+      "question": "According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.",
+      "gold_answer": "$16525.00",
+      "generated_answer": "$6,700 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.",
+        "gold_answer": "$16525.00",
+        "generated_answer": "$6,700 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 14
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 16525.0,
+            "gen_num": 6700.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 59.4553706505295,
+            "absolute_error": 9825.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 16525.0,
+            "normalized_gen": 6700.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 16525.0,
+            "gen_num": 6700.0,
+            "relative_error": 59.4553706505295,
+            "absolute_error": 9825.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (6700 million) is significantly lower than the gold answer (16525 million), resulting in a relative error of 59.5%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 16525.0,
+              "generated_number": 6700.0,
+              "relative_error": 59.5,
+              "absolute_error": 9825.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (6700 million) is significantly lower than the gold answer (16525 million), resulting in a relative error of 59.5%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.",
+              "gold_answer": "$16525.00",
+              "generated_answer": "$6,700 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04080",
+      "question": "When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.",
+      "gold_answer": "3.46",
+      "generated_answer": "4.00",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.",
+        "gold_answer": "3.46",
+        "generated_answer": "4.00",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 3.46,
+            "gen_num": 4.0,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 15.606936416184972,
+            "absolute_error": 0.54,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 3.46,
+            "normalized_gen": 4.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 3.46,
+            "gen_num": 4.0,
+            "relative_error": 15.606936416184972,
+            "absolute_error": 0.54,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4.00) differs from the gold answer (3.46) with an absolute error of 0.54, resulting in a relative error of 15.6%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 3.46,
+              "generated_number": 4.0,
+              "relative_error": 15.6,
+              "absolute_error": 0.54,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4.00) differs from the gold answer (3.46) with an absolute error of 0.54, resulting in a relative error of 15.6%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.",
+              "gold_answer": "3.46",
+              "generated_answer": "4.00"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04980",
+      "question": "What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.",
+      "gold_answer": "$4.60",
+      "generated_answer": "$4.2 billion",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.",
+        "gold_answer": "$4.60",
+        "generated_answer": "$4.2 billion",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 12
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 4.6,
+            "gen_num": 4.2,
+            "gold_scale": null,
+            "gen_scale": "billion",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 8.695652173913032,
+            "absolute_error": 0.39999999999999947,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 4.6,
+            "normalized_gen": 4.2,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 4.6,
+            "gen_num": 4.2,
+            "relative_error": 8.695652173913032,
+            "absolute_error": 0.39999999999999947,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (4.2 billion) differs from the gold answer (4.60 billion) with an absolute error of 0.4 billion, resulting in a relative error of approximately 8.70%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 4.6,
+              "generated_number": 4.2,
+              "relative_error": 8.695652173913043,
+              "absolute_error": 0.4,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (4.2 billion) differs from the gold answer (4.60 billion) with an absolute error of 0.4 billion, resulting in a relative error of approximately 8.70%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.",
+              "gold_answer": "$4.60",
+              "generated_answer": "$4.2 billion"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_03620",
+      "question": "What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.",
+      "gold_answer": "$9068.00",
+      "generated_answer": "$10,500 million",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.",
+        "gold_answer": "$9068.00",
+        "generated_answer": "$10,500 million",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 15
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 9068.0,
+            "gen_num": 10500.0,
+            "gold_scale": null,
+            "gen_scale": "million",
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": 15.791795324217025,
+            "absolute_error": 1432.0,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 9068.0,
+            "normalized_gen": 10500.0,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 9068.0,
+            "gen_num": 10500.0,
+            "relative_error": 15.791795324217025,
+            "absolute_error": 1432.0,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (10,500 million) is significantly higher than the gold answer (9,068 million), resulting in a relative error of 15.9%, which exceeds the 5.0% tolerance.",
+            "success": true,
+            "warning": "LLM calculated relative_error=15.9%, but should be 15.792%",
+            "raw_response": {
+              "match": false,
+              "gold_number": 9068.0,
+              "generated_number": 10500.0,
+              "relative_error": 15.9,
+              "absolute_error": 1432.0,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (10,500 million) is significantly higher than the gold answer (9,068 million), resulting in a relative error of 15.9%, which exceeds the 5.0% tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.",
+              "gold_answer": "$9068.00",
+              "generated_answer": "$10,500 million"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04481",
+      "question": "What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.",
+      "gold_answer": "16.5%",
+      "generated_answer": "16.25%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.",
+        "gold_answer": "16.5%",
+        "generated_answer": "16.25%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 6
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 16.5,
+            "gen_num": 16.25,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 1.5151515151515151,
+            "absolute_error": 0.25,
+            "error_category": "within_tolerance",
+            "normalized_gold": 16.5,
+            "normalized_gen": 16.25,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 16.5,
+            "gen_num": 16.25,
+            "relative_error": 1.5151515151515151,
+            "absolute_error": 0.25,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (16.25%) is within 5% tolerance of the gold answer (16.5%). The relative error is approximately 1.52%, which is less than 5%, confirming this is a match.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 16.5,
+              "generated_number": 16.25,
+              "relative_error": 1.5151515151515151,
+              "absolute_error": 0.25,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (16.25%) is within 5% tolerance of the gold answer (16.5%). The relative error is approximately 1.52%, which is less than 5%, confirming this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.",
+              "gold_answer": "16.5%",
+              "generated_answer": "16.25%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_06247",
+      "question": "What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.",
+      "gold_answer": "42.69",
+      "generated_answer": "DPO calculation requires specific financial data.",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.",
+        "gold_answer": "42.69",
+        "generated_answer": "DPO calculation requires specific financial data.",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 49
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 42.69,
+            "gen_num": null,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": false,
+            "gen_is_percentage": false,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "normalized_gold": null,
+            "normalized_gen": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 42.69,
+            "gen_num": null,
+            "relative_error": null,
+            "absolute_error": null,
+            "error_category": "refusal",
+            "justification": "The generated answer indicates a refusal to provide a numerical value, stating that specific financial data is required for the calculation.",
+            "success": true,
+            "raw_response": {
+              "match": false,
+              "gold_number": 42.69,
+              "generated_number": null,
+              "relative_error": null,
+              "absolute_error": null,
+              "error_category": "refusal",
+              "justification": "The generated answer indicates a refusal to provide a numerical value, stating that specific financial data is required for the calculation."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.",
+              "gold_answer": "42.69",
+              "generated_answer": "DPO calculation requires specific financial data."
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_04784",
+      "question": "Based on the information provided primarily in the statement of income, what is the FY2018 - FY2019 change in unadjusted operating income % margin for Walmart? Answer in units of percents and round to one decimal place.",
+      "gold_answer": "0.2%",
+      "generated_answer": "0.3%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "Based on the information provided primarily in the statement of income, what is the FY2018 - FY2019 change in unadjusted operating income % margin for Walmart? Answer in units of percents and round to one decimal place.",
+        "gold_answer": "0.2%",
+        "generated_answer": "0.3%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": false,
+            "gold_num": 0.2,
+            "gen_num": 0.3,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 49.999999999999986,
+            "absolute_error": 0.09999999999999998,
+            "error_category": "out_of_tolerance",
+            "normalized_gold": 0.2,
+            "normalized_gen": 0.3,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": false,
+            "gold_num": 0.2,
+            "gen_num": 0.3,
+            "relative_error": 49.999999999999986,
+            "absolute_error": 0.09999999999999998,
+            "error_category": "out_of_tolerance",
+            "justification": "The generated answer (0.3%) differs from the gold answer (0.2%) with an absolute error of 0.1%. This results in a relative error of 50.0%, which exceeds the 5.0% tolerance, thus it is out of tolerance. [Auto-corrected: relative error 50.000% > 5.0% tolerance]",
+            "success": true,
+            "corrected": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 0.2,
+              "generated_number": 0.3,
+              "relative_error": 50.0,
+              "absolute_error": 0.1,
+              "error_category": "out_of_tolerance",
+              "justification": "The generated answer (0.3%) differs from the gold answer (0.2%) with an absolute error of 0.1%. This results in a relative error of 50.0%, which exceeds the 5.0% tolerance, thus it is out of tolerance."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "Based on the information provided primarily in the statement of income, what is the FY2018 - FY2019 change in unadjusted operating income % margin for Walmart? Answer in units of percents and round to one decimal place.",
+              "gold_answer": "0.2%",
+              "generated_answer": "0.3%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    },
+    {
+      "financebench_id": "financebench_id_06741",
+      "question": "What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.",
+      "gold_answer": "6.2%",
+      "generated_answer": "6.5%",
+      "question_type": "metrics-generated",
+      "evaluation": {
+        "question_type": "metrics-generated",
+        "question": "What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.",
+        "gold_answer": "6.2%",
+        "generated_answer": "6.5%",
+        "refusal_check": {
+          "is_refusal": false,
+          "confidence": 1.0,
+          "refusal_type": "none",
+          "matched_pattern": null,
+          "answer_length": 4
+        },
+        "metrics": {
+          "numerical_exact_match": {
+            "match": true,
+            "gold_num": 6.2,
+            "gen_num": 6.5,
+            "gold_scale": null,
+            "gen_scale": null,
+            "gold_is_percentage": true,
+            "gen_is_percentage": true,
+            "relative_error": 4.838709677419352,
+            "absolute_error": 0.2999999999999998,
+            "error_category": "within_tolerance",
+            "normalized_gold": 6.2,
+            "normalized_gen": 6.5,
+            "common_scale": null
+          },
+          "llm_as_judge_binary": {
+            "match": true,
+            "gold_num": 6.2,
+            "gen_num": 6.5,
+            "relative_error": 4.838709677419352,
+            "absolute_error": 0.2999999999999998,
+            "error_category": "within_tolerance",
+            "justification": "The generated answer (6.5%) is within 5.0% tolerance of the gold answer (6.2%). The relative error is approximately 4.84%, which is less than 5%, confirming this is a match.",
+            "success": true,
+            "raw_response": {
+              "match": true,
+              "gold_number": 6.2,
+              "generated_number": 6.5,
+              "relative_error": 4.838709677419355,
+              "absolute_error": 0.3,
+              "error_category": "within_tolerance",
+              "justification": "The generated answer (6.5%) is within 5.0% tolerance of the gold answer (6.2%). The relative error is approximately 4.84%, which is less than 5%, confirming this is a match."
+            },
+            "metadata": {
+              "provider": "openai",
+              "model": "gpt-4o-mini",
+              "temperature": 0.0,
+              "tolerance": 0.05,
+              "question": "What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.",
+              "gold_answer": "6.2%",
+              "generated_answer": "6.5%"
+            }
+          }
+        },
+        "summary": {
+          "question_type": "metrics-generated",
+          "refusal_detected": false,
+          "metrics_computed": [
+            "numerical_exact_match",
+            "llm_as_judge_binary"
+          ],
+          "evaluation_complete": true,
+          "errors": []
+        }
+      },
+      "evaluation_success": true,
+      "retry_count": 0
+    }
+  ]
+}

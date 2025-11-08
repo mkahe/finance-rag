@@ -5,3 +5,8 @@ langchain-anthropic
 langchain-community
 python-dotenv
 tqdm
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
