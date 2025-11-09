@@ -8,6 +8,8 @@ oracle,metrics-generated,openai,gpt-4o,metrics_rag_basic,50,0.0,,,,,,,,,,,,,,,,9
 oracle,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic,50,0.0,,,,,,,,,,,,,,,,90.0,173.658189277287,0.0,86.0,852.7356059439536,0.0,96.0,,,,,,,
 oracle,novel-generated,openai,gpt-4o-mini,novel_rag_basic,50,0.02,2.72,3.0,1.4002915148391823,,,7.0,14.000000000000002,2.0,4.0,9.0,18.0,12.0,24.0,20.0,40.0,,,,,,,,0.413638099664079,0.4105263157894737,0.22882191808806038,0.0,0.9333333333333333,0.4791216511534917,0.4776676766322423
 rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_global_chunk1024_rerank_k20,50,0.0,,,,,,,,,,,,,,,,82.0,2000111.4590333616,0.0,82.0,2465.6973099762,0.0,96.0,,,,,,,
+rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_global_chunk512_baseline_k20,50,0.0,,,,,,,,,,,,,,,,78.0,106.26546145199191,0.0,76.0,1591.2028781186586,0.0,98.0,,,,,,,
 rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_global_chunk512_rerank_k20,50,0.0,,,,,,,,,,,,,,,,80.0,2815.183186207091,0.0,76.0,4369.05393620709,0.0,96.0,,,,,,,
 rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_single_chunk1024_rerank_k20,50,0.0,,,,,,,,,,,,,,,,88.0,2180.3869826518926,0.0,84.0,2859.1361493185595,0.0,96.0,,,,,,,
+rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_single_chunk512_baseline_k20,50,0.0,,,,,,,,,,,,,,,,84.0,2209.3204389723587,0.0,80.0,2888.031188972359,0.0,96.0,,,,,,,
 rag,metrics-generated,openai,gpt-4o-mini,metrics_rag_basic_single_chunk512_rerank_k20,50,0.0,,,,,,,,,,,,,,,,80.0,4125.092347231346,0.0,76.0,4804.169763898013,0.0,96.0,,,,,,,
